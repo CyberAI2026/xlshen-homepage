@@ -252,6 +252,26 @@
     ]
   },
   {
+    "id": "highly-cited-china-2025",
+    "title": "入选爱思唯尔2025年度“中国高被引学者”",
+    "detail": "爱思唯尔发布2025年度“中国高被引学者”榜单，沈校亮入选管理科学与工程学科。",
+    "date": "2026-01-30",
+    "subcategory": "学术荣誉",
+    "category": "research",
+    "role": "",
+    "sources": [
+      {
+        "label": "入选证书（PNG）",
+        "url": "assets/elsevier-highly-cited-2025.png"
+      },
+      {
+        "label": "爱思唯尔发布公告",
+        "url": "https://www.elsevier.com/zh-cn/about/press-releases/elsevier-chinese-news-20260130"
+      }
+    ],
+    "date_label": "2026年1月30日"
+  },
+  {
     "id": "pub-f14db7777bbb49",
     "category": "research",
     "subcategory": "期刊论文",
@@ -298,6 +318,28 @@
         "url": "https://wap.ipub.exuezhe.com/Qk/Qk_menu?dh=G9&nf=2026&qh=04"
       }
     ]
+  },
+  {
+    "id": "mem-teaching-ai-2026",
+    "title": "主持武汉大学工程管理硕士教育教学改革研究项目",
+    "detail": "沈校亮主持的武汉大学工程管理硕士（MEM）教育教学改革研究项目《“工程+管理+AI”融合的MEM数智人才全链条培养模式与协同育人生态构建研究》获批。",
+    "date": "2026",
+    "subcategory": "教学改革",
+    "category": "teaching",
+    "role": "项目负责人",
+    "sources": [],
+    "date_label": "2026年"
+  },
+  {
+    "id": "future-teacher-care-2026",
+    "title": "主持武汉大学本科教育质量建设综合改革项目",
+    "detail": "沈校亮主持武汉大学2026年本科教育质量建设综合改革项目《面向拔尖创新人才培养的未来教师“数智化关怀能力”提升研究与实践》，项目类别为未来教育教学改革类。",
+    "date": "2026",
+    "subcategory": "教学改革",
+    "category": "teaching",
+    "role": "项目负责人",
+    "sources": [],
+    "date_label": "2026年"
   },
   {
     "id": "teaching-national-market-research",
@@ -371,6 +413,22 @@
     ]
   },
   {
+    "id": "fact-6dfac15cb15b12",
+    "title": "担任武汉大学信息管理学院期刊与学术交流中心主任",
+    "detail": "2025年11月起，沈校亮担任武汉大学信息管理学院期刊与学术交流中心主任。",
+    "date": "2025-11",
+    "subcategory": "校内任职",
+    "category": "service",
+    "role": "主任",
+    "sources": [
+      {
+        "label": "资料来源",
+        "url": "https://iceb2026.buaa.edu.cn/Doctoral_Consortium.html"
+      }
+    ],
+    "date_label": "2025年11月"
+  },
+  {
     "id": "fact-451d83b44bd7bd",
     "category": "service",
     "subcategory": "期刊进展",
@@ -396,6 +454,48 @@
     "role": "",
     "detail": "担任第 16 届电子商务、管理与经济学国际会议（ICEME 2025）宣传主席。",
     "sources": []
+  },
+  {
+    "id": "fact-9d6e7dbd36d1e4",
+    "title": "武汉大学工程管理项目中心成立",
+    "detail": "3月26日，武汉大学工程管理项目中心成立。沈校亮任中心副主任。",
+    "date": "2025-03-26",
+    "subcategory": "校内任职",
+    "category": "service",
+    "role": "副主任",
+    "sources": [],
+    "date_label": "2025年3月26日"
+  },
+  {
+    "id": "highly-cited-china-2024",
+    "title": "入选爱思唯尔2024年度“中国高被引学者”",
+    "detail": "爱思唯尔发布2024年度“中国高被引学者”榜单，沈校亮入选管理科学与工程学科。",
+    "date": "2025-03-25",
+    "subcategory": "学术荣誉",
+    "category": "research",
+    "role": "",
+    "sources": [
+      {
+        "label": "入选证书（PNG）",
+        "url": "assets/elsevier-highly-cited-2024.png"
+      },
+      {
+        "label": "爱思唯尔发布公告",
+        "url": "https://www.elsevier.com/zh-cn/about/press-releases/elsevier-chinese-news-20250325"
+      }
+    ],
+    "date_label": "2025年3月25日"
+  },
+  {
+    "id": "whu-mem-committee-2025",
+    "title": "武汉大学工程管理专业学位研究生教育指导委员会成立",
+    "detail": "3月20日，武汉大学工程管理专业学位研究生教育指导委员会成立。沈校亮任副主任委员。",
+    "date": "2025-03-20",
+    "subcategory": "校内任职",
+    "category": "service",
+    "role": "副主任委员",
+    "sources": [],
+    "date_label": "2025年3月20日"
   },
   {
     "id": "fact-3a5ba955552980",
@@ -672,6 +772,33 @@
     "sources": []
   },
   {
+    "id": "excellent-sanchuang-instructor-2025",
+    "title": "获第十五届全国大学生电子商务“三创赛”优秀指导教师",
+    "detail": "沈校亮获第十五届全国大学生电子商务“创新、创意及创业”挑战赛优秀指导教师。",
+    "date": "2025",
+    "subcategory": "学生指导",
+    "category": "teaching",
+    "role": "优秀指导教师",
+    "sources": [
+      {
+        "label": "三创赛全国总决赛优秀指导教师公示",
+        "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2025/08/22/131c72eb256fcafea77332578693e8e0.pdf"
+      }
+    ],
+    "date_label": "2025年"
+  },
+  {
+    "id": "luojia-teaching-forum-paper-2025",
+    "title": "获武汉大学第六届“教与学的革命”珞珈论坛教师论文二等奖",
+    "detail": "沈校亮撰写的《数智化关怀赋能拔尖创新人才培养：基于多智能体协同的大学生心理健康智能诊断研究》获武汉大学第六届“教与学的革命”珞珈论坛教师论文二等奖。",
+    "date": "2025",
+    "subcategory": "教学荣誉",
+    "category": "teaching",
+    "role": "论文作者",
+    "sources": [],
+    "date_label": "2025年"
+  },
+  {
     "id": "fact-5a5055b9a1ba05",
     "category": "service",
     "subcategory": "会议服务",
@@ -686,6 +813,17 @@
         "url": "https://icis2024.aisconferences.org/submissions/track-descriptions/"
       }
     ]
+  },
+  {
+    "id": "sim-mem-director-2024",
+    "title": "接任武汉大学信息管理学院 MEM 项目主任",
+    "detail": "2024年9月4日起，沈校亮担任武汉大学信息管理学院工程管理硕士（MEM）项目主任。",
+    "date": "2024-09-04",
+    "subcategory": "校内任职",
+    "category": "service",
+    "role": "项目主任",
+    "sources": [],
+    "date_label": "2024年9月4日"
   },
   {
     "id": "fact-5d5e6f1975c34e",
@@ -742,6 +880,22 @@
         "url": "https://www.ischools.org/post/iconference-2024-paper-award-finalist-announcement"
       }
     ]
+  },
+  {
+    "id": "highly-cited-china-2023",
+    "title": "入选爱思唯尔2023年度“中国高被引学者”",
+    "detail": "爱思唯尔发布2023年度“中国高被引学者”榜单，沈校亮入选。",
+    "date": "2024-03-27",
+    "subcategory": "学术荣誉",
+    "category": "research",
+    "role": "",
+    "sources": [
+      {
+        "label": "爱思唯尔发布公告",
+        "url": "https://www.elsevier.com/zh-cn/about/press-releases/elsevier-chinese-news-20240327"
+      }
+    ],
+    "date_label": "2024年3月27日"
   },
   {
     "id": "grant-ai-governance-2024",
@@ -815,19 +969,23 @@
   },
   {
     "id": "teaching-sanchuang-national-2024",
-    "category": "teaching",
-    "subcategory": "学生指导",
+    "title": "“驼铃”获第十四届三创赛常规赛全国总决赛一等奖",
+    "detail": "贺超城、沈校亮共同指导“丝路小纵队”完成《驼铃——讲述中国故事的跨境智能商务平台》，获第十四届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛一等奖。沈校亮获优秀指导教师。",
     "date": "2024",
-    "date_label": "2024年",
-    "title": "第十四届三创赛常规赛全国总决赛一等奖",
-    "role": "",
-    "detail": "与贺超城共同指导“丝路小纵队”，获第十四届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛一等奖。",
+    "subcategory": "学生指导",
+    "category": "teaching",
+    "role": "指导教师、优秀指导教师",
     "sources": [
       {
-        "label": "武汉大学新闻网",
+        "label": "三创赛全国决赛获奖公示",
+        "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/08/26/927bff34787bce33c2d61be0d993d23c.pdf"
+      },
+      {
+        "label": "武汉大学比赛报道",
         "url": "https://news.whu.edu.cn/info/1007/464187.htm"
       }
-    ]
+    ],
+    "date_label": "2024年"
   },
   {
     "id": "teaching-sanchuang-hubei-2024",
@@ -1057,15 +1215,20 @@
     "sources": []
   },
   {
-    "id": "highly-cited-china-2023",
-    "category": "research",
+    "id": "fact-b14ca893e6550e",
+    "title": "入选爱思唯尔2022年度“中国高被引学者”",
+    "detail": "爱思唯尔发布2022年度“中国高被引学者”榜单，沈校亮入选。",
+    "date": "2023-03-28",
     "subcategory": "学术荣誉",
-    "date": "2023",
-    "date_label": "2023年",
-    "title": "2023年度爱思唯尔中国高被引学者",
+    "category": "research",
     "role": "",
-    "detail": "入选爱思唯尔2023年度“中国高被引学者”榜单。",
-    "sources": []
+    "sources": [
+      {
+        "label": "爱思唯尔发布公告",
+        "url": "https://www.elsevier.com/zh-cn/about/press-releases/2022-chinese-highly-cited-researchers"
+      }
+    ],
+    "date_label": "2023年3月28日"
   },
   {
     "id": "fact-b72412a8a25b44",
@@ -1368,7 +1531,7 @@
   {
     "id": "pub-614826d63d4a02",
     "category": "research",
-    "subcategory": "会议报告",
+    "subcategory": "会议论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "Self-others (In)congruence and Intention to Correct Misinformation: A Polynomial Regression with Response Surface Analysis",
@@ -1376,8 +1539,8 @@
     "detail": "Xiao-Liang Shen, You Wu · 中国系统工程学会信息系统工程专业委员会2023学术年会 · CNAIS 2023，杭州",
     "sources": [
       {
-        "label": "武汉纺织大学 · 合作者成果目录",
-        "url": "https://em.wtu.edu.cn/info/1152/13078.htm"
+        "label": "CNAIS 2023 最新会议议程",
+        "url": "https://cfm.zjuyh.com/MettingManage/Resource/kindeditor-4.1.10/attached/file/20231016/20231016214523_0079.pdf"
       }
     ]
   },
@@ -1416,17 +1579,6 @@
         "url": "https://teacher.higher.smartedu.cn/h/subject/summer2022/vade/"
       }
     ]
-  },
-  {
-    "id": "fact-b14ca893e6550e",
-    "category": "research",
-    "subcategory": "学术荣誉",
-    "date": "2022",
-    "date_label": "2022年",
-    "title": "2022年度爱思唯尔中国高被引学者",
-    "role": "",
-    "detail": "入选爱思唯尔2022年度“中国高被引学者”榜单。",
-    "sources": []
   },
   {
     "id": "fact-727464dd4f7748",
@@ -1630,7 +1782,7 @@
     "date": "2022",
     "date_label": "2022年",
     "title": "中和技术对辟谣信息分享的抑制作用和缓解机制",
-    "role": "",
+    "role": "第一作者",
     "detail": "沈校亮，吴忧，丁奕童，康悦 · 管理科学 · 35(6), 70–82",
     "sources": [
       {
@@ -1642,7 +1794,7 @@
   {
     "id": "pub-7e978e2fc97328",
     "category": "research",
-    "subcategory": "会议报告",
+    "subcategory": "会议论文",
     "date": "2022",
     "date_label": "2022年",
     "title": "Empathic AI agents and Human-AI Relationship: Impact Mechanisms, Comparative Effects, and Journey Stage Differences",
@@ -1650,8 +1802,8 @@
     "detail": "Bo Yang, Yongqiang Sun, Xiao-Liang Shen · 第十届中国信息系统学术年会 · CNAIS 2022，12月4日议程",
     "sources": [
       {
-        "label": "资料来源",
-        "url": "https://easychair.org/smart-program/CNAIS2022/2022-12-04.html"
+        "label": "CNAIS 2022 录用论文目录",
+        "url": "https://easychair.org/smart-program/CNAIS2022/accepted.html"
       }
     ]
   },
@@ -1894,7 +2046,7 @@
   {
     "id": "pub-7b9e7cd5c7c8d8",
     "category": "research",
-    "subcategory": "会议报告",
+    "subcategory": "会议论文",
     "date": "2021",
     "date_label": "2021年",
     "title": "缺陷人工智能设计和不信任视角下用户对智能客服的抵制行为研究",
@@ -2127,57 +2279,69 @@
     ]
   },
   {
-    "id": "fact-9d6e7dbd36d1e4",
-    "category": "service",
-    "subcategory": "行政与学术任职",
-    "date": "",
-    "date_label": "现任职务",
-    "title": "武汉大学工程管理项目中心及校 MEM 教指委",
-    "role": "",
-    "detail": "任武汉大学工程管理项目中心副主任、武汉大学工程管理专业学位（MEM）研究生教育指导委员会副主任委员。",
-    "sources": []
-  },
-  {
-    "id": "fact-6dfac15cb15b12",
-    "category": "service",
-    "subcategory": "行政与学术任职",
-    "date": "",
-    "date_label": "现任职务",
-    "title": "武汉大学信息管理学院期刊与学术交流中心主任",
-    "role": "",
-    "detail": "任武汉大学信息管理学院期刊与学术交流中心主任。",
-    "sources": [
-      {
-        "label": "资料来源",
-        "url": "https://iceb2026.buaa.edu.cn/Doctoral_Consortium.html"
-      }
-    ]
-  },
-  {
     "id": "teaching-undergraduate-courses",
-    "category": "teaching",
-    "subcategory": "本科课程",
+    "title": "《信息管理学基础》",
+    "detail": "每学期讲授《信息管理学基础》。",
     "date": "",
-    "date_label": "讲授课程",
-    "title": "本科教学",
+    "subcategory": "授课",
+    "category": "teaching",
     "role": "",
-    "detail": "本科教学包括《信息管理学基础》《社会调查与统计分析》（理论、实验）和《电子商务》。",
-    "sources": [
-      {
-        "label": "武汉大学经管院 · 《电子商务》授课记录",
-        "url": "https://ems.whu.edu.cn/info/1539/17541.htm"
-      }
-    ]
+    "sources": [],
+    "date_label": "每学期开设"
   },
   {
     "id": "teaching-research-writing",
-    "category": "teaching",
-    "subcategory": "研究生课程",
+    "title": "《科研选题与学术论文写作》",
+    "detail": "面向学术型硕士研究生讲授《科研选题与学术论文写作》。",
     "date": "",
-    "date_label": "讲授课程",
-    "title": "研究生教学",
+    "subcategory": "授课",
+    "category": "teaching",
     "role": "",
-    "detail": "主讲课程包括《科研选题与学术写作》《专业学位论文写作指导》《博士论文写作指导》《管理学研究方法论》和《管理科学与工程前沿研究》。",
-    "sources": []
+    "sources": [],
+    "date_label": "学术型硕士研究生"
+  },
+  {
+    "id": "course-doctoral-writing",
+    "title": "《论文写作指导》",
+    "detail": "面向博士研究生讲授《论文写作指导》。",
+    "date": "",
+    "subcategory": "授课",
+    "category": "teaching",
+    "role": "",
+    "sources": [],
+    "date_label": "博士研究生"
+  },
+  {
+    "id": "course-mem-writing",
+    "title": "《专业学位论文写作指导》",
+    "detail": "面向非全日制工程管理硕士（MEM）讲授《专业学位论文写作指导》。",
+    "date": "",
+    "subcategory": "授课",
+    "category": "teaching",
+    "role": "",
+    "sources": [],
+    "date_label": "非全日制工程管理硕士（MEM）"
+  },
+  {
+    "id": "course-social-survey",
+    "title": "《社会调查与统计分析》",
+    "detail": "曾讲授《社会调查与统计分析》。",
+    "date": "",
+    "subcategory": "授课",
+    "category": "teaching",
+    "role": "",
+    "sources": [],
+    "date_label": "曾授课程"
+  },
+  {
+    "id": "course-management-methods",
+    "title": "《管理学研究方法》",
+    "detail": "曾讲授《管理学研究方法》。",
+    "date": "",
+    "subcategory": "授课",
+    "category": "teaching",
+    "role": "",
+    "sources": [],
+    "date_label": "曾授课程"
   }
 ]

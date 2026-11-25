@@ -60,7 +60,7 @@ def record_html(row):
     sources = []
     for src in row["sources"]:
         url = src["url"]
-        download = " download" if not urlsplit(url).netloc and url.lower().endswith((".pdf", ".zip")) else ""
+        download = " download" if not urlsplit(url).netloc and url.lower().endswith((".pdf", ".zip", ".png", ".jpg", ".jpeg")) else ""
         sources.append(f'<a href="{escape(url, quote=True)}"{download}>{escape(src["label"])}</a>')
     links = " ".join(sources) if sources else "个人履历"
     role = f'\n        <p class="fact-role"><span>角色</span>　{escape(row["role"])}</p>' if row["role"] else ""
