@@ -44,7 +44,7 @@ def load_records(site):
             raise ValueError(f"Invalid date: {rid}")
         if row["date_label"] is not None and not isinstance(row["date_label"], str):
             raise ValueError(f"Invalid date label: {rid}")
-        if not isinstance(row["sources"], list) or not row["sources"]:
+        if not isinstance(row["sources"], list):
             raise ValueError(f"Missing source: {rid}")
         for src in row["sources"]:
             if (set(src) != {"label", "url"} or not isinstance(src["label"], str)
@@ -62,7 +62,7 @@ def record_html(row):
         url = src["url"]
         download = " download" if not urlsplit(url).netloc and url.lower().endswith((".pdf", ".zip")) else ""
         sources.append(f'<a href="{escape(url, quote=True)}"{download}>{escape(src["label"])}</a>')
-    links = " ".join(sources)
+    links = " ".join(sources) if sources else "个人履历"
     role = f'\n        <p class="fact-role"><span>角色</span>　{escape(row["role"])}</p>' if row["role"] else ""
     year = escape(row["date"][:4]) if row["date"] else "current"
     rid = row["id"]
@@ -106,7 +106,7 @@ def build_facts(site=SITE):
     head = head.replace('class="nav-link" href="facts.html"', 'class="nav-link" href="facts.html" aria-current="page"')
     body = f"""<main id="main"><div class="wrap inner archive">
       <h1>成果与活动</h1>
-      <p class="lead">按教学、科研和社会服务查阅沈校亮的公开记录，每条附资料来源。</p>
+      <p class="lead">查阅教学、科研和社会服务记录，可按年份、类别或关键词筛选。</p>
       <div class="archive-tools" data-archive-controls hidden>
         <div class="filter-row"><div class="filter-options" role="group" aria-label="按类别筛选">{''.join(filters)}</div>
           <label class="record-search"><span>检索记录</span><input type="search" id="archive-search" placeholder="名称、年份或关键词" autocomplete="off"></label>

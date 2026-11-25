@@ -1,5 +1,25 @@
 [
   {
+    "id": "ai-faculty-training-2026",
+    "category": "teaching",
+    "subcategory": "师资培训",
+    "title": "完成人工智能赋能高等教育人才培养系列师资培训",
+    "date": "2026-11-25",
+    "date_label": "2026年11月25日",
+    "role": "",
+    "detail": "沈校亮完成教育部高等教育司主办的2026年度“人工智能赋能高等教育人才培养”系列师资培训（未来教师、实验教学、文科专项），共16学时，11月25日获颁证书。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/ai-faculty-training-2026.pdf"
+      },
+      {
+        "label": "师资培训通知",
+        "url": "https://www.glmu.edu.cn/jsfzzx/info/1034/2730.htm"
+      }
+    ]
+  },
+  {
     "id": "teaching-reception-lab",
     "category": "teaching",
     "subcategory": "课程实验",
@@ -36,6 +56,22 @@
       {
         "label": "《图书情报知识》原文",
         "url": "https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2025.05.087"
+      }
+    ]
+  },
+  {
+    "id": "whu-faculty-career-2026",
+    "category": "service",
+    "subcategory": "青年教职工交流",
+    "title": "主持“规划引领·成长有约”职业规划分享会",
+    "date": "2026-11-19",
+    "date_label": "2026年11月19日",
+    "role": "主持人",
+    "detail": "11月19日，沈校亮主持武汉大学青年教职工交流协会“规划引领·成长有约”职业规划分享会。",
+    "sources": [
+      {
+        "label": "武汉大学工会活动报道",
+        "url": "https://gh.whu.edu.cn/info/1047/22001.htm"
       }
     ]
   },
@@ -80,6 +116,22 @@
     ]
   },
   {
+    "id": "sanchuang-hubei-data-2026",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "指导学生获第十六届三创赛湖北省商务大数据分析实战赛一等奖",
+    "date": "2026-09-30",
+    "date_label": "2026年9月30日（学院报道）",
+    "role": "共同指导教师",
+    "detail": "沈校亮、王楠共同指导“就想拿点小奖”团队，获第十六届全国大学生电子商务“创新、创意及创业”挑战赛湖北省赛商务大数据分析实战赛一等奖。",
+    "sources": [
+      {
+        "label": "武汉大学信息管理学院获奖报道",
+        "url": "https://sim.whu.edu.cn/info/1748/116202.htm"
+      }
+    ]
+  },
+  {
     "id": "fact-c6a2a2aec8ea99",
     "category": "service",
     "subcategory": "会议服务",
@@ -96,6 +148,26 @@
     ]
   },
   {
+    "id": "mem-assessor-training-2026",
+    "category": "teaching",
+    "subcategory": "专业学位教育",
+    "title": "参加工程管理硕士申请学位实践成果评审专家研讨会",
+    "date": "2026-07-04",
+    "date_label": "2026年7月4日",
+    "role": "",
+    "detail": "沈校亮于7月3日至4日参加全国工程管理专业学位研究生教育指导委员会举办的工程管理硕士申请学位实践成果评审专家研讨会，完成全部议程，7月4日获颁培训交流证书。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/mem-assessor-training-2026.pdf"
+      },
+      {
+        "label": "西安交通大学研讨会报道",
+        "url": "https://news.xjtu.edu.cn/info/1219/232920.htm"
+      }
+    ]
+  },
+  {
     "id": "dim-jcr-2026",
     "category": "service",
     "subcategory": "期刊进展",
@@ -108,6 +180,58 @@
       {
         "label": "武汉大学新闻网",
         "url": "https://news.whu.edu.cn/info/1015/499067.htm"
+      }
+    ]
+  },
+  {
+    "id": "whu-faculty-interdisciplinary-2026",
+    "category": "service",
+    "subcategory": "青年教职工交流",
+    "title": "出席“自科交叉 跨界成长”跨学科融合沙龙",
+    "date": "2026-06-17",
+    "date_label": "2026年6月17日",
+    "role": "出席",
+    "detail": "6月17日，沈校亮以武汉大学青年教职工交流协会理事长身份出席“自科交叉 跨界成长”跨学科融合沙龙。",
+    "sources": [
+      {
+        "label": "武汉大学工会活动报道",
+        "url": "https://gh.whu.edu.cn/info/1047/19961.htm"
+      }
+    ]
+  },
+  {
+    "id": "huoshanbei-luojia-xinqiao-2026",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "“珞珈心桥”获武汉大学首届“火山杯”智能体大赛决赛一等奖",
+    "date": "2026-05-07",
+    "date_label": "2026年5月7日",
+    "role": "指导教师",
+    "detail": "沈校亮指导的学生作品《珞珈心桥》获武汉大学首届“火山杯”智能体大赛决赛一等奖。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/huoshanbei-luojia-xinqiao-2026.pdf"
+      },
+      {
+        "label": "武汉大学决赛报道",
+        "url": "https://news.whu.edu.cn/info/1007/496347.htm"
+      }
+    ]
+  },
+  {
+    "id": "whu-young-faculty-2026",
+    "category": "service",
+    "subcategory": "学术组织与社会服务",
+    "title": "当选武汉大学青年教职工交流协会理事长",
+    "date": "2026-04-26",
+    "date_label": "2026年4月26日",
+    "role": "理事长",
+    "detail": "4月26日，武汉大学青年教职工交流协会举行成立大会。沈校亮当选协会理事长，并在会上发言。",
+    "sources": [
+      {
+        "label": "武汉大学工会成立大会报道",
+        "url": "https://gh.whu.edu.cn/info/1047/18831.htm"
       }
     ]
   },
@@ -200,6 +324,22 @@
     ]
   },
   {
+    "id": "cnki-top5-2025",
+    "category": "research",
+    "subcategory": "学术荣誉",
+    "title": "入选中国知网“2025全国高被引学者TOP5%”",
+    "date": "2025-12-12",
+    "date_label": "2025年12月12日",
+    "role": "",
+    "detail": "沈校亮入选中国知网“2025全国高被引学者TOP5%”。同方知网数字科技有限公司和中国科学文献计量评价研究中心于12月12日颁发证书。",
+    "sources": [
+      {
+        "label": "入选证书（PDF）",
+        "url": "assets/cnki-top5-2025.pdf"
+      }
+    ]
+  },
+  {
     "id": "fact-427a26808c46b7",
     "category": "service",
     "subcategory": "会议服务",
@@ -208,10 +348,25 @@
     "title": "ICSeB 2025 程序委员会主席",
     "role": "",
     "detail": "担任第 9 届软件与电子商务国际会议（ICSeB 2025）程序委员会主席。",
+    "sources": []
+  },
+  {
+    "id": "whu-weiqiao-2025",
+    "category": "teaching",
+    "subcategory": "教学荣誉",
+    "title": "信息管理创新教学团队获武汉大学首届“魏桥校长奖教金”",
+    "date": "2025-11-29",
+    "date_label": "2025年11月29日",
+    "role": "",
+    "detail": "马费成教授负责的信息管理创新教学团队获武汉大学首届“魏桥校长奖教金”，沈校亮为获奖团队成员。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "获奖证书（PDF）",
+        "url": "assets/whu-weiqiao-2025.pdf"
+      },
+      {
+        "label": "武汉大学颁奖报道",
+        "url": "https://news.whu.edu.cn/info/1002/488527.htm"
       }
     ]
   },
@@ -240,12 +395,7 @@
     "title": "ICEME 2025 宣传主席",
     "role": "",
     "detail": "担任第 16 届电子商务、管理与经济学国际会议（ICEME 2025）宣传主席。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-3a5ba955552980",
@@ -304,16 +454,7 @@
     "title": "第十五届三创赛湖北赛区特等奖、一等奖",
     "role": "",
     "detail": "指导学生获第十五届全国大学生电子商务“创新、创意及创业”挑战赛湖北省特等奖、一等奖。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      },
-      {
-        "label": "武汉大学教师个人主页 · 获奖记录",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/hjxx/408551/list/index.htm"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "paper-rumor-verification-2025",
@@ -352,10 +493,6 @@
       {
         "label": "龙源期刊网 · 《现代情报》论文页",
         "url": "https://www.qikan.com.cn/m/article/xdqb20250108.html"
-      },
-      {
-        "label": "沈校亮原个人主页 · 教学工作",
-        "url": "https://xlshen.mysxl.cn/"
       }
     ]
   },
@@ -532,12 +669,7 @@
     "title": "基于情感温暖与伦理对齐的算法厌恶缓解：一项混合方法研究",
     "role": "",
     "detail": "沈校亮、王晨悦、吴忧 · 中国情报学年会暨情报学与情报工作发展论坛 · 西安，7 月 11–13 日",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-5a5055b9a1ba05",
@@ -592,6 +724,26 @@
     ]
   },
   {
+    "id": "fact-a8fd1a62c7dc08",
+    "category": "research",
+    "subcategory": "会议论文提名",
+    "date": "2024-04-02",
+    "date_label": "2024年4月2日（名单公布）",
+    "title": "iConference 最佳中文研究论文奖提名",
+    "role": "",
+    "detail": "沈校亮、吴忧、孙永强的《用户信息素养与谣言验证意愿：基于动态视角的组态效应研究》入围 iConference 2024 最佳中文研究论文奖。",
+    "sources": [
+      {
+        "label": "入围证书（PDF）",
+        "url": "assets/iconference-finalist-2024.pdf"
+      },
+      {
+        "label": "iSchools 入围名单",
+        "url": "https://www.ischools.org/post/iconference-2024-paper-award-finalist-announcement"
+      }
+    ]
+  },
+  {
     "id": "grant-ai-governance-2024",
     "category": "research",
     "subcategory": "科研项目",
@@ -601,10 +753,6 @@
     "role": "",
     "detail": "担任查先进教授主持的国家社科基金重大项目“人工智能颠覆性应用的社会影响与信息治理研究”子课题一“人工智能颠覆性应用场景和信息治理基础理论研究”负责人（23&ZD223，执行期2024–2028）。",
     "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      },
       {
         "label": "武汉大学新闻网 · 总项目立项公告",
         "url": "https://news.whu.edu.cn/info/1015/451167.htm"
@@ -620,12 +768,7 @@
     "title": "ICSeB 2024 程序委员会主席",
     "role": "",
     "detail": "担任第8届 International Conference on Software and e-Business（ICSeB 2024）程序委员会主席。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-cbb3eed6e5261a",
@@ -668,28 +811,7 @@
     "title": "《Information Processing & Management》大语言模型与人类行为专刊",
     "role": "",
     "detail": "担任《Information Processing & Management》大语言模型与人类行为专刊客座编辑。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
-  },
-  {
-    "id": "fact-a8fd1a62c7dc08",
-    "category": "research",
-    "subcategory": "会议论文提名",
-    "date": "2024",
-    "date_label": "2024年",
-    "title": "iConference 最佳中文研究论文奖提名",
-    "role": "",
-    "detail": "沈校亮、吴忧、孙永强的《用户信息素养与谣言验证意愿：基于动态视角的组态效应研究》入围 iConference 2024 最佳中文研究论文奖。",
-    "sources": [
-      {
-        "label": "资料来源",
-        "url": "https://www.ischools.org/post/iconference-2024-paper-award-finalist-announcement"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "teaching-sanchuang-national-2024",
@@ -704,10 +826,6 @@
       {
         "label": "武汉大学新闻网",
         "url": "https://news.whu.edu.cn/info/1007/464187.htm"
-      },
-      {
-        "label": "武汉大学教师个人主页 · 获奖记录",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/hjxx/408551/list/index.htm"
       }
     ]
   },
@@ -722,12 +840,12 @@
     "detail": "指导学生获第十四届全国大学生电子商务“创新、创意及创业”挑战赛湖北赛区特等奖。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "三创赛湖北赛区拟获奖公示",
+        "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/06/08/4fc1321795e0a92297434f472f6b978c.pdf"
       },
       {
-        "label": "武汉大学教师个人主页 · 获奖记录",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/hjxx/408551/list/index.htm"
+        "label": "武汉大学团队报道",
+        "url": "https://news.whu.edu.cn/info/1007/464187.htm"
       }
     ]
   },
@@ -936,12 +1054,7 @@
     "title": "超越价值沉淀：基于价值释放视角的数据要素应用价值分类体系构建",
     "role": "",
     "detail": "沈校亮、王晨悦 · 中国情报学年会暨情报学与情报工作发展论坛 · 天津，10 月 11–13 日",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "highly-cited-china-2023",
@@ -952,12 +1065,7 @@
     "title": "2023年度爱思唯尔中国高被引学者",
     "role": "",
     "detail": "入选爱思唯尔2023年度“中国高被引学者”榜单。",
-    "sources": [
-      {
-        "label": "武汉大学教师主页",
-        "url": "https://jszy.whu.edu.cn/shen/en/more/408556/jsjjgd/index.htm"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-b72412a8a25b44",
@@ -986,10 +1094,6 @@
     "detail": "主持国家自然科学基金面上项目“基于道德决策视角的网络辟谣参与行为研究”（72274144，执行期2023–2026）。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      },
-      {
         "label": "《信息资源管理学报》论文及基金标注",
         "url": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.06.017"
       }
@@ -1006,10 +1110,6 @@
     "detail": "主持国家自然科学基金国际（地区）合作与交流项目“基于儒家责任伦理的网络失范行为治理研究”（72311540158，2023–2025）。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      },
-      {
         "label": "《信息资源管理学报》论文及基金标注",
         "url": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.06.017"
       }
@@ -1024,12 +1124,7 @@
     "title": "教育部人文社科重点研究基地重大项目子课题四",
     "role": "",
     "detail": "担任教育部人文社科重点研究基地重大项目“智能情报支持下的科技决策与创新政策研究”子课题四负责人，承担“数智赋能的科技决策支撑服务研究”（22JJD870002，2023–2025）。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-6ce93660438456",
@@ -1040,12 +1135,7 @@
     "title": "ICSeB 2023 程序委员会主席",
     "role": "",
     "detail": "担任第7届 International Conference on Software and e-Business（ICSeB 2023）程序委员会主席。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-f940052784fc08",
@@ -1072,12 +1162,7 @@
     "title": "社交媒体用户不实信息举报倾向识别软件",
     "role": "",
     "detail": "与刘琳瑶共同完成的软件“社交媒体用户不实信息举报倾向识别软件”登记软件著作权，登记号2023SR1054309。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-4c6e76f1475d6c",
@@ -1088,12 +1173,7 @@
     "title": "社交媒体用户虚假信息发布倾向识别软件",
     "role": "",
     "detail": "与刘琳瑶共同完成的软件“社交媒体用户虚假信息发布倾向识别软件”登记软件著作权，登记号2023SR1127070。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "teaching-sanchuang-national-2023",
@@ -1102,16 +1182,16 @@
     "date": "2023",
     "date_label": "2023年",
     "title": "第十三届三创赛全国总决赛二等奖",
-    "role": "",
-    "detail": "指导学生获第十三届全国大学生电子商务“创新、创意及创业”挑战赛全国总决赛二等奖。",
+    "role": "共同指导教师",
+    "detail": "沈校亮、贺超城共同指导“212议会男团队”，其“智享堂”区块链知识交易平台项目获第十三届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛二等奖。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "武汉大学信息管理学院获奖报道",
+        "url": "https://sim.whu.edu.cn/info/1748/86122.htm"
       },
       {
-        "label": "武汉大学教师个人主页 · 获奖记录",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/hjxx/408551/list/index.htm"
+        "label": "三创赛组委会获奖名单",
+        "url": "https://www.cqgjxh.com/upload/file/202308/1693496695872969.pdf"
       }
     ]
   },
@@ -1124,16 +1204,7 @@
     "title": "第十五届自强杯校级一等奖",
     "role": "",
     "detail": "指导学生获武汉大学第十五届“自强杯”大学生课外学术科技作品竞赛一等奖。",
-    "sources": [
-      {
-        "label": "武汉大学教师主页",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
-      },
-      {
-        "label": "武汉大学教师个人主页 · 获奖记录",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/hjxx/408551/list/index.htm"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "teaching-internet-plus",
@@ -1144,20 +1215,7 @@
     "title": "第九届“互联网+”校级三等奖",
     "role": "",
     "detail": "指导学生获第九届中国国际“互联网+”大学生创新创业大赛武汉大学校赛三等奖。",
-    "sources": [
-      {
-        "label": "武汉大学教师主页",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
-      },
-      {
-        "label": "武汉大学教师个人主页 · 获奖记录",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/hjxx/408551/list/index.htm"
-      },
-      {
-        "label": "教育部 · 第九届大赛启动报道",
-        "url": "https://www.moe.gov.cn/jyb_xwfb/s5147/202305/t20230531_1062120.html"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "pub-4f8493299eb5c7",
@@ -1318,8 +1376,8 @@
     "detail": "Xiao-Liang Shen, You Wu · 中国系统工程学会信息系统工程专业委员会2023学术年会 · CNAIS 2023，杭州",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "武汉纺织大学 · 合作者成果目录",
+        "url": "https://em.wtu.edu.cn/info/1152/13078.htm"
       }
     ]
   },
@@ -1334,8 +1392,28 @@
     "detail": "沈校亮，吴忧，丁奕童 · 中国情报学年会暨情报学与情报工作发展论坛 · 长沙",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "武汉纺织大学 · 合作者成果目录",
+        "url": "https://em.wtu.edu.cn/info/1152/13078.htm"
+      }
+    ]
+  },
+  {
+    "id": "summer-teacher-training-2022",
+    "category": "teaching",
+    "subcategory": "师资培训",
+    "title": "完成2022年暑期教师研修",
+    "date": "2022-09-01",
+    "date_label": "2022年9月1日",
+    "role": "",
+    "detail": "沈校亮于7月20日至8月31日在国家智慧教育公共服务平台参加“2022年暑期教师研修”专题培训，获认定10学时，9月1日获颁结业证书。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/summer-teacher-training-2022.pdf"
+      },
+      {
+        "label": "国家智慧教育平台 · 暑期教师研修专题",
+        "url": "https://teacher.higher.smartedu.cn/h/subject/summer2022/vade/"
       }
     ]
   },
@@ -1348,12 +1426,7 @@
     "title": "2022年度爱思唯尔中国高被引学者",
     "role": "",
     "detail": "入选爱思唯尔2022年度“中国高被引学者”榜单。",
-    "sources": [
-      {
-        "label": "武汉大学教师主页",
-        "url": "https://jszy.whu.edu.cn/shen/en/more/408556/jsjjgd/index.htm"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-727464dd4f7748",
@@ -1414,8 +1487,12 @@
     "detail": "担任《Internet Research》“Opportunities and Challenges in the Metaverse”专刊客座编辑。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "莱比锡大学专刊征稿启事",
+        "url": "https://www.wifa.uni-leipzig.de/en/information-systems-institute/newsdetail-1/artikel/special-issue-on-the-metaverse-in-internet-research"
+      },
+      {
+        "label": "Emerald · 《Internet Research》专刊",
+        "url": "https://www.emerald.com/intr/issue/34/1"
       }
     ]
   },
@@ -1430,8 +1507,8 @@
     "detail": "作为教学团队成员参与建设的《市场营销调研》获认定为2022年度湖北省一流本科课程（线上课程），课程负责人为曾伏娥。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "武汉大学经济与管理学院 · 省级一流本科课程名单",
+        "url": "https://ems.whu.edu.cn/info/1587/26434.htm"
       }
     ]
   },
@@ -1444,12 +1521,7 @@
     "title": "数据思维与能力导向的信管一流本科专业建设",
     "role": "",
     "detail": "在陆伟教授主持的武汉大学本科教育质量建设综合改革项目“数据思维与能力导向的信管一流本科专业建设”中担任子项目负责人。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "grant-disinformation-2023",
@@ -1464,10 +1536,6 @@
       {
         "label": "资料来源",
         "url": "https://www.moe.gov.cn/s78/A13/tongzhi/202209/W020220923401184574274.pdf"
-      },
-      {
-        "label": "原个人主页 · 科研项目",
-        "url": "https://xlshen.mysxl.cn/"
       },
       {
         "label": "《信息资源管理学报》论文及基金标注",
@@ -1604,6 +1672,26 @@
     ]
   },
   {
+    "id": "faculty-curriculum-2021",
+    "category": "teaching",
+    "subcategory": "师资培训",
+    "title": "完成高校教师课程思政教学能力培训",
+    "date": "2021-11-29",
+    "date_label": "2021年11月29日",
+    "role": "",
+    "detail": "沈校亮完成全国高校教师网络培训中心主办的高校教师课程思政教学能力培训。培训于11月24日至26日举行，共16学时，11月29日获颁证书。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/faculty-curriculum-2021.pdf"
+      },
+      {
+        "label": "高校教师培训通知",
+        "url": "https://www.ahpu.edu.cn/jsnlfz/2021/1123/c7776a164287/page.htm"
+      }
+    ]
+  },
+  {
     "id": "fact-de5e7063bb8cc3",
     "category": "research",
     "subcategory": "发明专利",
@@ -1628,12 +1716,7 @@
     "title": "调入武汉大学信息管理学院",
     "role": "",
     "detail": "调入武汉大学信息管理学院，任教授、博士生导师。",
-    "sources": [
-      {
-        "label": "武汉大学教师主页",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "internet-research-editor-2018",
@@ -1660,12 +1743,7 @@
     "title": "《Data and Information Management》高级编辑",
     "role": "",
     "detail": "任《Data and Information Management》高级编辑（2021–2024）。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "management-science-editor-2016",
@@ -1676,16 +1754,7 @@
     "title": "《管理科学》管理信息系统领域副主编",
     "role": "",
     "detail": "结束《管理科学》管理信息系统领域副主编任期（2016–2021）。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      },
-      {
-        "label": "武汉大学教师主页",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/zhym/408540/list/index.htm"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-e53c8d65c47759",
@@ -1714,8 +1783,12 @@
     "detail": "担任 International Conference on Knowledge Management and Information Systems（KMIS 2021）程序委员会委员。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "KMIS 2021 程序委员会",
+        "url": "https://kmis.scitevents.org/ProgramCommittee.aspx?y=2021"
+      },
+      {
+        "label": "Springer 会议论文集 · KMIS 程序委员会名单",
+        "url": "https://link.springer.com/content/pdf/bfm:978-3-031-35924-8/1#page=11"
       }
     ]
   },
@@ -1728,12 +1801,7 @@
     "title": "WHICEB 数字赋能与数字治理专题分会主席",
     "role": "",
     "detail": "担任第20届武汉电子商务国际会议（WHICEB）“Digital Enablement and Digital Governance”分会主席。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-6f417eb3e37c1b",
@@ -1746,8 +1814,12 @@
     "detail": "以合作研究人员身份参与香港研究资助局高级学者计划项目“Cybermobbing on Social Media”（2021–2025），项目负责人为香港浸会大学 Christy Cheung。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "昆士兰大学 · 项目团队及资助计划",
+        "url": "https://business.uq.edu.au/node/17116"
+      },
+      {
+        "label": "香港浸会大学 · 研究项目",
+        "url": "https://research.hkbu.edu.hk/page/detail/22696"
       }
     ]
   },
@@ -1762,8 +1834,12 @@
     "detail": "担任《Data and Information Management》“Human-AI Interaction”专刊客座编辑。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "AIS 专刊征稿启事（2022年）",
+        "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220904/046021.html"
+      },
+      {
+        "label": "AIS · 专刊征稿启事与客座编辑名单",
+        "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220818/045869.html"
       }
     ]
   },
@@ -1823,13 +1899,8 @@
     "date_label": "2021年",
     "title": "缺陷人工智能设计和不信任视角下用户对智能客服的抵制行为研究",
     "role": "",
-    "detail": "孙永强，杨波，沈校亮 · 中国系统工程学会数据科学与知识系统工程专业委员会第一届学术年会 · 大连理工大学",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "detail": "孙永强，杨波，沈校亮 · 中国系统工程学会数据科学与知识系统工程专业委员会第一届学术年会 · 大连理工大学承办，线上举行",
+    "sources": []
   },
   {
     "id": "fact-3bdecc0b01450f",
@@ -1860,10 +1931,6 @@
       {
         "label": "武汉大学新闻网",
         "url": "https://news.whu.edu.cn/info/1015/62925.htm"
-      },
-      {
-        "label": "武汉大学教师主页 · 获奖记录",
-        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
       },
       {
         "label": "湖北省社会科学界联合会 · 学者资料",
@@ -1898,8 +1965,8 @@
     "detail": "担任 AMCIS 2020 “The Dark Sides of AI”专题共同主席。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "AMCIS 2020 · 专题介绍与主席名单",
+        "url": "https://archives.aisconferences.org/amcis2020/track-descriptions/"
       }
     ]
   },
@@ -1912,12 +1979,7 @@
     "title": "武汉大学“人工智能问题”融通研究专项",
     "role": "",
     "detail": "主持武汉大学“人工智能问题”融通研究专项“人工智能的阴暗面：概念分类、产生原因与干预策略”（2020–2021，2020AI012）。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-471c83f1cc5a6a",
@@ -1930,8 +1992,8 @@
     "detail": "国家自然科学基金面上项目“移动APP用户采纳后行为研究——深度使用与应用内购买”（71671132）由沈校亮主持，执行期至2020年。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "湖北省社科专家库 · 项目名称、编号及期限",
+        "url": "https://db.hbskw.com/pcms/index.php?a=show&c=index&catid=6&id=11280&m=content"
       }
     ]
   },
@@ -2024,12 +2086,7 @@
     "title": "武汉系统工程学会理事",
     "role": "",
     "detail": "武汉系统工程学会理事。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-e1f5fef92e86b8",
@@ -2040,12 +2097,7 @@
     "title": "QS世界大学排名全球学术同行评议专家",
     "role": "",
     "detail": "QS世界大学排名全球学术同行评议专家。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-3217fe6852c367",
@@ -2056,12 +2108,7 @@
     "title": "泰晤士高等教育中国学科评级评议专家",
     "role": "",
     "detail": "泰晤士高等教育中国学科评级评议专家。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-ad4d25ea22c9ce",
@@ -2088,12 +2135,7 @@
     "title": "武汉大学工程管理项目中心及校 MEM 教指委",
     "role": "",
     "detail": "任武汉大学工程管理项目中心副主任、武汉大学工程管理专业学位（MEM）研究生教育指导委员会副主任委员。",
-    "sources": [
-      {
-        "label": "武汉大学教师主页",
-        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-6dfac15cb15b12",
@@ -2122,8 +2164,8 @@
     "detail": "本科教学包括《信息管理学基础》《社会调查与统计分析》（理论、实验）和《电子商务》。",
     "sources": [
       {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
+        "label": "武汉大学经管院 · 《电子商务》授课记录",
+        "url": "https://ems.whu.edu.cn/info/1539/17541.htm"
       }
     ]
   },
@@ -2136,11 +2178,6 @@
     "title": "研究生教学",
     "role": "",
     "detail": "主讲课程包括《科研选题与学术写作》《专业学位论文写作指导》《博士论文写作指导》《管理学研究方法论》和《管理科学与工程前沿研究》。",
-    "sources": [
-      {
-        "label": "原个人主页",
-        "url": "https://xlshen.mysxl.cn/"
-      }
-    ]
+    "sources": []
   }
 ]
