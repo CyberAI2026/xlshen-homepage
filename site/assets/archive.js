@@ -2,7 +2,7 @@
   'use strict';
   const controls = document.querySelector('[data-archive-controls]');
   if (!controls) return;
-  const labels = { all: '全部', teaching: '教学', research: '科研', service: '社会服务' };
+  const labels = { all: '全部', teaching: '教学', research: '科研', service: '社会服务', media: '新闻报道与研究传播' };
   const filters = Array.from(controls.querySelectorAll('[data-filter]'));
   const input = controls.querySelector('input[type="search"]');
   const items = Array.from(document.querySelectorAll('.fact[data-category], .entries li[data-category]'));
@@ -82,8 +82,10 @@
     button.addEventListener('click', async () => {
       const item = button.closest('.fact');
       const text = selector => item.querySelector(selector)?.textContent.trim() || '';
-      const sources = Array.from(item.querySelectorAll('.fact-sources a'), a =>
-        a.textContent.trim() + ' ' + new URL(a.getAttribute('href'), 'https://xlshen.cn/').href);
+      const sources = Array.from(item.querySelectorAll('.fact-sources a, .source-label'), source => {
+        const label = source.textContent.trim();
+        return source.href ? label + ' ' + source.href : label;
+      });
       const record = [
         text('.fact-date') + '｜' + labels[item.dataset.category] + ' · ' + text('.fact-tag'),
         text('.fact-title'), text('.fact-role'), text('.fact-detail'), ...sources,

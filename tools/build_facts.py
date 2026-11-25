@@ -10,6 +10,7 @@ CATEGORIES = {
     "teaching": ("教学", "课程、教学成果与学生学科竞赛"),
     "research": ("科研", "论文、科研项目与学术影响"),
     "service": ("社会服务", "期刊建设、学术组织与对外讲座"),
+    "media": ("新闻报道与研究传播", "媒体报道、研究解读与成果传播"),
 }
 FIELDS = {"id", "category", "subcategory", "title", "date", "date_label", "role", "detail", "sources"}
 SITE = Path(__file__).resolve().parents[1] / "site"
@@ -17,8 +18,6 @@ SITE = Path(__file__).resolve().parents[1] / "site"
 
 def safe_link(url, site):
     parts = urlsplit(url)
-    if parts.scheme in ("https", "http") and parts.netloc:
-        return True
     path = PurePosixPath(parts.path)
     return (not parts.scheme and not parts.netloc and not path.is_absolute()
             and ".." not in path.parts and "\\" not in url and (site / path).is_file())
@@ -47,9 +46,12 @@ def load_records(site):
         if not isinstance(row["sources"], list):
             raise ValueError(f"Missing source: {rid}")
         for src in row["sources"]:
-            if (set(src) != {"label", "url"} or not isinstance(src["label"], str)
-                    or not src["label"].strip() or not isinstance(src["url"], str)
-                    or not safe_link(src["url"], site)):
+            if (not isinstance(src, dict) or not {"label"} <= set(src) <= {"label", "url", "note", "show_note"}
+                    or not isinstance(src["label"], str) or not src["label"].strip()
+                    or ("show_note" in src and ("note" not in src or not isinstance(src["show_note"], bool)))
+                    or ("note" in src and (not isinstance(src["note"], str) or not src["note"].strip()))
+                    or ("url" in src and (not isinstance(src["url"], str)
+                                          or not safe_link(src["url"], site)))):
                 raise ValueError(f"Invalid evidence link: {rid}")
     return records
 
@@ -59,10 +61,23 @@ def record_html(row):
     date_label = escape(row["date_label"] or row["date"] or "日期未载")
     sources = []
     for src in row["sources"]:
-        url = src["url"]
-        download = " download" if not urlsplit(url).netloc and url.lower().endswith((".pdf", ".zip", ".png", ".jpg", ".jpeg")) else ""
-        sources.append(f'<a href="{escape(url, quote=True)}"{download}>{escape(src["label"])}</a>')
-    links = " ".join(sources) if sources else "个人履历"
+        label = escape(src["label"])
+        url = src.get("url")
+        if not url:
+            sources.append(f'<span class="source-label">{label}</span>')
+            continue
+        if url.startswith("assets/sources/"):
+            action = ' target="_blank" rel="noopener"'
+        elif PurePosixPath(url).suffix.lower() in {".pdf", ".zip", ".png", ".jpg", ".jpeg"}:
+            action = " download"
+        else:
+            action = ""
+        note = escape(src.get("note", ""), quote=True)
+        tooltip = f' title="{note}"' if note else ""
+        sources.append(f'<a href="{escape(url, quote=True)}"{action}{tooltip}>{label}</a>')
+        if src.get("show_note"):
+            sources.append(f'<small class="citation-note">{note}</small>')
+    links = " ".join(sources) if sources else '<span class="source-label">个人履历</span>'
     role = f'\n        <p class="fact-role"><span>角色</span>　{escape(row["role"])}</p>' if row["role"] else ""
     year = escape(row["date"][:4]) if row["date"] else "current"
     rid = row["id"]
@@ -101,12 +116,12 @@ def build_facts(site=SITE):
     template = (site / "news.html").read_text(encoding="utf-8")
     head, rest = template.split('<main id="main">', 1)
     _, footer = rest.split("</main>", 1)
-    head = head.replace("<title>学术动态｜", "<title>成果与活动｜")
+    head = head.replace("<title>新闻动态｜", "<title>成果与活动｜")
     head = head.replace('href="news.html" aria-current="page"', 'href="news.html"')
     head = head.replace('class="nav-link" href="facts.html"', 'class="nav-link" href="facts.html" aria-current="page"')
     body = f"""<main id="main"><div class="wrap inner archive">
       <h1>成果与活动</h1>
-      <p class="lead">查阅教学、科研和社会服务记录，可按年份、类别或关键词筛选。</p>
+      <p class="lead">查阅教学、科研、社会服务、新闻报道与研究传播记录，可按年份、类别或关键词筛选。</p>
       <div class="archive-tools" data-archive-controls hidden>
         <div class="filter-row"><div class="filter-options" role="group" aria-label="按类别筛选">{''.join(filters)}</div>
           <label class="record-search"><span>检索记录</span><input type="search" id="archive-search" placeholder="名称、年份或关键词" autocomplete="off"></label>
@@ -114,7 +129,7 @@ def build_facts(site=SITE):
         </div>
         <p class="results-status" role="status" aria-live="polite"></p>
       </div>
-      <noscript><div class="archive-jumps"><a href="#teaching">教学</a> · <a href="#research">科研</a> · <a href="#service">社会服务</a></div></noscript>
+      <noscript><div class="archive-jumps"><a href="#teaching">教学</a> · <a href="#research">科研</a> · <a href="#service">社会服务</a> · <a href="#media">新闻报道与研究传播</a></div></noscript>
       <p class="no-results" hidden>没有符合条件的记录。<button type="button" class="reset-filters">显示全部记录</button></p>
       {''.join(groups)}
       <dialog class="copy-dialog"><label for="copy-text">复制这条记录及来源</label><textarea id="copy-text" readonly></textarea>

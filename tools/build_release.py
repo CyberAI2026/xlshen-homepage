@@ -17,6 +17,7 @@ PAGES = {
     'news.html', 'facts.html', 'research.html', 'service.html', 'teaching.html',
 }
 LAB = re.compile(r'(?:Information_Reception_Lab_V\d+(?:_\d+)*\.html|Reception_Lab_V\d+(?:_\d+)*_Student\.zip)\Z')
+PART_BYTES = 8 * 1024**2
 ASSET_TYPES = {'.css', '.js', '.json', '.txt', '.xml', '.pdf', '.zip', '.png', '.jpg',
                '.jpeg', '.webp', '.gif', '.ico', '.woff', '.woff2', '.csv'}
 NAME = re.compile(r'[A-Za-z0-9][A-Za-z0-9._-]{0,119}\Z')
@@ -49,6 +50,9 @@ def build():
     build_facts(ROOT / 'site')
     files = public_files(ROOT / 'site')
     version_page_assets(files)
+    sizes = [path.stat().st_size for path in files.values()]
+    if len(files) > 512 or max(sizes) > 12 * 1024**2 or sum(sizes) > 128 * 1024**2:
+        raise ValueError("Public files exceed the server file count, individual size or expanded size limit")
     buf = io.BytesIO()
     with zipfile.ZipFile(buf, 'w') as archive:
         for name in sorted(files):
@@ -57,21 +61,40 @@ def build():
             entry.external_attr = 0o100644 << 16
             archive.writestr(entry, files[name].read_bytes(), zipfile.ZIP_DEFLATED, compresslevel=9)
     package = buf.getvalue()
+    if len(package) > 64 * 1024**2:
+        raise ValueError("Release ZIP exceeds the 64 MiB server limit")
     digest = hashlib.sha256(package).hexdigest()
-    manifest = json.dumps({'file': 'site.zip', 'sha256': digest}, indent=2) + '\n'
+    part_dir = ROOT / 'release-parts'
+    part_dir.mkdir(exist_ok=True)
+    digests = []
+    expected = set()
+    for offset in range(0, len(package), PART_BYTES):
+        part = package[offset:offset + PART_BYTES]
+        name = 'site.zip.part%02d' % (len(digests) + 1)
+        expected.add(name)
+        (part_dir / name).write_bytes(part)
+        digests.append(hashlib.sha256(part).hexdigest())
+    for old in part_dir.glob('site.zip.part[0-9][0-9]'):
+        if old.name not in expected:
+            old.unlink()
+    manifest = json.dumps({'file': 'site.zip.parts', 'size': len(package),
+                           'sha256': digest, 'parts': digests}, indent=2) + '\n'
     (ROOT / 'site.zip').write_bytes(package)
     (ROOT / 'release.json').write_bytes(manifest.encode('ascii'))
     print('%d files, ZIP SHA-256 %s' % (len(files), digest))
 
 
 def version_page_assets(files):
-    """Refresh browser cache keys only for the homepage's shared CSS and JS."""
-    versions = {
-        name: hashlib.sha256(files[name].read_bytes()).hexdigest()[:12]
-        for name in ('assets/site.css', 'assets/archive.js')
-    }
+    """Refresh browser cache keys for shared code and public certificates."""
+    versioned = ['assets/site.css', 'assets/archive.js']
+    versioned.extend(name for name in files
+                     if Path(name).parent.as_posix() == 'assets'
+                     and Path(name).suffix.lower() in {'.pdf', '.png'})
+    versions = {name: hashlib.sha256(files[name].read_bytes()).hexdigest()[:12]
+                for name in versioned}
     asset_urls = re.compile(
-        r'(?P<attr>\b(?:href|src)=)(?P<quote>["\'])(?P<path>assets/(?:site\.css|archive\.js))'
+        r'(?P<attr>\b(?:href|src)=)(?P<quote>["\'])(?P<path>' +
+        '|'.join(re.escape(name) for name in sorted(versions)) + ')'
         r'(?:\?v=[a-zA-Z0-9_-]+)?(?P=quote)'
     )
 

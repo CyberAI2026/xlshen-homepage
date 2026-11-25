@@ -1,0 +1,1359 @@
+{
+  "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/06/08/4fc1321795e0a92297434f472f6b978c.pdf#page=6": {
+    "file": "assets/sources/sanchuang-2024-hubei.webp",
+    "actual": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/06/08/4fc1321795e0a92297434f472f6b978c.pdf#page=6",
+    "note": "湖北省常规赛拟获奖公示第1、6页节选，分别为特等奖及对应指导教师名单。",
+    "used_by": [
+      "honors",
+      "news",
+      "teaching",
+      "teaching-sanchuang-hubei-2024"
+    ]
+  },
+  "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/08/26/927bff34787bce33c2d61be0d993d23c.pdf": {
+    "file": "assets/sources/sanchuang-2024-national.webp",
+    "actual": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/08/26/927bff34787bce33c2d61be0d993d23c.pdf",
+    "note": "全国常规赛拟获奖公示第1、2页节选。",
+    "used_by": [
+      "honors",
+      "news",
+      "teaching",
+      "teaching-sanchuang-national-2024"
+    ]
+  },
+  "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2025/08/22/131c72eb256fcafea77332578693e8e0.pdf": {
+    "file": "assets/sources/sanchuang-2025-instructor.webp",
+    "actual": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2025/08/22/131c72eb256fcafea77332578693e8e0.pdf",
+    "note": "三创赛竞组委公示第1、6、10页节选。",
+    "used_by": [
+      "excellent-sanchuang-instructor-2025",
+      "honors",
+      "news",
+      "teaching"
+    ]
+  },
+  "https://aisel.aisnet.org/hicss-53/hc/adoption/12/": {
+    "file": "assets/sources/pub-54.webp",
+    "actual": "https://aisel.aisnet.org/hicss-53/hc/adoption/12/",
+    "used_by": [
+      "pub-b29d31b76cbd59",
+      "research"
+    ]
+  },
+  "https://aisel.aisnet.org/hicss-53/in/firm_and_user_generated_content/2/": {
+    "file": "assets/sources/pub-56.webp",
+    "actual": "https://aisel.aisnet.org/hicss-53/in/firm_and_user_generated_content/2/",
+    "used_by": [
+      "pub-f28b6cd65218cb",
+      "research"
+    ]
+  },
+  "https://aisel.aisnet.org/hicss-55/in/ai_dark_side/1/": {
+    "file": "assets/sources/pub-42.webp",
+    "actual": "https://aisel.aisnet.org/hicss-55/in/ai_dark_side/1/",
+    "used_by": [
+      "fact-727464dd4f7748",
+      "pub-efcaa32c061261",
+      "research",
+      "service"
+    ]
+  },
+  "https://aisel.aisnet.org/hicss-56/cl/metaverse/": {
+    "file": "assets/sources/source-30dea41d9676.webp",
+    "actual": "https://aisel.aisnet.org/hicss-56/cl/metaverse/",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-b72412a8a25b44",
+      "service"
+    ]
+  },
+  "https://aisel.aisnet.org/hicss-56/cl/metaverse/1/": {
+    "file": "assets/sources/pub-40.webp",
+    "actual": "https://aisel.aisnet.org/hicss-56/cl/metaverse/1/",
+    "used_by": [
+      "pub-44d45b958c11c4",
+      "research"
+    ]
+  },
+  "https://aisel.aisnet.org/hicss-57/ks/knowledge_flows/5/": {
+    "file": "assets/sources/pub-29.webp",
+    "actual": "https://aisel.aisnet.org/hicss-57/ks/knowledge_flows/5/",
+    "used_by": [
+      "pub-a0880c04f569cd",
+      "research"
+    ]
+  },
+  "https://aisel.aisnet.org/jais/vol23/iss3/5/": {
+    "file": "assets/sources/pub-43.webp",
+    "actual": "https://aisel.aisnet.org/jais/vol23/iss3/5/",
+    "used_by": [
+      "pub-c648658694c88a",
+      "research"
+    ]
+  },
+  "https://aisel.aisnet.org/jais/vol25/iss6/8/": {
+    "file": "assets/sources/pub-25.webp",
+    "actual": "https://aisel.aisnet.org/jais/vol25/iss6/8/",
+    "used_by": [
+      "paper-doxing-2024",
+      "research"
+    ]
+  },
+  "https://aisel.aisnet.org/pacis2023/157/": {
+    "file": "assets/sources/pub-39.webp",
+    "actual": "https://aisel.aisnet.org/pacis2023/157/",
+    "used_by": [
+      "pub-f5afc6b9fea49d",
+      "research"
+    ]
+  },
+  "https://aisel.aisnet.org/thci/vol14/iss2/2/": {
+    "file": "assets/sources/pub-44.webp",
+    "actual": "https://aisel.aisnet.org/thci/vol14/iss2/2/",
+    "used_by": [
+      "pub-c4568eaed8c458",
+      "research"
+    ]
+  },
+  "https://archives.aisconferences.org/amcis2020/track-descriptions/": {
+    "file": "assets/sources/ref-61-orig.webp",
+    "actual": "https://archives.aisconferences.org/amcis2020/track-descriptions/",
+    "used_by": [
+      "fact-66a7d8696e6aa4",
+      "service"
+    ]
+  },
+  "https://archives.aisconferences.org/pacis2022/track-descriptions/index.html": {
+    "file": "assets/sources/source-a087f721a0b6.webp",
+    "actual": "https://archives.aisconferences.org/pacis2022/track-descriptions/index.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "news",
+      "pacis-track-2022",
+      "service"
+    ]
+  },
+  "https://arxiv.org/pdf/2505.22702#page=4": {
+    "file": "assets/sources/bluesky-journal-coverage-table.webp",
+    "actual": "https://arxiv.org/pdf/2505.22702#page=4",
+    "note": "作者公开稿第4页表1。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/ARIST-editorialboard": {
+    "file": "assets/sources/source-d863f61b0e32.webp",
+    "actual": "https://www.asist.org/publications/arist/arist-editorialboard/",
+    "label": "ASIS&T · ARIST 编委",
+    "used_by": [
+      "about",
+      "fact-f2e2975b086a6e",
+      "news",
+      "service"
+    ]
+  },
+  "https://baijiahao.baidu.com/s?id=1849180930457205026&wfr=spider&for=pc": {
+    "file": "assets/sources/market-research-interview.webp",
+    "actual": "https://baijiahao.baidu.com/s?id=1849180930457205026&wfr=spider&for=pc",
+    "note": "精彩生活频道传媒于2025年11月19日发布的百家号报道，原网页标题、署名和沈校亮采访画面节选。",
+    "used_by": [
+      "news",
+      "teaching",
+      "teaching-national-market-research"
+    ]
+  },
+  "https://business.uq.edu.au/node/17116": {
+    "file": "assets/sources/source-a8de2d613d30.webp",
+    "actual": "https://business.uq.edu.au/node/17116",
+    "used_by": [
+      "fact-6f417eb3e37c1b",
+      "news",
+      "research"
+    ]
+  },
+  "https://castsycb.cbpt.cnki.net/#/article-detail?id=TSQC202505009": {
+    "file": "assets/sources/ref-1-orig.webp",
+    "actual": "https://castsycb.cbpt.cnki.net/#/article-detail?id=TSQC202505009",
+    "used_by": [
+      "index",
+      "news",
+      "rumor-verification-bilingual"
+    ]
+  },
+  "https://ccj.pku.edu.cn/article/info?id=363646418": {
+    "file": "assets/sources/source-0cf8e8135123.webp",
+    "actual": "https://ccj.pku.edu.cn/article/info?id=363646418",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://cfm.zjuyh.com/MettingManage/Resource/kindeditor-4.1.10/attached/file/20231016/20231016214523_0079.pdf": {
+    "file": "assets/sources/pub-41.webp",
+    "actual": "https://cfm.zjuyh.com/MettingManage/Resource/kindeditor-4.1.10/attached/file/20231016/20231016214523_0079.pdf",
+    "note": "PDF 第12页，题名与署名节选。",
+    "used_by": [
+      "pub-614826d63d4a02",
+      "research"
+    ]
+  },
+  "https://conferences.computer.org/icebe/2021/program_committee.htm": {
+    "file": "assets/sources/source-1862fef73d11.webp",
+    "actual": "https://conferences.computer.org/icebe/2021/program_committee.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-e53c8d65c47759",
+      "service"
+    ]
+  },
+  "https://cto.aom.org/cto/discussion/cfp-electronic-markets-cyberspace-governance-in-the-ai-era": {
+    "file": "assets/sources/source-c02e614d1267.webp",
+    "actual": "https://cto.aom.org/cto/discussion/cfp-electronic-markets-cyberspace-governance-in-the-ai-era",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-f940052784fc08",
+      "service"
+    ]
+  },
+  "https://db.hbskw.com/pcms/index.php?a=show&c=index&catid=6&id=11280&m=content": {
+    "file": "assets/sources/source-35afd284dcbe.webp",
+    "actual": "https://db.hbskw.com/pcms/index.php?a=show&c=index&catid=6&id=11280&m=content",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-471c83f1cc5a6a",
+      "research"
+    ]
+  },
+  "https://db.hbskw.com/pcms/index.php?m=content&c=index&a=show&catid=6&id=11280": {
+    "file": "assets/sources/source-2681f8b1f5a2.webp",
+    "actual": "https://db.hbskw.com/pcms/index.php?a=show&c=index&catid=6&id=11280&m=content",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "moe-youth-award-2020"
+    ]
+  },
+  "https://developer.aliyun.com/article/1625740": {
+    "file": "assets/sources/source-166a9901babb.webp",
+    "actual": "https://developer.aliyun.com/article/1625740",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2025.05.087": {
+    "file": "assets/sources/pub-00.webp",
+    "actual": "https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2025.05.087",
+    "used_by": [
+      "index",
+      "news",
+      "paper-rumor-verification-2025",
+      "research",
+      "rumor-verification-bilingual"
+    ]
+  },
+  "https://doi.org/10.1002/pra2.1284": {
+    "file": "assets/sources/pub-15.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1002%2Fpra2.1284",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-65b09010ec49cb",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1007/978-3-031-57860-1_12": {
+    "file": "assets/sources/pub-27.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1007%2F978-3-031-57860-1_12",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-bdc4de2019b9ef",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1007/978-3-031-57860-1_20": {
+    "file": "assets/sources/pub-28.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1007%2F978-3-031-57860-1_20",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-d89f271d302221",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1007/s10639-023-12347-7": {
+    "file": "assets/sources/pub-24.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1007%2Fs10639-023-12347-7",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-39d2a0baefd7e3",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1007/s12525-022-00531-5": {
+    "file": "assets/sources/pub-47.webp",
+    "actual": "https://link.springer.com/article/10.1007/s12525-022-00531-5",
+    "used_by": [
+      "pub-bc1a16a5746d56",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1016/j.dim.2023.100048": {
+    "file": "assets/sources/pub-35.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.dim.2023.100048",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "research",
+      "special-human-ai-2023"
+    ]
+  },
+  "https://doi.org/10.1016/j.ijinfomgt.2020.102200": {
+    "file": "assets/sources/pub-53.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.ijinfomgt.2020.102200",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-8ad249f3d0f46b",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1016/j.im.2025.104118": {
+    "file": "assets/sources/pub-07.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.im.2025.104118",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-44b0315319555b",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1016/j.tele.2024.102133": {
+    "file": "assets/sources/pub-20.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.tele.2024.102133",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "paper-rumor-atmosphere-2024",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/IJCHM-05-2024-0676": {
+    "file": "assets/sources/pub-10.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FIJCHM-05-2024-0676",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-1d73cbf33e96c6",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/IMDS-03-2024-0251": {
+    "file": "assets/sources/pub-08.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FIMDS-03-2024-0251",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-505f9c8f2dba78",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/IMDS-07-2020-0418": {
+    "file": "assets/sources/pub-52.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FIMDS-07-2020-0418",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-7162f9763f9eab",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/INTR-02-2022-0120": {
+    "file": "assets/sources/pub-23.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FINTR-02-2022-0120",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-da1cd6ea145741",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/INTR-03-2023-0205": {
+    "file": "assets/sources/pub-09.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FINTR-03-2023-0205",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-cd6ac44b97036f",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/INTR-08-2024-1250": {
+    "file": "assets/sources/pub-02.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FINTR-08-2024-1250",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-6ebb8c9c2ad98f",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/INTR-10-2022-0807": {
+    "file": "assets/sources/pub-22.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FINTR-10-2022-0807",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-7d6f9bf5d25af3",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/INTR-10-2023-0994": {
+    "file": "assets/sources/pub-26.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FINTR-10-2023-0994",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-831b9bbd3c147c",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/ITP-01-2022-0072": {
+    "file": "assets/sources/pub-33.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FITP-01-2022-0072",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-95c42cfb250fa9",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/ITP-07-2021-0519": {
+    "file": "assets/sources/pub-36.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FITP-07-2021-0519",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-682994d91da6fc",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/JD-12-2025-0375": {
+    "file": "assets/sources/pub-01.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1108%2FJD-12-2025-0375",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-f14db7777bbb49",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1108/JKM-01-2021-0048": {
+    "file": "assets/sources/pub-45.webp",
+    "actual": "https://www.ablesci.com/scholar/paper?id=3mQRaDwG3",
+    "used_by": [
+      "pub-9dda8bf58b8a9a",
+      "research"
+    ]
+  },
+  "https://doi.org/10.1109/JCDL67857.2025.00018": {
+    "file": "assets/sources/pub-14.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1109%2FJCDL67857.2025.00018",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-165039fc595bee",
+      "research"
+    ]
+  },
+  "https://doi.org/10.47989/ir30iConf47596": {
+    "file": "assets/sources/pub-12.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.47989%2Fir30iConf47596",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "paper-reporting-2025",
+      "research"
+    ]
+  },
+  "https://easychair.org/smart-program/CNAIS2022/accepted.html": {
+    "file": "assets/sources/pub-49.webp",
+    "actual": "https://easychair.org/smart-program/CNAIS2022/accepted.html",
+    "note": "CNAIS 2022 录用论文名单，题名与署名。",
+    "used_by": [
+      "pub-7e978e2fc97328",
+      "research"
+    ]
+  },
+  "https://econpapers.repec.org/article/blajinfst/v_3a76_3ay_3a2025_3ai_3a9_3ap_3a1241-1257.htm": {
+    "file": "assets/sources/source-308392908ba5.webp",
+    "actual": "https://econpapers.repec.org/article/blajinfst/v_3a76_3ay_3a2025_3ai_3a9_3ap_3a1241-1257.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9": {
+    "file": "assets/sources/source-0752ae3e86c8.webp",
+    "actual": "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9",
+    "note": "原网页浏览器打印视图节选。",
+    "label": "Elsevier · 第九版公开数据集",
+    "used_by": [
+      "news",
+      "top-scientists-2026"
+    ]
+  },
+  "https://em.wtu.edu.cn/info/1051/9248.htm": {
+    "file": "assets/sources/source-efc2012d6768.webp",
+    "actual": "https://em.wtu.edu.cn/info/1051/9248.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "wtu-lecture-2024"
+    ]
+  },
+  "https://em.wtu.edu.cn/info/1152/13078.htm": {
+    "file": "assets/sources/pub-17.webp",
+    "actual": "https://em.wtu.edu.cn/info/1152/13078.htm",
+    "note": "武汉纺织大学作者主页代表性成果，第11–13项。",
+    "used_by": [
+      "pub-cc7daf4b36acf2",
+      "pub-fbd2262f60cfd1",
+      "research"
+    ]
+  },
+  "https://ems.whu.edu.cn/info/1587/26434.htm": {
+    "file": "assets/sources/source-00131aa154cc.webp",
+    "actual": "https://ems.whu.edu.cn/info/1587/26434.htm",
+    "used_by": [
+      "news",
+      "teaching",
+      "teaching-market-research"
+    ]
+  },
+  "https://en.whu.edu.cn/info/4551/56201.htm": {
+    "file": "assets/sources/source-45637b46eab5.webp",
+    "actual": "https://en.whu.edu.cn/info/4551/56201.htm",
+    "used_by": [
+      "fact-451d83b44bd7bd",
+      "news",
+      "service"
+    ]
+  },
+  "https://gh.whu.edu.cn/info/1047/18831.htm": {
+    "file": "assets/sources/whu-young-faculty-association-2026.webp",
+    "actual": "https://gh.whu.edu.cn/info/1047/18831.htm",
+    "note": "武汉大学工会原网页标题、发布日期、4月26日会议时间及当选理事长的具名段落节选。",
+    "used_by": [
+      "about",
+      "news",
+      "whu-young-faculty-2026"
+    ]
+  },
+  "https://gh.whu.edu.cn/info/1047/19961.htm": {
+    "file": "assets/sources/source-a508721e937d.webp",
+    "actual": "https://gh.whu.edu.cn/info/1047/19961.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "news",
+      "service",
+      "whu-faculty-interdisciplinary-2026"
+    ]
+  },
+  "https://gh.whu.edu.cn/info/1047/22001.htm": {
+    "file": "assets/sources/source-78b1012c91a1.webp",
+    "actual": "https://gh.whu.edu.cn/info/1047/22001.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "index",
+      "news",
+      "service",
+      "whu-faculty-career-2026"
+    ]
+  },
+  "https://glkx.hit.edu.cn/__local/E/70/AF/3331F13F35969FDC8B88F37B8E0_09AEFFA9_DAAC9.pdf": {
+    "file": "assets/sources/pub-48.webp",
+    "actual": "https://glkx.hit.edu.cn/__local/E/70/AF/3331F13F35969FDC8B88F37B8E0_09AEFFA9_DAAC9.pdf",
+    "note": "PDF 第1页，题名与署名节选。",
+    "used_by": [
+      "pub-a2d2a65353b948",
+      "research"
+    ]
+  },
+  "https://guz.suat-sz.edu.cn/top2pct/entry/2763252": {
+    "file": "assets/sources/source-ad38001538e3.webp",
+    "actual": "https://guz.suat-sz.edu.cn/top2pct/entry/2763252",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "news",
+      "top-scientists-2026"
+    ]
+  },
+  "https://gzdx.dps.qikan.cn/pc/maga/text-read?id=xdqb20250108": {
+    "file": "assets/sources/pub-05.webp",
+    "actual": "https://m.fx361.com/news/2025/0104/25491122.html",
+    "used_by": [
+      "research",
+      "teaching-digital-human-paper"
+    ]
+  },
+  "https://hicss.hawaii.edu/wp-content/uploads/2019/12/Hicss_53_Program_12242019.pdf": {
+    "file": "assets/sources/hicss-2020-best-paper-nomination.webp",
+    "actual": "https://hicss.hawaii.edu/wp-content/uploads/2019/12/Hicss_53_Program_12242019.pdf",
+    "note": "第53届夏威夷系统科学年会议程PDF第63页，论文前星号与该页的提名图例。",
+    "used_by": [
+      "fact-98e84ebf412920",
+      "honors",
+      "news"
+    ]
+  },
+  "https://icis2024.aisconferences.org/submissions/track-descriptions/": {
+    "file": "assets/sources/ref-25-icis-archive.webp",
+    "actual": "https://web.archive.org/web/20250814124427/https://icis2024.aisconferences.org/submissions/track-descriptions/",
+    "used_by": [
+      "fact-5a5055b9a1ba05",
+      "service"
+    ]
+  },
+  "https://ideas.repec.org/a/bla/jinfst/v77y2026i9p1213-1239.html": {
+    "file": "assets/sources/source-2f62f08690b0.webp",
+    "actual": "https://ideas.repec.org/a/bla/jinfst/v77y2026i9p1213-1239.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://ideas.repec.org/a/eee/infome/v19y2025i3s1751157725000641.html": {
+    "file": "assets/sources/source-946c9b29e788.webp",
+    "actual": "https://ideas.repec.org/a/eee/infome/v19y2025i3s1751157725000641.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://informationmatters.org/2024/06/can-anti-rumor-campaigns-foster-positive-behavioral-change/": {
+    "file": "assets/sources/information-matters-2024-original.webp",
+    "actual": "https://informationmatters.org/2024/06/can-anti-rumor-campaigns-foster-positive-behavioral-change/",
+    "note": "Information Matters 原网页标题、刊发日期及正文作者署名节选。",
+    "used_by": [
+      "fact-5d5e6f1975c34e",
+      "news"
+    ]
+  },
+  "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.06.017": {
+    "file": "assets/sources/pub-31.webp",
+    "actual": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/article/downloadArticleFile.do?attachType=PDF&id=6225",
+    "note": "原刊 PDF 第1页两处节选，上为题名和署名，下为基金项目及项目编号。",
+    "used_by": [
+      "grant-online-deviance-2023",
+      "grant-rumor-engagement-2023",
+      "news",
+      "paper-data-governance-2023",
+      "research"
+    ]
+  },
+  "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/abstract/abstract6225.shtml": {
+    "file": "assets/sources/pub-38.webp",
+    "actual": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/abstract/abstract6225.shtml",
+    "used_by": [
+      "paper-data-governance-2023",
+      "research"
+    ]
+  },
+  "https://kmis.scitevents.org/ProgramCommittee.aspx?y=2021": {
+    "file": "assets/sources/source-7e1fe3207751.webp",
+    "actual": "https://kmis.scitevents.org/ProgramCommittee.aspx?y=2021",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-ba946c39598e2a",
+      "service"
+    ]
+  },
+  "https://link.springer.com/article/10.1007/s10660-020-09407-2": {
+    "file": "assets/sources/source-817d49d8167b.webp",
+    "actual": "https://link.springer.com/article/10.1007/s10660-020-09407-2?error=cookies_not_supported&code=3536cd13-4147-4788-97a9-20ddaa930c56",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-3bdecc0b01450f",
+      "service"
+    ]
+  },
+  "https://link.springer.com/article/10.1007/s12525-022-00542-2": {
+    "file": "assets/sources/source-65820ba4e313.webp",
+    "actual": "https://link.springer.com/article/10.1007/s12525-022-00542-2?error=cookies_not_supported&code=7516f37f-8608-4f45-a731-f488b2e22fec",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-e4e2f945d1c956",
+      "service"
+    ]
+  },
+  "https://link.springer.com/content/pdf/bfm:978-3-031-35924-8/1#page=11": {
+    "file": "assets/sources/kmis-2021-committee.webp",
+    "actual": "https://link.springer.com/content/pdf/bfm:978-3-031-35924-8/1#page=11",
+    "note": "Springer 会议论文集前言 PDF 第10、11页节选。",
+    "used_by": [
+      "fact-ba946c39598e2a"
+    ]
+  },
+  "https://link.springer.com/journal/10660/editorial-board": {
+    "actual": "https://link.springer.com/journal/10660/editorial-board",
+    "label": "Springer Nature · Electronic Commerce Research",
+    "file": "assets/sources/role-c7b08eb71f0b.webp",
+    "note": "网页原文打印节选",
+    "used_by": [
+      "about",
+      "fact-ad4d25ea22c9ce"
+    ]
+  },
+  "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220818/045869.html": {
+    "file": "assets/sources/source-460723f72f01.webp",
+    "actual": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220818/045869.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-d7e1dd71e060fe"
+    ]
+  },
+  "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220904/046021.html": {
+    "file": "assets/sources/source-b74b02a47360.webp",
+    "actual": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220904/046021.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-d7e1dd71e060fe",
+      "service"
+    ]
+  },
+  "https://m.fx361.com/news/2024/0119/22945730.html": {
+    "file": "assets/sources/pub-37.webp",
+    "actual": "https://m.fx361.com/news/2024/0119/22945730.html",
+    "used_by": [
+      "pub-5c9fe47fca1048",
+      "research"
+    ]
+  },
+  "https://manu68.magtech.com.cn/glxb/CN/Y2024/V21/I1": {
+    "file": "assets/sources/pub-19.webp",
+    "actual": "https://manu68.magtech.com.cn/glxb/CN/Y2024/V21/I1",
+    "used_by": [
+      "pub-362e9490950092",
+      "research"
+    ]
+  },
+  "https://news.fudan.edu.cn/2023/0508/c2463a134800/page.htm": {
+    "file": "assets/sources/source-083092d6f931.webp",
+    "actual": "https://news.fudan.edu.cn/2023/0508/c2463a134800/page.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://news.whu.edu.cn/info/1002/488527.htm": {
+    "file": "assets/sources/source-4882c5158000.webp",
+    "actual": "https://news.whu.edu.cn/info/1002/488527.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "honors",
+      "news",
+      "teaching",
+      "whu-weiqiao-2025"
+    ]
+  },
+  "https://news.whu.edu.cn/info/1007/464187.htm": {
+    "file": "assets/sources/source-0b57dfdf3c90.webp",
+    "actual": "https://news.whu.edu.cn/info/1007/464187.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "honors",
+      "news",
+      "teaching",
+      "teaching-sanchuang-hubei-2024",
+      "teaching-sanchuang-national-2024"
+    ]
+  },
+  "https://news.whu.edu.cn/info/1007/496347.htm": {
+    "file": "assets/sources/source-7953ced037a3.webp",
+    "actual": "https://news.whu.edu.cn/info/1007/496347.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "honors",
+      "huoshanbei-luojia-xinqiao-2026",
+      "news",
+      "teaching"
+    ]
+  },
+  "https://news.whu.edu.cn/info/1015/451167.htm": {
+    "file": "assets/sources/source-34c221534f65.webp",
+    "actual": "https://news.whu.edu.cn/info/1015/451167.htm",
+    "label": "武汉大学新闻网 · 总项目立项公告",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "grant-ai-governance-2024",
+      "news",
+      "research"
+    ]
+  },
+  "https://news.whu.edu.cn/info/1015/499067.htm": {
+    "file": "assets/sources/source-805e51230497.webp",
+    "actual": "https://news.whu.edu.cn/info/1015/499067.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "dim-jcr-2026",
+      "news",
+      "service"
+    ]
+  },
+  "https://news.whu.edu.cn/info/1015/62925.htm": {
+    "file": "assets/sources/source-08dda58280f8.webp",
+    "actual": "https://news.whu.edu.cn/info/1015/62925.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "label": "武汉大学新闻网 · 该届颁奖报道",
+    "used_by": [
+      "honors",
+      "moe-youth-award-2020",
+      "news"
+    ]
+  },
+  "https://osf.io/8tzd2/": {
+    "file": "assets/sources/ref-69-europemc.webp",
+    "actual": "https://europepmc.org/api/getPdf?pmcid=PMC12454158#page=8",
+    "label": "论文数据可用性声明 · Europe PMC",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://patents.google.com/patent/CN109190857B/zh": {
+    "file": "assets/sources/source-b5d184762183.webp",
+    "actual": "https://patentimages.storage.googleapis.com/6a/fa/bf/e371ee39d35c8a/CN109190857B.pdf",
+    "label": "专利授权公告首页",
+    "used_by": [
+      "fact-de5e7063bb8cc3",
+      "news",
+      "research"
+    ]
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC12454158/": {
+    "file": "assets/sources/ref-70-europemc.webp",
+    "actual": "https://europepmc.org/api/getPdf?pmcid=PMC12454158#page=1",
+    "label": "论文原文 · Europe PMC",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://publicera.kb.se/ir/article/view/47596": {
+    "file": "assets/sources/pub-13.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.47989%2Fir30iConf47596",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "paper-reporting-2025"
+    ]
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/40579484/": {
+    "file": "assets/sources/ref-71-orig.webp",
+    "actual": "https://europepmc.org/article/MED/40579484",
+    "label": "论文记录 · Europe PMC",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://q.cnblogs.com/": {
+    "file": "assets/sources/source-6fb98cc937a7.webp",
+    "actual": "https://q.cnblogs.com/",
+    "label": "博客园 · 博问社区栏目",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://qbxb.istic.ac.cn/CN/abstract/abstract947.shtml": {
+    "file": "assets/sources/source-70738958f201.webp",
+    "actual": "https://qbxb.istic.ac.cn/CN/abstract/abstract947.shtml",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://qbxb.istic.ac.cn/CN/volumn/volumn_1201_abs.shtml": {
+    "file": "assets/sources/source-852af8bb0c3b.webp",
+    "actual": "https://qbxb.istic.ac.cn/CN/volumn/volumn_1201_abs.shtml",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://qbxb.istic.ac.cn/EN/10.3772/j.issn.1000-0135.2025.03.009": {
+    "file": "assets/sources/pub-30.webp",
+    "actual": "https://qbxb.istic.ac.cn/EN/10.3772/j.issn.1000-0135.2025.03.009",
+    "note": "《情报学报》会议综述，参考文献第48条。",
+    "used_by": [
+      "pub-3e2f02e93c2a38",
+      "research"
+    ]
+  },
+  "https://research.hkbu.edu.hk/page/detail/22696": {
+    "file": "assets/sources/source-d7992c2da14e.webp",
+    "actual": "https://research.hkbu.edu.hk/page/detail/22696",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "fact-6f417eb3e37c1b"
+    ]
+  },
+  "https://scholar2.pusan.ac.kr/resources/01a193a2-71f0-7211-94aa-bb94f29cf9c9": {
+    "file": "assets/sources/pub-11.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.37272%2FJIECR.2025.6.25.3.145",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-20f9616100bedf",
+      "research"
+    ]
+  },
+  "https://scholars.cityu.edu.hk/en/publications/intermittent-continuance-of-smart-health-devices-a-zone-of-tolera/": {
+    "file": "assets/sources/pub-55.webp",
+    "actual": "https://scholars.cityu.edu.hk/en/publications/intermittent-continuance-of-smart-health-devices-a-zone-of-tolera/",
+    "used_by": [
+      "pub-fa67c433224c75",
+      "research"
+    ]
+  },
+  "https://scholars.hkbu.edu.hk/en/publications/promoting-collaborative-learning-in-virtual-worlds-the-power-of-w/": {
+    "file": "assets/sources/pub-34.webp",
+    "actual": "https://scholars.hkbu.edu.hk/en/publications/promoting-collaborative-learning-in-virtual-worlds-the-power-of-w/",
+    "used_by": [
+      "pub-08720bde9652a3",
+      "research"
+    ]
+  },
+  "https://sem.buaa.edu.cn/info/1020/18244.htm": {
+    "file": "assets/sources/source-83b207d973a4.webp",
+    "actual": "https://iceb2026.johogo.com/conference_tracks.php",
+    "label": "ICEB 2026 · 专题分会主席",
+    "used_by": [
+      "fact-c6a2a2aec8ea99",
+      "news",
+      "service"
+    ]
+  },
+  "https://sim.whu.edu.cn/info/1748/116202.htm": {
+    "file": "assets/sources/source-9cc68c5a7c65.webp",
+    "actual": "https://sim.whu.edu.cn/info/1748/116202.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "honors",
+      "news",
+      "sanchuang-hubei-data-2026",
+      "teaching"
+    ]
+  },
+  "https://sim.whu.edu.cn/info/1748/86122.htm": {
+    "file": "assets/sources/source-c4ce0bb10d21.webp",
+    "actual": "https://sim.whu.edu.cn/info/1748/86122.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "honors",
+      "news",
+      "teaching",
+      "teaching-sanchuang-national-2023"
+    ]
+  },
+  "https://skc.ytu.edu.cn/info/1084/1917.htm": {
+    "file": "assets/sources/source-815cc03b6d41.webp",
+    "actual": "https://skc.ytu.edu.cn/info/1084/1917.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://teacher.higher.smartedu.cn/h/subject/summer2022/vade/": {
+    "file": "assets/sources/source-c35974eba939.webp",
+    "actual": "https://hudong.moe.gov.cn/srcsite/A10/s7034/202207/t20220726_648961.html",
+    "label": "2022年暑期教师研修公开通知",
+    "used_by": [
+      "news",
+      "summer-teacher-training-2022",
+      "teaching"
+    ]
+  },
+  "https://tianchi.aliyun.com/dataset/183569": {
+    "file": "assets/sources/ref-83-tianchi.webp",
+    "actual": "https://tianchi.aliyun.com/dataset/183569",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://vision.siva.edu.cn/CN/Y2023/V0/I2/85": {
+    "file": "assets/sources/source-f89cb2cd372a.webp",
+    "actual": "https://vision.siva.edu.cn/CN/Y2023/V0/I2/85",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://wap.ipub.exuezhe.com/Qk/Qk_menu?dh=G9&nf=2026&qh=04": {
+    "file": "assets/sources/pub-03.webp",
+    "actual": "https://wap.ipub.exuezhe.com/Qk/Qk_menu?dh=G9&nf=2026&qh=04",
+    "note": "人大复印报刊资料当期目录的篇名；该目录未列著者。",
+    "used_by": [
+      "pub-3ce0d3364d4f30",
+      "research"
+    ]
+  },
+  "https://www.cmit.cn/html/tongzhigonggao/show-144-45879-1.html": {
+    "file": "assets/sources/digital-media-2026-hubei-star.webp",
+    "actual": "https://www.cmit.cn/index.php?a=zipdownload&c=index&file=%2F2026%E5%B9%B4%E6%B9%96%E5%8C%97%E8%B5%9B%E5%8C%BA%E6%95%B0%E5%AA%92%E7%AB%9E%E8%B5%9B%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%9556.pdf&m=formguide&type=pdf",
+    "used_by": [
+      "honors",
+      "index",
+      "news",
+      "teaching",
+      "teaching-xingban-design-2026"
+    ]
+  },
+  "https://www.cnnic.org.cn/NMediaFile/2025/1021/MAIN1761038973801E6DI0GFPDE.pdf": {
+    "file": "assets/sources/cnnic-genai-report-2025.webp",
+    "actual": "https://www.cnnic.org.cn/NMediaFile/2025/1021/MAIN1761038973801E6DI0GFPDE.pdf",
+    "note": "中国互联网络信息中心《生成式人工智能应用发展报告（2025）》PDF第15页。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://www.elsevier.com/events/conferences/all/information-processing-and-management-conference/track-title": {
+    "file": "assets/sources/source-b7333dc47a77.webp",
+    "actual": "https://www.elsevier.cn/events/conferences/all/information-processing-and-management-conference/track-title/",
+    "label": "Elsevier · 专题分会主席",
+    "used_by": [
+      "fact-4e198e5d09d5e9",
+      "news",
+      "service"
+    ]
+  },
+  "https://www.elsevier.com/zh-cn/about/press-releases/2022-chinese-highly-cited-researchers": {
+    "file": "assets/sources/source-159a8cde1453.webp",
+    "actual": "https://www.elsevier.cn/about/press-releases/2022-chinese-highly-cited-researchers/",
+    "label": "爱思唯尔年度榜单发布公告",
+    "used_by": [
+      "fact-b14ca893e6550e",
+      "honors",
+      "news"
+    ]
+  },
+  "https://www.elsevier.com/zh-cn/about/press-releases/elsevier-chinese-news-20240327": {
+    "file": "assets/sources/source-d26706ed6dea.webp",
+    "actual": "https://www.elsevier.cn/about/press-releases/elsevier-chinese-news-20240327/",
+    "label": "爱思唯尔年度榜单发布公告",
+    "used_by": [
+      "highly-cited-china-2023",
+      "honors",
+      "news"
+    ]
+  },
+  "https://www.elsevier.com/zh-cn/about/press-releases/elsevier-chinese-news-20250325": {
+    "file": "assets/sources/source-0fe663e505fc.webp",
+    "actual": "https://www.elsevier.cn/about/press-releases/elsevier-chinese-news-20250325/",
+    "label": "爱思唯尔年度榜单发布公告",
+    "used_by": [
+      "highly-cited-china-2024",
+      "honors",
+      "news"
+    ]
+  },
+  "https://www.elsevier.com/zh-cn/about/press-releases/elsevier-chinese-news-20260130": {
+    "file": "assets/sources/source-e757314c8e3d.webp",
+    "actual": "https://www.elsevier.cn/about/press-releases/elsevier-chinese-news-20260130/",
+    "label": "爱思唯尔年度榜单发布公告",
+    "used_by": [
+      "highly-cited-china-2025",
+      "honors",
+      "news"
+    ]
+  },
+  "https://www.emerald.com/intr/issue/34/1": {
+    "file": "assets/sources/source-51b92b20f67f.webp",
+    "actual": "https://scholar2.pusan.ac.kr/en/resources/01a1935f-b2b5-7a9f-b25c-bbcef4cc53c5",
+    "label": "釜山大学研究库 · 专刊客座社论作者",
+    "used_by": [
+      "fact-c1c923f8e63597"
+    ]
+  },
+  "https://www.emeraldgrouppublishing.com/journal/intr/internet-research-literati-award-winners-2020": {
+    "file": "assets/sources/source-1d7057a0b023.webp",
+    "actual": "https://web.archive.org/web/20250209035308/https://www.emeraldgrouppublishing.com/journal/intr/internet-research-literati-award-winners-2020",
+    "label": "Emerald · 2020年获奖公告（网页存档）",
+    "used_by": [
+      "fact-8c93e2ee89b47e",
+      "honors",
+      "news"
+    ]
+  },
+  "https://www.ideals.illinois.edu/items/133317": {
+    "file": "assets/sources/pub-16.webp",
+    "actual": "https://web.archive.org/web/20260314062102/https://www.ideals.illinois.edu/items/133317",
+    "note": "伊利诺伊大学 IDEALS 馆藏详情页（2026年3月14日网页存档）；题名和作者顺序亦与该馆 OAI 记录一致。",
+    "used_by": [
+      "pub-7703b406119335",
+      "research"
+    ]
+  },
+  "https://www.iplant.cn/info/Ginkgo%20biloba": {
+    "file": "assets/sources/source-740312003f8c.webp",
+    "actual": "https://www.iplant.cn/info/Ginkgo%20biloba",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://www.iscbi.com/ISCBI%202026%20Program-1%281%29.pdf": {
+    "file": "assets/sources/iscbi-2026.webp",
+    "actual": "https://www.iscbi.com/ISCBI%202026%20Program-1%281%29.pdf",
+    "note": "会议手册第1、6、7页节选。",
+    "used_by": [
+      "fact-bcec98113b9ff1",
+      "service"
+    ]
+  },
+  "https://www.ischools.org/post/iconference-2024-paper-award-finalist-announcement": {
+    "file": "assets/sources/pub-18.webp",
+    "actual": "https://www.ischools.org/post/iconference-2024-paper-award-finalist-announcement",
+    "used_by": [
+      "fact-a8fd1a62c7dc08",
+      "honors",
+      "news",
+      "pub-1a4f9ddcd33777",
+      "research"
+    ]
+  },
+  "https://www.jlis.cn/jtlsc/ch/reader/view_abstract.aspx?file_no=20260103&flag=1": {
+    "file": "assets/sources/source-d3981d7f642f.webp",
+    "actual": "https://www.jlis.cn/jtlsc/ch/reader/view_abstract.aspx?file_no=20260103&flag=1",
+    "note": "原网页浏览器打印视图节选。",
+    "label": "《中国图书馆学报》· 论文摘要",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://www.moe.gov.cn/srcsite/A08/s7056/202601/W020261009325656257685.pdf#page=19": {
+    "file": "assets/sources/market-research-first-class-course.webp",
+    "actual": "https://www.moe.gov.cn/srcsite/A08/s7056/202601/W020261009325656257685.pdf#page=19",
+    "note": "教育部正式名单第1、19页节选。线上一流课程第653项。",
+    "used_by": [
+      "news",
+      "teaching",
+      "teaching-national-market-research"
+    ]
+  },
+  "https://www.moe.gov.cn/srcsite/A08/s7056/202601/t20260122_1427237.html": {
+    "file": "assets/sources/source-e2cfb0d55d10.webp",
+    "actual": "http://www.moe.gov.cn/srcsite/A08/s7056/202601/t20260122_1427237.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "news",
+      "teaching",
+      "teaching-national-market-research"
+    ]
+  },
+  "https://www.nationalreading.gov.cn/wzzt/dwjqmyddh/dhzx/bd/202604/t20260420_985575.html": {
+    "file": "assets/sources/ref-77-orig.webp",
+    "actual": "https://www.chinapublish.cn/tt/202604/t20260422_217641.html",
+    "label": "中国新闻出版研究院 · 调查报道",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://www.nlc.cn/pcab/zy/zhgj_zyk/index.shtml": {
+    "file": "assets/sources/source-1b7cdf469866.webp",
+    "actual": "https://www.nlc.cn/pcab/zy/zhgj_zyk/index.shtml",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://www.nrta.gov.cn/art/2026/7/11/art_114_73688.html": {
+    "file": "assets/sources/source-5edf4174546b.webp",
+    "actual": "https://www.nrta.gov.cn/art/2026/7/11/art_114_73688.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://www.qikan.com.cn/m/article/xdqb20250108.html": {
+    "file": "assets/sources/pub-06.webp",
+    "actual": "https://www.qikan.com.cn/m/article/xdqb20250108.html",
+    "used_by": [
+      "teaching-digital-human-paper"
+    ]
+  },
+  "https://www.sciencedirect.com/science/article/abs/pii/S0378720621000227": {
+    "file": "assets/sources/pub-51.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.im.2021.103448",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-4a3f086d552afc",
+      "research"
+    ]
+  },
+  "https://www.sciencedirect.com/science/article/abs/pii/S0736585324000376": {
+    "file": "assets/sources/pub-21.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.tele.2024.102133",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "paper-rumor-atmosphere-2024"
+    ]
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0148296322003149": {
+    "file": "assets/sources/pub-46.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.jbusres.2022.03.076",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-e32c6a3b3627bc",
+      "research"
+    ]
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0306457322003582": {
+    "file": "assets/sources/pub-32.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.ipm.2022.103257",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-4f8493299eb5c7",
+      "research"
+    ]
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0378720621001300": {
+    "file": "assets/sources/pub-50.webp",
+    "actual": "https://explore.openaire.eu/search/publication?pid=10.1016%2Fj.im.2021.103556",
+    "note": "OpenAIRE 学术索引，同篇论文的题名、署名及 DOI。",
+    "used_by": [
+      "pub-5bf75e127d4573",
+      "research"
+    ]
+  },
+  "https://www.sinomed.ac.cn/article.do?ui=2026109861": {
+    "file": "assets/sources/pub-04.webp",
+    "actual": "https://www.sinomed.ac.cn/article.do?ui=2026109861",
+    "used_by": [
+      "paper-rumor-verification-2025"
+    ]
+  },
+  "https://www.sinomed.ac.cn/article.do?ui=2026262812": {
+    "file": "assets/sources/source-c7f01b2ad269.webp",
+    "actual": "https://www.sinomed.ac.cn/article.do?ui=2026262812",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://www.sohu.com/a/644421108_121124322": {
+    "file": "assets/sources/teacher-interview-2023.webp",
+    "actual": "https://www.sohu.com/a/644421108_121124322",
+    "note": "2023年2月22日搜狐转载《师道风范》专访，原网页标题、时间及受访者简介节选。",
+    "used_by": [
+      "media-shidaofengfan-2023",
+      "news"
+    ]
+  },
+  "https://www.stats.gov.cn/zs/tjws/tjzb/202301/t20230101_1903941.html": {
+    "file": "assets/sources/source-210753963034.webp",
+    "actual": "https://www.stats.gov.cn/zs/tjws/tjzb/202301/t20230101_1903941.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://www.thepaper.cn/newsDetail_forward_31601320": {
+    "file": "assets/sources/source-d1c356b3849f.webp",
+    "actual": "https://www.thepaper.cn/newsDetail_forward_31601320",
+    "used_by": [
+      "fact-9adbd6a8a7a3c1",
+      "fact-ec293fd07ed681",
+      "honors",
+      "news",
+      "teaching"
+    ]
+  },
+  "https://www.wifa.uni-leipzig.de/en/information-systems-institute/newsdetail-1/artikel/special-issue-on-the-metaverse-in-internet-research": {
+    "file": "assets/sources/source-d48b0bb4d99f.webp",
+    "actual": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220227/044029.html",
+    "label": "AISWorld · 元宇宙专刊征稿",
+    "used_by": [
+      "fact-c1c923f8e63597",
+      "service"
+    ]
+  },
+  "https://www.wuhan.gov.cn/hdjl/lxgs/202004/t20200416_1019941.shtml": {
+    "file": "assets/sources/source-2b3504fe6155.webp",
+    "actual": "https://www.wuhan.gov.cn/hdjl/lxgs/202004/t20200416_1019941.shtml",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://xueshu.wtu.edu.cn/info/1044/8925.htm": {
+    "file": "assets/sources/source-13b0953edacb.webp",
+    "actual": "https://xueshu.wtu.edu.cn/info/1044/8925.htm",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "news",
+      "service",
+      "wtu-lecture-2024"
+    ]
+  },
+  "https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202606/t20260602_966073.html": {
+    "file": "assets/sources/source-f4d66f80cdc4.webp",
+    "actual": "https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202606/t20260602_966073.html",
+    "note": "原网页浏览器打印视图节选。",
+    "used_by": [
+      "course-lab-resource"
+    ]
+  },
+  "https://jirm.whu.edu.cn/CN/column/item260.shtml": {
+    "actual": "https://jirm.whu.edu.cn/CN/column/item260.shtml",
+    "label": "武汉大学信息管理学院期刊中心",
+    "file": "assets/sources/role-48bf8b677a40.webp",
+    "note": "网页原文打印节选",
+    "used_by": [
+      "about",
+      "fact-cbb3eed6e5261a",
+      "news"
+    ]
+  },
+  "https://sim.whu.edu.cn/xygk/jgdl.htm": {
+    "actual": "https://sim.whu.edu.cn/xygk/jgdl.htm",
+    "label": "武汉大学信息管理学院 · 机构导览",
+    "file": "assets/sources/role-7ea773d267ed.webp",
+    "note": "期刊与学术交流中心现任人员名单。",
+    "used_by": [
+      "about",
+      "fact-6dfac15cb15b12",
+      "news"
+    ]
+  },
+  "https://aigc.enetedu.com/": {
+    "actual": "https://aigc.enetedu.com/",
+    "file": "assets/sources/ai-training-provider-2026.webp",
+    "label": "全国高校教师网络培训中心 · 培训项目",
+    "note": "主办方项目页面介绍系列培训，参训情况见个人证书。",
+    "used_by": [
+      "ai-faculty-training-2026",
+      "index",
+      "news",
+      "teaching"
+    ]
+  },
+  "https://education.news.cn/2021-11/24/c_1211460446.htm": {
+    "actual": "https://education.news.cn/2021-11/24/c_1211460446.htm",
+    "file": "assets/sources/faculty-training-organizer-2021.webp",
+    "label": "联合主办方新华网 · 开班报道",
+    "note": "联合主办方发布的开班报道，参训情况见个人证书。",
+    "used_by": [
+      "faculty-curriculum-2021",
+      "news",
+      "teaching"
+    ]
+  },
+  "https://uc.whu.edu.cn/info/1520/118281.htm": {
+    "actual": "https://uc.whu.edu.cn/info/1520/118281.htm",
+    "file": "assets/sources/hubei-grad-teaching-whu-2025.webp",
+    "label": "武汉大学本科生院 · 省级教改项目名单",
+    "note": "湖北省教育厅项目名单中武汉大学团队及课题条目。",
+    "used_by": [
+      "fact-3a5ba955552980",
+      "news",
+      "teaching"
+    ]
+  },
+  "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/article/downloadArticleFile.do?attachType=PDF&id=6225": {
+    "actual": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/article/downloadArticleFile.do?attachType=PDF&id=6225",
+    "file": "assets/sources/whu-journal-grant-acknowledgement.webp",
+    "label": "武汉大学《信息资源管理学报》· 论文基金标注",
+    "note": "原刊论文标注项目类别和基金编号22YJA870013。",
+    "used_by": [
+      "grant-disinformation-2023",
+      "news",
+      "research"
+    ]
+  },
+  "https://news.dlut.edu.cn/info/1022/143195.htm": {
+    "actual": "https://news.dlut.edu.cn/info/1022/143195.htm",
+    "file": "assets/sources/market-survey-2026-dlut.webp",
+    "label": "承办方大连理工大学 · 全国总决赛及赛期",
+    "note": "大连理工大学新闻网报道赛事于5月30日至31日举行。",
+    "used_by": [
+      "honors",
+      "news",
+      "teaching",
+      "teaching-market-survey-final-2026"
+    ]
+  }
+}
