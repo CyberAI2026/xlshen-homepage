@@ -558,10 +558,11 @@
       "research"
     ]
   },
-  "https://guz.suat-sz.edu.cn/top2pct/entry/2763252": {
-    "file": "assets/sources/source-ad38001538e3.webp",
-    "actual": "https://guz.suat-sz.edu.cn/top2pct/entry/2763252",
-    "note": "原网页浏览器打印视图节选。",
+  "https://data.mendeley.com/public-files/datasets/btchxktzyw/files/a517a94c-3fb0-4cee-b97f-f2d476df66f0/file_downloaded": {
+    "file": "assets/sources/stanford-v9-singleyr-author.webp",
+    "actual": "https://data.mendeley.com/public-files/datasets/btchxktzyw/files/a517a94c-3fb0-4cee-b97f-f2d476df66f0/file_downloaded",
+    "label": "Elsevier · 单年度榜单个人记录",
+    "note": "第九版官方单年度工作表（统计2025年引用，2026年发布），Data 表第105025行列出 Shen, Xiaoliang，Wuhan University，chn。",
     "used_by": [
       "news",
       "top-scientists-2026"
