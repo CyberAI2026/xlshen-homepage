@@ -48,6 +48,7 @@ def public_files(site):
 def build():
     build_facts(ROOT / 'site')
     files = public_files(ROOT / 'site')
+    version_page_assets(files)
     buf = io.BytesIO()
     with zipfile.ZipFile(buf, 'w') as archive:
         for name in sorted(files):
@@ -61,6 +62,30 @@ def build():
     (ROOT / 'site.zip').write_bytes(package)
     (ROOT / 'release.json').write_bytes(manifest.encode('ascii'))
     print('%d files, ZIP SHA-256 %s' % (len(files), digest))
+
+
+def version_page_assets(files):
+    """Refresh browser cache keys only for the homepage's shared CSS and JS."""
+    versions = {
+        name: hashlib.sha256(files[name].read_bytes()).hexdigest()[:12]
+        for name in ('assets/site.css', 'assets/archive.js')
+    }
+    asset_urls = re.compile(
+        r'(?P<attr>\b(?:href|src)=)(?P<quote>["\'])(?P<path>assets/(?:site\.css|archive\.js))'
+        r'(?:\?v=[a-zA-Z0-9_-]+)?(?P=quote)'
+    )
+
+    def with_version(match):
+        path = match['path']
+        quote = match['quote']
+        return f"{match['attr']}{quote}{path}?v={versions[path]}{quote}"
+
+    for name in sorted(PAGES):
+        page = files[name]
+        source = page.read_text(encoding='utf-8')
+        updated = asset_urls.sub(with_version, source)
+        if updated != source:
+            page.write_text(updated, encoding='utf-8')
 
 
 if __name__ == '__main__':
