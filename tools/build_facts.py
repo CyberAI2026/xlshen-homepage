@@ -38,7 +38,7 @@ def load_records(site):
             raise ValueError(f"Invalid or duplicate public record ID or category: {rid}")
         seen.add(rid)
         if not all(isinstance(row[key], str) and row[key].strip()
-                   for key in ("title", "subcategory", "role", "detail")):
+                   for key in ("title", "subcategory", "detail")) or not isinstance(row["role"], str):
             raise ValueError(f"Missing public record text: {rid}")
         if row["date"] is not None and not isinstance(row["date"], str):
             raise ValueError(f"Invalid date: {rid}")
@@ -57,16 +57,20 @@ def load_records(site):
 def record_html(row):
     tag = escape(row["subcategory"])
     date_label = escape(row["date_label"] or row["date"] or "日期未载")
-    links = " ".join(
-        f'<a href="{escape(src["url"], quote=True)}">{escape(src["label"])}</a>'
-        for src in row["sources"])
+    sources = []
+    for src in row["sources"]:
+        url = src["url"]
+        download = " download" if not urlsplit(url).netloc and url.lower().endswith((".pdf", ".zip")) else ""
+        sources.append(f'<a href="{escape(url, quote=True)}"{download}>{escape(src["label"])}</a>')
+    links = " ".join(sources)
+    role = f'\n        <p class="fact-role"><span>角色</span>　{escape(row["role"])}</p>' if row["role"] else ""
+    year = escape(row["date"][:4]) if row["date"] else "current"
     rid = row["id"]
     return f"""
-    <li class="fact" id="record-{rid}" data-category="{row['category']}">
+    <li class="fact" id="record-{rid}" data-category="{row['category']}" data-year="{year}">
       <div class="fact-meta"><span class="fact-date">{date_label}</span><span class="fact-tag">{tag}</span></div>
       <div class="fact-main">
-        <h3 class="fact-title">{escape(row['title'])}</h3>
-        <p class="fact-role"><span>角色</span>　{escape(row['role'])}</p>
+        <h3 class="fact-title">{escape(row['title'])}</h3>{role}
         <p class="fact-detail">{escape(row['detail'])}</p>
         <div class="fact-actions"><div class="fact-sources"><span>来源</span>　{links}</div>
           <button class="copy-record" type="button" hidden aria-label="复制：{escape(row['title'], quote=True)}">复制条目</button>
@@ -77,6 +81,11 @@ def record_html(row):
 
 def build_facts(site=SITE):
     records = load_records(site)
+    years = sorted({row["date"][:4] for row in records if row["date"]}, reverse=True)
+    options = ['<option value="all">全部年份</option>']
+    options.extend(f'<option value="{escape(year)}">{escape(year)} 年</option>' for year in years)
+    if any(not row["date"] for row in records):
+        options.append('<option value="current">未列年份</option>')
     groups = []
     filters = ['<button class="topic-filter" type="button" data-filter="all" aria-pressed="true">全部</button>']
     for code, (label, _) in CATEGORIES.items():
@@ -101,6 +110,7 @@ def build_facts(site=SITE):
       <div class="archive-tools" data-archive-controls hidden>
         <div class="filter-row"><div class="filter-options" role="group" aria-label="按类别筛选">{''.join(filters)}</div>
           <label class="record-search"><span>检索记录</span><input type="search" id="archive-search" placeholder="名称、年份或关键词" autocomplete="off"></label>
+          <label class="archive-year">年份　<select data-year-filter aria-label="按年份筛选">{''.join(options)}</select></label>
         </div>
         <p class="results-status" role="status" aria-live="polite"></p>
       </div>
