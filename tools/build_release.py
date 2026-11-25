@@ -8,11 +8,13 @@ import re
 import stat
 import zipfile
 
+from build_facts import build_facts
+
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGES = {
     'about.html', 'course-lab.html', 'honors.html', 'index.html',
-    'news.html', 'research.html', 'service.html', 'teaching.html',
+    'news.html', 'facts.html', 'research.html', 'service.html', 'teaching.html',
 }
 LAB = re.compile(r'(?:Information_Reception_Lab_V\d+(?:_\d+)*\.html|Reception_Lab_V\d+(?:_\d+)*_Student\.zip)\Z')
 ASSET_TYPES = {'.css', '.js', '.json', '.txt', '.xml', '.pdf', '.zip', '.png', '.jpg',
@@ -44,6 +46,7 @@ def public_files(site):
 
 
 def build():
+    build_facts(ROOT / 'site')
     files = public_files(ROOT / 'site')
     buf = io.BytesIO()
     with zipfile.ZipFile(buf, 'w') as archive:
