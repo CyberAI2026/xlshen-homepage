@@ -1,5 +1,21 @@
 [
   {
+    "id": "iscbi-tpc-2027",
+    "category": "service",
+    "subcategory": "会议服务",
+    "title": "ISCBI 2027 技术程序委员会委员",
+    "date": "2027-02-26",
+    "date_label": "2027年会议（已公布委员会名单）",
+    "detail": "第9届计算与商务智能国际研讨会（ISCBI 2027）已公布技术程序委员会名单，沈校亮为委员。会议定于2027年2月26日至28日在澳门举行。",
+    "sources": [
+      {
+        "label": "ISCBI 2027 · 技术程序委员会",
+        "url": "https://iscbi.com/com.html"
+      }
+    ],
+    "role": "技术程序委员会委员"
+  },
+  {
     "id": "aigc-fact-checking-ai-voice-accepted-2026",
     "category": "research",
     "subcategory": "论文录用",
@@ -608,6 +624,25 @@
     ]
   },
   {
+    "id": "fact-427a26808c46b7",
+    "category": "service",
+    "subcategory": "会议服务",
+    "date": "2025-12-05",
+    "date_label": "2025年12月5日",
+    "title": "ICSeB 2025 程序委员会共同主席",
+    "role": "程序委员会共同主席",
+    "detail": "担任第9届软件与电子商务国际会议（ICSeB 2025）程序委员会共同主席（Program Committee Co-Chair）。",
+    "sources": [
+      {
+        "label": "ICSeB 2025 · 当届组委会名单（留存）"
+      },
+      {
+        "label": "ICSeB 2025 · 会议回顾",
+        "url": "https://www.icseb.org/2025.html"
+      }
+    ]
+  },
+  {
     "id": "whu-weiqiao-2025",
     "category": "teaching",
     "subcategory": "教学荣誉",
@@ -704,6 +739,25 @@
       {
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA%3D%3D&idx=1&mid=2656201074&sn=f6e10a6ac75ad58e85765f8effa9657e",
         "label": "武汉大学官方微信 · 全国总决赛收官，武大学子斩获7项奖！"
+      }
+    ]
+  },
+  {
+    "id": "fact-7c671e64aa8258",
+    "category": "service",
+    "subcategory": "会议服务",
+    "date": "2025-07-11",
+    "date_label": "2025年7月11日",
+    "title": "ICEME 2025 宣传主席",
+    "role": "宣传主席",
+    "detail": "担任第 16 届电子商务、管理与经济学国际会议（ICEME 2025）宣传主席。",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      },
+      {
+        "label": "ICEME 2025 · 会议回顾",
+        "url": "https://iceme.org/2025.html"
       }
     ]
   },
@@ -1028,6 +1082,40 @@
       }
     ],
     "date_label": "2025年"
+  },
+  {
+    "id": "pub-cc7daf4b36acf2",
+    "category": "research",
+    "subcategory": "会议报告",
+    "date": "2025",
+    "date_label": "2025年",
+    "title": "双系统理论视角下助推策略对谣言脱离行为的影响：社会背书的非对称调节效应与设计脆弱性",
+    "role": "",
+    "detail": "沈校亮、吴忧 · 2025年中国情报学年会暨情报学与情报工作发展论坛（西安）",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      },
+      {
+        "label": "武汉纺织大学 · 吴忧同题会议报告",
+        "url": "https://em.wtu.edu.cn/info/1051/17668.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-b960ee6db408b8",
+    "category": "research",
+    "subcategory": "会议报告",
+    "date": "2025",
+    "date_label": "2025年",
+    "title": "基于情感温暖与伦理对齐的算法厌恶缓解：一项混合方法研究",
+    "role": "",
+    "detail": "沈校亮、王晨悦、吴忧 · 2025年中国情报学年会暨情报学与情报工作发展论坛（西安）",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
   },
   {
     "id": "sim-class-mentor-visit-2024",
@@ -1452,6 +1540,87 @@
     ]
   },
   {
+    "id": "fact-f940052784fc08",
+    "category": "service",
+    "subcategory": "专刊编辑",
+    "date": "2024",
+    "date_label": "2024年征稿",
+    "title": "《Electronic Markets》专刊“Cyberspace Governance in the AI Era”",
+    "role": "客座编辑",
+    "detail": "共同担任《Electronic Markets》专刊“Cyberspace Governance in the AI Era”客座编辑。",
+    "sources": [
+      {
+        "label": "AISWorld · 专刊征稿",
+        "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20240101/050605.html"
+      }
+    ]
+  },
+  {
+    "id": "fact-c1c923f8e63597",
+    "category": "service",
+    "subcategory": "专刊编辑",
+    "date": "2024",
+    "date_label": "2024年出版",
+    "title": "《Internet Research》专刊“Opportunities and Challenges in the Metaverse”",
+    "role": "客座编辑",
+    "detail": "共同担任《Internet Research》专刊“Opportunities and Challenges in the Metaverse”客座编辑。",
+    "sources": [
+      {
+        "label": "Emerald · 专刊目录",
+        "url": "https://www.emerald.com/intr/issue/34/1"
+      }
+    ]
+  },
+  {
+    "id": "pub-b9acb25bbb8f60",
+    "category": "research",
+    "subcategory": "会议报告",
+    "date": "2024",
+    "date_label": "2024年",
+    "title": "超越价值沉淀：基于价值释放视角的数据要素应用价值分类体系构建",
+    "role": "",
+    "detail": "沈校亮、王晨悦 · 中国情报学年会暨情报学与情报工作发展论坛 · 天津，10 月 11–13 日",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "grant-ai-governance-2024",
+    "category": "research",
+    "subcategory": "科研项目",
+    "date": "2024",
+    "date_label": "2024年",
+    "title": "国家社科基金重大项目子课题一",
+    "role": "",
+    "detail": "担任查先进教授主持的国家社科基金重大项目“人工智能颠覆性应用的社会影响与信息治理研究”子课题一“人工智能颠覆性应用场景和信息治理基础理论研究”负责人（23&ZD223，执行期2024–2028）。",
+    "sources": [
+      {
+        "url": "https://news.whu.edu.cn/info/1015/451167.htm",
+        "label": "武汉大学新闻网 · 总项目立项公告"
+      },
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "fact-52533e55ee9972",
+    "category": "service",
+    "subcategory": "专刊编辑",
+    "date": "2024",
+    "date_label": "2024–2025年",
+    "title": "《Information Processing & Management》专刊“Understanding Human Behaviors Through Large Language Models”",
+    "role": "客座编辑",
+    "detail": "共同担任《Information Processing & Management》专刊“Understanding Human Behaviors Through Large Language Models”客座编辑。",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
     "id": "teaching-internet-plus",
     "category": "teaching",
     "subcategory": "学生指导",
@@ -1481,6 +1650,25 @@
         "label": "武汉大学第十五届“自强杯”大学生课外学术科技作品竞赛获奖名单（武大学工字〔2023〕27号，2023年9月1日）"
       }
     ]
+  },
+  {
+    "id": "fact-b14ca893e6550e",
+    "title": "入选爱思唯尔2022年度“中国高被引学者”",
+    "detail": "爱思唯尔发布2022年度“中国高被引学者”榜单，沈校亮入选。",
+    "date": "2023-03-28",
+    "subcategory": "学术荣誉",
+    "category": "research",
+    "role": "",
+    "sources": [
+      {
+        "label": "爱思唯尔 · 2022年度榜单发布公告",
+        "url": "https://www.elsevier.com/zh-cn/about/press-releases/2022-chinese-highly-cited-researchers"
+      },
+      {
+        "label": "沈校亮本人确认"
+      }
+    ],
+    "date_label": "2023年3月28日"
   },
   {
     "id": "pub-4f8493299eb5c7",
@@ -1691,22 +1879,6 @@
     ]
   },
   {
-    "id": "fact-f940052784fc08",
-    "category": "service",
-    "subcategory": "专刊编辑",
-    "date": "2023",
-    "date_label": "2023年",
-    "title": "《Electronic Markets》人工智能时代的网络空间治理专刊",
-    "role": "",
-    "detail": "受邀担任《Electronic Markets》“Cyberspace Governance in the AI Era”专刊客座编辑。",
-    "sources": [
-      {
-        "url": "https://cto.aom.org/cto/discussion/cfp-electronic-markets-cyberspace-governance-in-the-ai-era",
-        "label": "Academy of Management"
-      }
-    ]
-  },
-  {
     "id": "teaching-sanchuang-national-2023",
     "category": "teaching",
     "subcategory": "学生指导",
@@ -1719,6 +1891,126 @@
       {
         "url": "https://sim.whu.edu.cn/info/1748/86122.htm",
         "label": "武汉大学信息管理学院获奖报道"
+      }
+    ]
+  },
+  {
+    "id": "fact-d7e1dd71e060fe",
+    "category": "service",
+    "subcategory": "专刊编辑",
+    "date": "2023",
+    "date_label": "2023年出版",
+    "title": "《Data and Information Management》专刊“Human-AI Interaction”",
+    "role": "客座编辑",
+    "detail": "共同担任《Data and Information Management》专刊“Human-AI Interaction”客座编辑。",
+    "sources": [
+      {
+        "label": "Elsevier · 专刊导言",
+        "url": "https://doi.org/10.1016/j.dim.2023.100048"
+      },
+      {
+        "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220818/045869.html",
+        "label": "AIS · 专刊征稿启事与客座编辑名单"
+      }
+    ]
+  },
+  {
+    "id": "pub-fbd2262f60cfd1",
+    "category": "research",
+    "subcategory": "会议海报",
+    "date": "2023",
+    "date_label": "2023年",
+    "title": "在线信息污染：概念内涵、外延界定与多维分类",
+    "role": "",
+    "detail": "沈校亮，吴忧，丁奕童 · 中国情报学年会暨情报学与情报工作发展论坛 · 长沙",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "grant-rumor-engagement-2023",
+    "category": "research",
+    "subcategory": "科研项目",
+    "date": "2023",
+    "date_label": "2023年",
+    "title": "国家自然科学基金面上项目",
+    "role": "",
+    "detail": "主持国家自然科学基金面上项目“基于道德决策视角的网络辟谣参与行为研究”（72274144，执行期2023–2026）。",
+    "sources": [
+      {
+        "url": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.06.017",
+        "label": "《信息资源管理学报》论文及基金标注",
+        "note": "原刊第1页列出论文题名、作者与项目资助信息。"
+      },
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "grant-online-deviance-2023",
+    "category": "research",
+    "subcategory": "科研项目",
+    "date": "2023",
+    "date_label": "2023年",
+    "title": "国家自然科学基金国际（地区）合作与交流项目",
+    "role": "",
+    "detail": "主持国家自然科学基金国际（地区）合作与交流项目“基于儒家责任伦理的网络失范行为治理研究”（72311540158，2023–2025）。",
+    "sources": [
+      {
+        "url": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.06.017",
+        "label": "《信息资源管理学报》论文及基金标注",
+        "note": "原刊第1页列出论文题名、作者与项目资助信息。"
+      },
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "fact-5d12a8ac30ca76",
+    "category": "research",
+    "subcategory": "科研项目",
+    "date": "2023",
+    "date_label": "2023年",
+    "title": "教育部人文社科重点研究基地重大项目子课题四",
+    "role": "",
+    "detail": "担任教育部人文社科重点研究基地重大项目“智能情报支持下的科技决策与创新政策研究”子课题四负责人，承担“数智赋能的科技决策支撑服务研究”（22JJD870002，2023–2025）。",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "fact-f0dd1fe79f52b9",
+    "category": "research",
+    "subcategory": "软件著作权",
+    "date": "2023",
+    "date_label": "2023年",
+    "title": "社交媒体用户不实信息举报倾向识别软件",
+    "role": "",
+    "detail": "与刘琳瑶共同完成的软件“社交媒体用户不实信息举报倾向识别软件”登记软件著作权，登记号2023SR1054309。",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "fact-4c6e76f1475d6c",
+    "category": "research",
+    "subcategory": "软件著作权",
+    "date": "2023",
+    "date_label": "2023年",
+    "title": "社交媒体用户虚假信息发布倾向识别软件",
+    "role": "",
+    "detail": "与刘琳瑶共同完成的软件“社交媒体用户虚假信息发布倾向识别软件”登记软件著作权，登记号2023SR1127070。",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
       }
     ]
   },
@@ -1767,22 +2059,6 @@
       {
         "label": "证书（PDF）",
         "url": "assets/summer-teacher-training-2022.pdf"
-      }
-    ]
-  },
-  {
-    "id": "fact-d7e1dd71e060fe",
-    "category": "service",
-    "subcategory": "专刊编辑",
-    "date": "2022-08-18",
-    "date_label": "2022年8月18日（专刊征稿）",
-    "title": "《Data and Information Management》人智交互专刊",
-    "role": "",
-    "detail": "《Data and Information Management》发布“Human-AI Interaction”专刊征稿，沈校亮列为客座编辑之一。",
-    "sources": [
-      {
-        "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220818/045869.html",
-        "label": "AIS · 专刊征稿启事与客座编辑名单"
       }
     ]
   },
@@ -1983,30 +2259,14 @@
     "category": "service",
     "subcategory": "专刊编辑",
     "date": "2022",
-    "date_label": "2022年",
-    "title": "《Electronic Markets》人工智能专刊出版",
-    "role": "",
-    "detail": "参与组织《Electronic Markets》“The Dark Sides of AI”专刊，担任客座编辑。",
+    "date_label": "2022年出版",
+    "title": "《Electronic Markets》专刊“The Dark Sides of AI”",
+    "role": "客座编辑",
+    "detail": "共同担任《Electronic Markets》专刊“The Dark Sides of AI”客座编辑。",
     "sources": [
       {
-        "url": "https://link.springer.com/article/10.1007/s12525-022-00542-2",
-        "label": "Springer Nature"
-      }
-    ]
-  },
-  {
-    "id": "fact-c1c923f8e63597",
-    "category": "service",
-    "subcategory": "专刊编辑",
-    "date": "2022",
-    "date_label": "2022年",
-    "title": "《Internet Research》元宇宙专刊",
-    "role": "",
-    "detail": "担任《Internet Research》“Opportunities and Challenges in the Metaverse”专刊客座编辑。",
-    "sources": [
-      {
-        "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20220227/044029.html",
-        "label": "AISWorld · 元宇宙专刊征稿"
+        "label": "Springer Nature · 专刊导言",
+        "url": "https://link.springer.com/article/10.1007/s12525-022-00531-5"
       }
     ]
   },
@@ -2042,6 +2302,26 @@
     ]
   },
   {
+    "id": "fact-53b8926dbeec41",
+    "category": "service",
+    "subcategory": "会议服务",
+    "date": "2022",
+    "date_label": "2022年",
+    "title": "WHICEB 2022“数字赋能与数字治理”专题分会共同主席",
+    "role": "专题分会共同主席",
+    "detail": "担任第21届武汉电子商务国际会议“数字赋能与数字治理”专题共同主席，并在正式会议议程列为分会评议人。",
+    "sources": [
+      {
+        "label": "中国地质大学（武汉）经济管理学院 · 会议通知与专题共同主席名单",
+        "url": "https://jgxy.cug.edu.cn/info/1133/7780.htm"
+      },
+      {
+        "label": "WHICEB 2022 · 分会议程（第12页）",
+        "url": "https://whiceb.cug.edu.cn/cn/wp-content/uploads/sites/3/2018/09/Conference-ProgramWHICEB2022.pdf#page=12"
+      }
+    ]
+  },
+  {
     "id": "faculty-curriculum-2021",
     "category": "teaching",
     "subcategory": "师资培训",
@@ -2058,14 +2338,33 @@
     ]
   },
   {
+    "id": "fact-de5e7063bb8cc3",
+    "category": "research",
+    "subcategory": "发明专利",
+    "date": "2021-10-22",
+    "date_label": "2021年10月22日",
+    "title": "多目标资源受限项目调度算法获授发明专利",
+    "role": "",
+    "detail": "与王峰、赵耀宇合作完成的发明专利“一种基于多目标资源受限项目调度模型的优化算法”于10月22日获授权，授权公告号 CN109190857B，沈校亮为第三发明人。",
+    "sources": [
+      {
+        "url": "https://patentimages.storage.googleapis.com/6a/fa/bf/e371ee39d35c8a/CN109190857B.pdf",
+        "label": "专利授权公告首页"
+      },
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
     "id": "internet-research-editor-2018",
     "category": "service",
     "subcategory": "期刊任职",
-    "date": "2021-08-01",
-    "date_label": "2021年8月1日起",
+    "date": "2021-08",
+    "date_label": "2021年8月起",
     "title": "《Internet Research》高级编辑",
     "role": "",
-    "detail": "沈校亮自2021年8月1日起担任《Internet Research》高级编辑（Senior Editor）。",
+    "detail": "沈校亮自2021年8月起担任《Internet Research》高级编辑（Senior Editor）。",
     "sources": [
       {
         "label": "Emerald · Internet Research 编委会",
@@ -2194,17 +2493,54 @@
     "id": "management-science-editor-2016",
     "category": "service",
     "subcategory": "期刊任职",
-    "date": null,
-    "date_label": "曾任职务",
-    "title": "曾任《管理科学》领域副主编",
+    "date": "2021",
+    "date_label": "2016–2021年",
+    "title": "《管理科学》管理信息系统领域副主编",
     "role": "",
-    "detail": "沈校亮曾任《管理科学》领域副主编。",
+    "detail": "2016年至2021年担任《管理科学》“管理信息系统”领域副主编。",
     "sources": [
+      {
+        "label": "《管理科学》编辑部任职证明（原件留存）"
+      },
       {
         "url": "https://mp.weixin.qq.com/s/PU2d711xA6tLkRh-fARuSA",
         "label": "武汉大学学生会 · 《师道风范》专访"
       }
     ]
+  },
+  {
+    "id": "pub-7b9e7cd5c7c8d8",
+    "category": "research",
+    "subcategory": "会议论文",
+    "date": "2021",
+    "date_label": "2021年",
+    "title": "缺陷人工智能设计和不信任视角下用户对智能客服的抵制行为研究",
+    "role": "",
+    "detail": "孙永强，杨波，沈校亮 · 中国系统工程学会数据科学与知识系统工程专业委员会第一届学术年会 · 大连理工大学承办，线上举行",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "whiceb-bright-dark-ebusiness-2021",
+    "category": "service",
+    "subcategory": "会议服务",
+    "title": "WHICEB 2021“电子商务的积极与消极影响”专题分会共同主席",
+    "date": "2021",
+    "date_label": "2021年",
+    "detail": "第20届武汉电子商务国际会议征稿通知列沈校亮为“Bright and Dark Sides in E-Business”专题共同主席。",
+    "sources": [
+      {
+        "label": "WHICEB 2021 · 会议通知与专题共同主席名单（留存）"
+      },
+      {
+        "label": "中国地质大学（武汉）经济管理学院 · WHICEB 2021 会议报道",
+        "url": "https://jgxy.cug.edu.cn/info/1037/7308.htm"
+      }
+    ],
+    "role": "专题分会共同主席（会议通知）"
   },
   {
     "id": "fact-ad4d25ea22c9ce",
@@ -2214,7 +2550,7 @@
     "date_label": "现任职务",
     "title": "《Electronic Commerce Research》副主编",
     "role": "",
-    "detail": "沈校亮现任《Electronic Commerce Research》副主编（Associate Editor）。",
+    "detail": "沈校亮现任《Electronic Commerce Research》副主编（Associate Editor）。2020年该刊刊出其共同编辑的专刊“Electronic Commerce in Social Networks”，此后持续参与该刊编务。",
     "sources": [
       {
         "url": "https://link.springer.com/journal/10660/editorial-board",
