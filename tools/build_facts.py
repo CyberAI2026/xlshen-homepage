@@ -66,7 +66,7 @@ def record_html(row):
         if not url:
             sources.append(f'<span class="source-label">{label}</span>')
             continue
-        if url.startswith("assets/sources/"):
+        if url.startswith("assets/sources/") or PurePosixPath(url).suffix.lower() == ".webp":
             action = ' target="_blank" rel="noopener"'
         elif PurePosixPath(url).suffix.lower() in {".pdf", ".zip", ".png", ".jpg", ".jpeg"}:
             action = " download"

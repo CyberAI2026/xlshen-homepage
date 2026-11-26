@@ -89,7 +89,7 @@ def version_page_assets(files):
     versioned = ['assets/site.css', 'assets/archive.js']
     versioned.extend(name for name in files
                      if Path(name).parent.as_posix() == 'assets'
-                     and Path(name).suffix.lower() in {'.pdf', '.png'})
+                     and Path(name).suffix.lower() in {'.pdf', '.png', '.webp'})
     versions = {name: hashlib.sha256(files[name].read_bytes()).hexdigest()[:12]
                 for name in versioned}
     asset_urls = re.compile(

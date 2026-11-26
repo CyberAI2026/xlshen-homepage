@@ -973,17 +973,6 @@
       "research"
     ]
   },
-  "https://www.cmit.cn/html/tongzhigonggao/show-144-45879-1.html": {
-    "file": "assets/sources/digital-media-2026-hubei-star.webp",
-    "actual": "https://www.cmit.cn/index.php?a=zipdownload&c=index&file=%2F2026%E5%B9%B4%E6%B9%96%E5%8C%97%E8%B5%9B%E5%8C%BA%E6%95%B0%E5%AA%92%E7%AB%9E%E8%B5%9B%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%9556.pdf&m=formguide&type=pdf",
-    "used_by": [
-      "honors",
-      "index",
-      "news",
-      "teaching",
-      "teaching-xingban-design-2026"
-    ]
-  },
   "https://www.cnnic.org.cn/NMediaFile/2025/1021/MAIN1761038973801E6DI0GFPDE.pdf": {
     "file": "assets/sources/cnnic-genai-report-2025.webp",
     "actual": "https://www.cnnic.org.cn/NMediaFile/2025/1021/MAIN1761038973801E6DI0GFPDE.pdf",
@@ -998,6 +987,7 @@
     "label": "Elsevier · 专题分会主席",
     "used_by": [
       "fact-4e198e5d09d5e9",
+      "index",
       "news",
       "service"
     ]
