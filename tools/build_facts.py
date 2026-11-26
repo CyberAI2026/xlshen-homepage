@@ -50,7 +50,7 @@ def load_records(site):
             raise ValueError(f"Invalid date: {rid}")
         if row["date_label"] is not None and not isinstance(row["date_label"], str):
             raise ValueError(f"Invalid date label: {rid}")
-        if not isinstance(row["sources"], list):
+        if not isinstance(row["sources"], list) or not row["sources"]:
             raise ValueError(f"Missing source: {rid}")
         for src in row["sources"]:
             if (not isinstance(src, dict) or not {"label"} <= set(src) <= {"label", "url", "note", "show_note"}
@@ -90,7 +90,7 @@ def record_html(row):
             sources.append(f'<a href="{escape(url, quote=True)}"{action}{tooltip}>{label}</a>')
         if src.get("show_note"):
             sources.append(f'<small class="citation-note">{note}</small>')
-    links = " ".join(sources) if sources else '<span class="source-label">个人履历</span>'
+    links = " ".join(sources)
     role = f'\n        <p class="fact-role"><span>角色</span>　{escape(row["role"])}</p>' if row["role"] else ""
     year = escape(row["date"][:4]) if row["date"] else "current"
     rid = row["id"]
@@ -101,7 +101,6 @@ def record_html(row):
         <h3 class="fact-title">{escape(row['title'])}</h3>{role}
         <p class="fact-detail">{escape(row['detail'])}</p>
         <div class="fact-actions"><div class="fact-sources"><span>来源</span>　{links}</div>
-          <button class="copy-record" type="button" hidden aria-label="复制：{escape(row['title'], quote=True)}">复制条目</button>
         </div>
       </div>
     </li>"""
@@ -145,10 +144,6 @@ def build_facts(site=SITE):
       <noscript><div class="archive-jumps"><a href="#teaching">教学</a> · <a href="#research">科研</a> · <a href="#service">社会服务</a> · <a href="#media">新闻报道与研究传播</a></div></noscript>
       <p class="no-results" hidden>没有符合条件的记录。<button type="button" class="reset-filters">显示全部记录</button></p>
       {''.join(groups)}
-      <dialog class="copy-dialog"><label for="copy-text">复制这条记录及来源</label><textarea id="copy-text" readonly></textarea>
-        <form method="dialog"><button class="button secondary" type="submit">关闭</button></form>
-      </dialog>
-      <p id="copy-status" class="visually-hidden" role="status" aria-live="polite"></p>
     </div></main>"""
     output = head + body + footer.replace('data-news-page', '')
     (site / "facts.html").write_text(output, encoding="utf-8")

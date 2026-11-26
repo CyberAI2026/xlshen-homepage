@@ -74,36 +74,4 @@
   readLocation();
   controls.hidden = false;
   render(false);
-
-  const dialog = document.querySelector('.copy-dialog');
-  const feedback = document.getElementById('copy-status');
-  document.querySelectorAll('.copy-record').forEach(button => {
-    button.hidden = false;
-    button.addEventListener('click', async () => {
-      const item = button.closest('.fact');
-      const text = selector => item.querySelector(selector)?.textContent.trim() || '';
-      const sources = Array.from(item.querySelectorAll('.fact-sources a, .source-label'), source => {
-        const label = (source.querySelector('.source-name') || source).textContent.trim();
-        return source.href ? label + ' ' + source.href : label;
-      });
-      const record = [
-        text('.fact-date') + '｜' + labels[item.dataset.category] + ' · ' + text('.fact-tag'),
-        text('.fact-title'), text('.fact-role'), text('.fact-detail'), ...sources,
-      ].filter(Boolean).join('\n');
-      try {
-        await navigator.clipboard.writeText(record);
-        feedback.textContent = '已复制' + text('.fact-title');
-        button.textContent = '已复制';
-        setTimeout(() => { button.textContent = '复制条目'; }, 1800);
-      } catch (_) {
-        const area = dialog.querySelector('textarea');
-        area.value = record;
-        if (typeof dialog.showModal === 'function') dialog.showModal();
-        else dialog.setAttribute('open', '');
-        area.focus();
-        area.select();
-        feedback.textContent = '已选中条目文字，可手动复制。';
-      }
-    });
-  });
 })();
