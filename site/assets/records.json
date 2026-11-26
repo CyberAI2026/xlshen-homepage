@@ -111,6 +111,10 @@
         "label": "Elsevier Data Repository · 全球科学家引用指标（第九版）",
         "note": "第九版单年度工作簿 Table_1_Authors_singleyr_2025_pubs_since_1788_wopp_extracted_202608.xlsx 的 Data 工作表第105025行列出 Shen, Xiaoliang、Wuhan University、chn（2025年引用数据，2026年发布）。",
         "show_note": true
+      },
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/117452.htm",
+        "label": "武汉大学信息管理学院 · 2026年全球前2%顶尖科学家入选名单"
       }
     ]
   },
@@ -147,6 +151,22 @@
       {
         "label": "武汉大学国家卓越工程师学院 · MEM校园开放日活动通知",
         "url": "https://ncee.whu.edu.cn/info/1141/9301.htm"
+      }
+    ]
+  },
+  {
+    "id": "mem-welcome-2026",
+    "category": "teaching",
+    "subcategory": "MEM人才培养",
+    "date": "2026-09-02",
+    "date_label": "2026年9月2日（中心报道）",
+    "title": "在武汉大学2026级MEM新生迎新大会上解读培养方案",
+    "detail": "武汉大学工程管理项目中心副主任沈校亮在2026级工程管理硕士新生迎新大会上介绍学制、双导师制和分段培养安排，并说明课程学分、专业实践和学位论文要求。",
+    "role": "培养方案解读",
+    "sources": [
+      {
+        "url": "https://mem.whu.edu.cn/info/1261/3641.htm",
+        "label": "武汉大学工程管理项目中心 · 金秋珞珈启新程，知行合一谱新篇——武汉大学工程管理项目中心圆满举行2026级MEM新生迎新大会"
       }
     ]
   },
@@ -188,6 +208,38 @@
     ]
   },
   {
+    "id": "mem-national-presentation-2026",
+    "category": "teaching",
+    "subcategory": "MEM项目宣讲",
+    "date": "2026-07-04",
+    "date_label": "2026年7月4日",
+    "title": "在高校MEM项目全国宣传会上介绍武汉大学MEM项目",
+    "detail": "7月4日下午，沈校亮在高校MEM项目全国宣传会上介绍武汉大学工程管理硕士项目的培养方案、实践教学和报考政策，并回答考生提问。",
+    "role": "项目宣讲",
+    "sources": [
+      {
+        "url": "https://mem.whu.edu.cn/info/1261/3541.htm",
+        "label": "武汉大学工程管理项目中心 · 拓源提质并行 多维并举助推武大MEM发展"
+      }
+    ]
+  },
+  {
+    "id": "mem-xian-alumni-2026",
+    "category": "teaching",
+    "subcategory": "MEM人才培养",
+    "date": "2026-07-02",
+    "date_label": "2026年7月2日",
+    "title": "赴武汉大学西安校友会交流MEM人才培养",
+    "detail": "7月2日，武汉大学工程管理项目中心主任高睿、副主任沈校亮一行赴武汉大学西安校友会座谈，就MEM学生培养、校友合作与企业实践等事宜交流。",
+    "role": "参会",
+    "sources": [
+      {
+        "url": "https://mem.whu.edu.cn/info/1261/3541.htm",
+        "label": "武汉大学工程管理项目中心 · 拓源提质并行 多维并举助推武大MEM发展"
+      }
+    ]
+  },
+  {
     "id": "dim-jcr-2026",
     "category": "service",
     "subcategory": "期刊进展",
@@ -220,23 +272,34 @@
     ]
   },
   {
+    "id": "dim-citescore-2025",
+    "category": "service",
+    "subcategory": "期刊进展",
+    "date": "2026-06-06",
+    "date_label": "2026年6月6日（学院报道）",
+    "title": "《Data and Information Management》2025年CiteScore升至11.1",
+    "detail": "沈校亮担任执行主编的《Data and Information Management》2025年CiteScore为11.1，在Scopus“图书馆学与信息科学”类别的296种期刊中排名第18。",
+    "role": "执行主编",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/113002.htm",
+        "label": "武汉大学信息管理学院 · DIM期刊CiteScore攀升至11.1 跻身全球学科前6%"
+      }
+    ]
+  },
+  {
     "category": "teaching",
     "subcategory": "学生指导",
-    "role": "指导教师",
+    "role": "共同指导教师",
     "id": "teaching-market-survey-final-2026",
     "date": "2026-05-31",
     "date_label": "2026年5月31日（获奖公告）",
     "title": "指导武汉大学团队获第十六届“正大杯”全国大学生市场调查与分析大赛本科组全国一等奖",
-    "detail": "曾伏娥、徐晓辉、沈校亮共同指导武汉大学团队，凭《“补”潮退江城，“购”力何处生——外卖大战后武汉消费者茶饮外卖补贴依赖与复购行为调查》获第十六届“正大杯”全国大学生市场调查与分析大赛本科组全国总决赛一等奖。",
+    "detail": "曾伏娥、徐晓辉、沈校亮共同指导“薅羊毛小分队”，以《“补”潮退江城，“购”力何处生——外卖大战后武汉消费者茶饮外卖补贴依赖及复购行为调查》获第十六届“正大杯”全国大学生市场调查与分析大赛本科生组全国一等奖。",
     "sources": [
       {
-        "url": "https://news.dlut.edu.cn/info/1022/143195.htm",
-        "label": "承办方大连理工大学 · 全国总决赛及赛期",
-        "note": "大连理工大学新闻网报道赛事于5月30日至31日举行。"
-      },
-      {
-        "url": "https://mp.weixin.qq.com/s/fnHkBwN_P2UOS9aXeQDXVw",
-        "label": "获奖报道（微信）"
+        "url": "https://sim.whu.edu.cn/info/2236/113162.htm",
+        "label": "武汉大学信息管理学院 · “正大杯”全国赛及省赛获奖报道"
       }
     ]
   },
@@ -256,18 +319,38 @@
     ]
   },
   {
+    "id": "mem-alumni-advisors-2026",
+    "category": "teaching",
+    "subcategory": "MEM人才培养",
+    "date": "2026-05-18",
+    "date_label": "2026年5月18日（中心报道）",
+    "title": "出席武汉大学MEM“薪火引航”校友班主任聘任仪式",
+    "detail": "武汉大学工程管理项目中心启动“薪火引航”校友班主任计划。沈校亮与中心主任高睿出席聘任仪式，为首届校友班主任颁发聘书。",
+    "role": "出席并颁发聘书",
+    "sources": [
+      {
+        "url": "https://mem.whu.edu.cn/info/1261/3441.htm",
+        "label": "武汉大学工程管理项目中心 · “薪火引航”校友班主任计划正式启动"
+      }
+    ]
+  },
+  {
     "id": "huoshanbei-luojia-xinqiao-2026",
     "category": "teaching",
     "subcategory": "学生指导",
-    "title": "“珞珈心桥”获武汉大学首届“火山杯”智能体大赛决赛一等奖",
+    "title": "“珞珈心桥”获武汉大学首届“火山杯”智能体大赛一等奖及最佳人文奖",
     "date": "2026-05-07",
     "date_label": "2026年5月7日",
     "role": "指导教师",
-    "detail": "沈校亮指导的学生作品《珞珈心桥》获武汉大学首届“火山杯”智能体大赛决赛一等奖。",
+    "detail": "沈校亮指导的学生团队开发心理陪伴智能体《珞珈心桥》，获武汉大学首届“火山杯”AI智能体创新设计大赛一等奖和最佳人文奖。",
     "sources": [
       {
         "label": "证书（PDF）",
         "url": "assets/huoshanbei-luojia-xinqiao-2026.pdf"
+      },
+      {
+        "url": "https://sim.whu.edu.cn/info/1748/113032.htm",
+        "label": "武汉大学信息管理学院 · “火山杯”获奖报道"
       },
       {
         "url": "https://news.whu.edu.cn/info/1007/496347.htm",
@@ -289,6 +372,38 @@
         "url": "https://gh.whu.edu.cn/info/1047/18831.htm",
         "label": "武汉大学工会成立大会报道",
         "note": "校工会于4月27日报道4月26日的成立大会及理事长选举。"
+      }
+    ]
+  },
+  {
+    "id": "irm-forum-2026",
+    "category": "service",
+    "subcategory": "学术会议",
+    "date": "2026-04-24",
+    "date_label": "2026年4月24日至26日",
+    "title": "参与主持第二十三届中国信息资源管理论坛分论坛",
+    "detail": "4月24日至26日，第二十三届中国信息资源管理论坛暨第三届信息资源管理学科自主知识体系联盟论坛在武汉大学举行。沈校亮以武汉大学信息管理学院期刊与学术交流中心主任身份参与主持分论坛。",
+    "role": "分论坛主持人之一",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/111992.htm",
+        "label": "武汉大学信息管理学院 · 第二十三届中国信息资源管理论坛暨第三届信息资源管理学科自主知识体系联盟论坛举行"
+      }
+    ]
+  },
+  {
+    "id": "sim-young-faculty-publishing-2026",
+    "category": "service",
+    "subcategory": "学术交流",
+    "date": "2026-04-02",
+    "date_label": "2026年4月2日",
+    "title": "主持高质量学术发表与青年教师职业发展座谈会",
+    "detail": "4月2日，沈校亮主持武汉大学信息管理学院高质量学术发表与青年教师职业发展座谈会。",
+    "role": "主持人",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/111632.htm",
+        "label": "武汉大学信息管理学院 · 我院举办高质量学术发表与青年教师职业发展座谈会"
       }
     ]
   },
@@ -410,11 +525,27 @@
     "role": "项目负责人",
     "sources": [
       {
-        "label": "武汉大学工程管理项目中心 · 项目名单",
-        "url": "https://mp.weixin.qq.com/s/_oO2U7-ZsLZ0ilz-QGX0JQ"
+        "url": "https://mem.whu.edu.cn/info/1271/2551.htm",
+        "label": "武汉大学工程管理项目中心 · 项目名单"
       }
     ],
     "date_label": "2026年"
+  },
+  {
+    "id": "teaching-market-survey-hubei-2026",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "指导学生获第十六届“正大杯”本科生组省赛一等奖",
+    "date": "2026",
+    "date_label": "2026年",
+    "role": "指导教师",
+    "detail": "沈校亮指导宋昕澳、白杨等同学完成《藕遇江城：蔡甸莲藕作为武汉“城市伴手礼”的品牌认知度提升与消费场景拓展研究》，获第十六届“正大杯”全国大学生市场调查与分析大赛本科生组省赛一等奖。",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/113162.htm",
+        "label": "武汉大学信息管理学院 · “正大杯”全国赛及省赛获奖报道"
+      }
+    ]
   },
   {
     "id": "teaching-national-market-research",
@@ -480,12 +611,8 @@
     "detail": "马费成教授负责的信息管理创新教学团队获武汉大学首届“魏桥校长奖教金”，沈校亮为获奖团队成员。",
     "sources": [
       {
-        "label": "获奖证书（PDF）",
-        "url": "assets/whu-weiqiao-2025.pdf"
-      },
-      {
-        "url": "https://news.whu.edu.cn/info/1002/488527.htm",
-        "label": "武汉大学颁奖报道"
+        "url": "https://sim.whu.edu.cn/info/2236/110092.htm",
+        "label": "武汉大学信息管理学院 · 首届魏桥校长奖教金获奖团队及成员"
       }
     ]
   },
@@ -536,6 +663,22 @@
     "role": "",
     "detail": "担任第 16 届电子商务、管理与经济学国际会议（ICEME 2025）宣传主席。",
     "sources": []
+  },
+  {
+    "id": "sim-information-analysis-summer-school-2025",
+    "category": "teaching",
+    "subcategory": "研究生暑期学校",
+    "date": "2025-07-02",
+    "date_label": "2025年7月2日至7日",
+    "title": "在“数智赋能的信息分析”研究生暑期学校作报告",
+    "detail": "7月2日至7日，武汉大学举办“数智赋能的信息分析”研究生暑期学校。沈校亮作《面向善治的数智信息分析——信息失序时代的用户行为机制与信息治理路径》报告，讨论用户对人工智能服务的抵抗及其缓解方式。",
+    "role": "报告人",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/104362.htm",
+        "label": "武汉大学信息管理学院 · 武汉大学“数智赋能的信息分析”研究生暑期学校举行"
+      }
+    ]
   },
   {
     "id": "fact-9d6e7dbd36d1e4",
@@ -885,6 +1028,22 @@
     "date_label": "2025年"
   },
   {
+    "id": "sim-class-mentor-visit-2024",
+    "category": "teaching",
+    "subcategory": "班级导师",
+    "date": "2024-12-16",
+    "date_label": "2024年12月16日",
+    "title": "作为班级导师代表走访备考研究生入学考试的本科生",
+    "detail": "12月16日，沈校亮以武汉大学信息管理学院2021级本科生班级导师代表身份走访湖滨学生宿舍，慰问正在备考研究生入学考试的同学。",
+    "role": "班级导师代表",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/100892.htm",
+        "label": "武汉大学信息管理学院 · 研途传温情 关怀暖人心"
+      }
+    ]
+  },
+  {
     "id": "fact-5a5055b9a1ba05",
     "category": "service",
     "subcategory": "会议服务",
@@ -897,6 +1056,22 @@
       {
         "url": "https://web.archive.org/web/20250814124427/https://icis2024.aisconferences.org/submissions/track-descriptions/",
         "label": "ICIS 2024 会议官网"
+      }
+    ]
+  },
+  {
+    "id": "sim-class-mentor-award-2024",
+    "category": "teaching",
+    "subcategory": "班级导师",
+    "date": "2024-12-12",
+    "date_label": "2024年12月12日",
+    "title": "担任班级导师的2021级信息管理与信息系统班获武汉大学“先进班集体标兵”称号",
+    "detail": "12月12日，沈校亮担任班级导师的2021级信息管理与信息系统班在答辩会上获评武汉大学2023—2024学年度“先进班集体标兵”。",
+    "role": "班级导师",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/1748/100672.htm",
+        "label": "武汉大学信息管理学院 · 2021级信息管理与信息系统班获评武汉大学“先进班集体标兵”"
       }
     ]
   },
@@ -948,6 +1123,22 @@
     ]
   },
   {
+    "id": "fact-cbb3eed6e5261a",
+    "category": "service",
+    "subcategory": "期刊任职",
+    "date": "2024-04-11",
+    "date_label": "2024年4月11日",
+    "title": "《Data and Information Management》执行主编",
+    "role": "",
+    "detail": "4月11日，《Data and Information Management》在武汉大学信息管理学院召开主编换届会议。创刊主编马费成宣布，沈校亮担任新一届执行主编。",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/97022.htm",
+        "label": "武汉大学信息管理学院 · DIM主编换届会议"
+      }
+    ]
+  },
+  {
     "id": "fact-a8fd1a62c7dc08",
     "category": "research",
     "subcategory": "会议论文提名",
@@ -979,6 +1170,10 @@
       {
         "url": "https://www.elsevier.cn/about/press-releases/elsevier-chinese-news-20240327/",
         "label": "爱思唯尔年度榜单发布公告"
+      },
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/96862.htm",
+        "label": "武汉大学信息管理学院 · 2023年中国高被引学者入选名单"
       }
     ],
     "date_label": "2024年3月27日"
@@ -1009,22 +1204,6 @@
     "role": "",
     "detail": "担任第8届 International Conference on Software and e-Business（ICSeB 2024）程序委员会主席。",
     "sources": []
-  },
-  {
-    "id": "fact-cbb3eed6e5261a",
-    "category": "service",
-    "subcategory": "期刊任职",
-    "date": "2024",
-    "date_label": "2024年",
-    "title": "《Data and Information Management》执行主编",
-    "role": "",
-    "detail": "担任《Data and Information Management》执行主编（Executive Editor-in-Chief）。",
-    "sources": [
-      {
-        "url": "https://jirm.whu.edu.cn/CN/column/item260.shtml",
-        "label": "武汉大学信息管理学院期刊中心"
-      }
-    ]
   },
   {
     "id": "fact-f2e2975b086a6e",
@@ -1482,7 +1661,7 @@
     "date_label": "2023年",
     "title": "第十三届三创赛全国总决赛二等奖",
     "role": "共同指导教师",
-    "detail": "沈校亮、贺超城共同指导“212议会男团队”，其“智享堂”区块链知识交易平台项目获第十三届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛二等奖。",
+    "detail": "沈校亮、贺超城共同指导“212议会男团队”，其项目《智享堂－基于区块链技术的知识按需交易平台》获第十三届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛二等奖。",
     "sources": [
       {
         "url": "https://sim.whu.edu.cn/info/1748/86122.htm",
@@ -1702,6 +1881,22 @@
     ]
   },
   {
+    "id": "sim-campus-volunteer-2022",
+    "category": "service",
+    "subcategory": "校园志愿服务",
+    "date": "2022-11",
+    "date_label": "2022年11月下旬",
+    "title": "在武汉大学湖滨学生宿舍参加校园志愿服务",
+    "detail": "2022年11月下旬，沈校亮与其他志愿者在武汉大学湖滨7舍协助医务人员开展核酸检测。",
+    "role": "志愿者",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/88592.htm",
+        "label": "武汉大学信息管理学院 · 闻令而动 冲锋在前——信息管理学院党员突击队抗疫工作纪实"
+      }
+    ]
+  },
+  {
     "id": "summer-teacher-training-2022",
     "category": "teaching",
     "subcategory": "师资培训",
@@ -1718,6 +1913,22 @@
       {
         "url": "https://hudong.moe.gov.cn/srcsite/A10/s7034/202207/t20220726_648961.html",
         "label": "2022年暑期教师研修公开通知"
+      }
+    ]
+  },
+  {
+    "id": "lis-doctoral-journal-salon-2022",
+    "category": "service",
+    "subcategory": "学术交流",
+    "date": "2022-07-12",
+    "date_label": "2022年7月12日至13日",
+    "title": "在武汉大学图书馆学情报学博士生论坛介绍期刊投审稿流程",
+    "detail": "7月12日至13日，武汉大学在线举办图书馆学情报学博士生论坛。沈校亮在学术期刊沙龙上以《Data and Information Management》副主编身份，介绍期刊编委组成、投稿与审稿流程及专题组稿。",
+    "role": "期刊代表",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/87262.htm",
+        "label": "武汉大学信息管理学院 · 2022年武汉大学图书馆学情报学博士生论坛成功举办"
       }
     ]
   },
