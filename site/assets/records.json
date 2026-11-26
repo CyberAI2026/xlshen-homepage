@@ -1,5 +1,40 @@
 [
   {
+    "id": "aigc-fact-checking-ai-voice-accepted-2026",
+    "category": "research",
+    "subcategory": "论文录用",
+    "title": "《AI配音对AIGC事实核查过程的影响：来自鼠标轨迹、fNIRS与访谈的证据》获《工程管理科技前沿》录用",
+    "date": "2026-11-26",
+    "date_label": "2026年11月26日（录用）",
+    "role": "",
+    "detail": "沈校亮参与撰写的论文《AI配音对AIGC事实核查过程的影响：来自鼠标轨迹、fNIRS与访谈的证据》获《工程管理科技前沿》录用。该刊入选 FMS 管理科学高质量中文期刊 T1 级，并为国家自然科学基金委员会管理科学部认定的管理科学 A 级重要期刊。",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      },
+      {
+        "label": "FMS 管理科学高质量中文期刊目录",
+        "url": "https://fms-journal.net/journals_cn"
+      }
+    ]
+  },
+  {
+    "id": "ai-faculty-training-2026",
+    "category": "teaching",
+    "subcategory": "师资培训",
+    "title": "完成人工智能赋能高等教育人才培养系列师资培训",
+    "date": "2026-11-25",
+    "date_label": "2026年11月25日",
+    "role": "",
+    "detail": "沈校亮完成教育部高等教育司主办的2026年度“人工智能赋能高等教育人才培养”系列师资培训（未来教师、实验教学、文科专项），共16学时，11月25日获颁证书。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/ai-faculty-training-2026.pdf"
+      }
+    ]
+  },
+  {
     "id": "rumor-verification-bilingual",
     "category": "media",
     "subcategory": "成果传播",
@@ -56,6 +91,22 @@
     ]
   },
   {
+    "id": "cmit-xingban-hubei-2026",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "指导《星伴》团队获第十四届全国大学生数字媒体科技作品及创意竞赛湖北赛区二等奖",
+    "date": "2026-11-19",
+    "date_label": "2026年11月19日（获奖名单公示）",
+    "role": "指导教师",
+    "detail": "沈校亮指导武汉大学学生团队完成《星伴——多模态具身智能家庭机器人》，获2026年第十四届全国大学生数字媒体科技作品及创意竞赛湖北赛区二等奖，赛道为智能产品与硬件创意（本科及以上）。",
+    "sources": [
+      {
+        "label": "湖北赛区组委会 · 获奖名单公示",
+        "url": "https://www.cmit.cn/html/tongzhigonggao/show-144-45879-1.html"
+      }
+    ]
+  },
+  {
     "id": "fact-4e198e5d09d5e9",
     "category": "service",
     "subcategory": "会议服务",
@@ -105,7 +156,7 @@
     "date": "2026-09-30",
     "date_label": "2026年9月30日（学院报道）",
     "role": "共同指导教师",
-    "detail": "沈校亮、王楠共同指导白如云等同学组成的“就想拿点小奖”团队，获第十六届全国大学生电子商务“创新、创意及创业”挑战赛湖北省赛商务大数据分析实战赛一等奖。",
+    "detail": "沈校亮与王楠共同指导“就想拿点小奖”团队完成《低空经济视域下消费型无人机公众认知破局研究——以大疆为例》，获第十六届全国大学生电子商务“创新、创意及创业”挑战赛湖北赛区商务大数据分析实战赛一等奖。",
     "sources": [
       {
         "url": "https://sim.whu.edu.cn/info/1748/116202.htm",
@@ -179,6 +230,22 @@
       {
         "url": "https://mem.whu.edu.cn/info/1261/3541.htm",
         "label": "武汉大学工程管理项目中心 · 拓源提质并行 多维并举助推武大MEM发展"
+      }
+    ]
+  },
+  {
+    "id": "mem-assessor-training-2026",
+    "category": "teaching",
+    "subcategory": "专业学位教育",
+    "title": "参加工程管理硕士申请学位实践成果评审专家研讨会",
+    "date": "2026-07-04",
+    "date_label": "2026年7月4日",
+    "role": "",
+    "detail": "沈校亮于7月3日至4日参加全国工程管理专业学位研究生教育指导委员会举办的工程管理硕士申请学位实践成果评审专家研讨会，完成全部议程，7月4日获颁培训交流证书。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/mem-assessor-training-2026.pdf"
       }
     ]
   },
@@ -263,6 +330,22 @@
     ]
   },
   {
+    "id": "nju-young-scholars-forum-786",
+    "category": "service",
+    "subcategory": "学术讲座",
+    "date": "2026-05-29",
+    "date_label": "2026年5月29日",
+    "title": "受邀在南京大学管理学院青年学者论坛第786期作报告",
+    "role": "受邀报告人",
+    "detail": "5月29日上午9时，沈校亮受邀在南京大学安中楼302室作报告《从论文发表到学术标签——学术生态变化中的期刊平台分工与学者成长路径》。报告围绕不同期刊平台的分工，以及青年学者如何形成自己的研究方向与学术标签展开，由杨雪教授主持。",
+    "sources": [
+      {
+        "label": "南京大学管理学院青年学者论坛第786期海报",
+        "url": "assets/nju-young-scholars-forum-786.jpg"
+      }
+    ]
+  },
+  {
     "id": "mem-alumni-advisors-2026",
     "category": "teaching",
     "subcategory": "MEM人才培养",
@@ -295,6 +378,22 @@
       {
         "url": "https://sim.whu.edu.cn/info/1748/113032.htm",
         "label": "武汉大学信息管理学院 · “火山杯”获奖报道"
+      }
+    ]
+  },
+  {
+    "id": "teaching-market-survey-hubei-2026",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "指导学生获第十六届“正大杯”本科生组省赛一等奖",
+    "date": "2026-04-30",
+    "date_label": "2026年4月30日（证书落款）",
+    "role": "指导教师",
+    "detail": "沈校亮指导宋昕澳、白杨等同学完成《藕遇江城：蔡甸莲藕作为武汉“城市伴手礼”的品牌认知度提升与消费场景拓展研究》，获第十六届“正大杯”全国大学生市场调查与分析大赛本科生组省赛一等奖。",
+    "sources": [
+      {
+        "url": "https://sim.whu.edu.cn/info/2236/113162.htm",
+        "label": "武汉大学信息管理学院 · “正大杯”全国赛及省赛获奖报道"
       }
     ]
   },
@@ -473,22 +572,6 @@
     ]
   },
   {
-    "id": "teaching-market-survey-hubei-2026",
-    "category": "teaching",
-    "subcategory": "学生指导",
-    "title": "指导学生获第十六届“正大杯”本科生组省赛一等奖",
-    "date": "2026",
-    "date_label": "2026年",
-    "role": "指导教师",
-    "detail": "沈校亮指导宋昕澳、白杨等同学完成《藕遇江城：蔡甸莲藕作为武汉“城市伴手礼”的品牌认知度提升与消费场景拓展研究》，获第十六届“正大杯”全国大学生市场调查与分析大赛本科生组省赛一等奖。",
-    "sources": [
-      {
-        "url": "https://sim.whu.edu.cn/info/2236/113162.htm",
-        "label": "武汉大学信息管理学院 · “正大杯”全国赛及省赛获奖报道"
-      }
-    ]
-  },
-  {
     "id": "teaching-national-market-research",
     "category": "teaching",
     "subcategory": "课程建设",
@@ -505,6 +588,22 @@
       {
         "url": "https://www.moe.gov.cn/srcsite/A08/s7056/202601/t20260122_1427237.html",
         "label": "教育部 · 认定结果通知"
+      }
+    ]
+  },
+  {
+    "id": "cnki-top5-2025",
+    "category": "research",
+    "subcategory": "学术荣誉",
+    "title": "入选中国知网“2025全国高被引学者TOP5%”",
+    "date": "2025-12-12",
+    "date_label": "2025年12月12日",
+    "role": "",
+    "detail": "沈校亮入选中国知网“2025全国高被引学者TOP5%”。同方知网数字科技有限公司和中国科学文献计量评价研究中心于12月12日颁发证书。",
+    "sources": [
+      {
+        "label": "入选证书（PDF）",
+        "url": "assets/cnki-top5-2025.pdf"
       }
     ]
   },
@@ -561,6 +660,54 @@
     ]
   },
   {
+    "id": "shiji-software-copyright-2025",
+    "category": "research",
+    "subcategory": "软件著作权",
+    "title": "“时迹”数智沉浸交互体验平台软件完成著作权登记",
+    "date": "2025-09-15",
+    "date_label": "2025年9月15日（登记证书）",
+    "role": "",
+    "detail": "竞赛项目“时迹”的相关软件《“时迹”：数智沉浸交互体验平台软件》（V1.0）完成计算机软件著作权登记。著作权人为武汉大学，登记号为2025SR1774349。",
+    "sources": [
+      {
+        "label": "软件著作权登记证书（PDF）",
+        "url": "assets/shiji-software-copyright-2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "fact-9adbd6a8a7a3c1",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "date": "2025-08-22",
+    "date_label": "2025年8月22日（组委会公示）",
+    "title": "指导“虚假寿司”团队获第十五届三创赛商务大数据分析实战赛全国一等奖",
+    "role": "",
+    "detail": "沈校亮与王楠共同指导“虚假寿司”团队完成《绿墨绘新途，智启新篇章——比亚迪映鉴新能源车企新征程》，获第十五届全国大学生电子商务“创新、创意及创业”挑战赛商务大数据分析实战赛全国总决赛一等奖。",
+    "sources": [
+      {
+        "label": "三创赛组委会 · 商务大数据分析实战赛全国总决赛获奖公示",
+        "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2025/08/22/131c72eb256fcafea77332578693e8e0.pdf#page=6"
+      }
+    ]
+  },
+  {
+    "id": "fact-ec293fd07ed681",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "date": "2025-08-20",
+    "date_label": "2025年8月20日（证书落款）",
+    "title": "指导“时迹”项目获第十五届三创赛常规赛全国一等奖",
+    "role": "",
+    "detail": "沈校亮与贺超城等共同指导罗曼玮等同学组成的团队完成《时迹：AI赋能的AR四维时空折叠文旅平台》，获第十五届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛一等奖。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA%3D%3D&idx=1&mid=2656201074&sn=f6e10a6ac75ad58e85765f8effa9657e",
+        "label": "武汉大学官方微信 · 全国总决赛收官，武大学子斩获7项奖！"
+      }
+    ]
+  },
+  {
     "id": "sim-information-analysis-summer-school-2025",
     "category": "teaching",
     "subcategory": "研究生暑期学校",
@@ -575,6 +722,54 @@
         "label": "武汉大学信息管理学院 · 武汉大学“数智赋能的信息分析”研究生暑期学校举行"
       }
     ]
+  },
+  {
+    "id": "sanchuang-shiji-hubei-2025",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "指导“时迹”项目获第十五届三创赛湖北赛区特等奖",
+    "date": "2025-06-30",
+    "date_label": "2025年6月30日（证书落款）",
+    "role": "共同指导教师",
+    "detail": "沈校亮与贺超城等共同指导罗曼玮等同学组成的团队完成《时迹：AI赋能的AR四维时空折叠文旅平台》，获第十五届全国大学生电子商务“创新、创意及创业”挑战赛湖北赛区省级选拔赛特等奖。",
+    "sources": [
+      {
+        "label": "获奖证书",
+        "url": "assets/sanchuang-shiji-hubei-2025.webp"
+      }
+    ]
+  },
+  {
+    "id": "sanchuang-byd-hubei-2025",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "指导“虚假寿司”团队获第十五届三创赛湖北赛区商务大数据分析一等奖",
+    "date": "2025-06-30",
+    "date_label": "2025年6月30日（证书落款）",
+    "role": "共同指导教师",
+    "detail": "沈校亮与王楠共同指导“虚假寿司”团队完成《绿墨绘新途，智启新篇章——比亚迪映鉴新能源车企新征程》，获第十五届全国大学生电子商务“创新、创意及创业”挑战赛湖北赛区商务大数据分析赛道省级选拔赛一等奖。",
+    "sources": [
+      {
+        "label": "获奖证书",
+        "url": "assets/sanchuang-byd-hubei-2025.webp"
+      }
+    ]
+  },
+  {
+    "id": "fact-9d6e7dbd36d1e4",
+    "title": "担任武汉大学工程管理项目中心副主任",
+    "detail": "沈校亮自武汉大学工程管理项目中心成立之日（2025年3月26日）起担任中心副主任。",
+    "date": "2025-03-26",
+    "subcategory": "校内任职",
+    "category": "service",
+    "role": "副主任",
+    "sources": [
+      {
+        "label": "武汉大学工程管理项目中心 · 工作团队",
+        "url": "https://mem.whu.edu.cn/about/gztd.htm"
+      }
+    ],
+    "date_label": "2025年3月26日起"
   },
   {
     "id": "highly-cited-china-2024",
@@ -595,6 +790,21 @@
       }
     ],
     "date_label": "2025年3月25日"
+  },
+  {
+    "id": "whu-mem-committee-2025",
+    "title": "武汉大学工程管理专业学位研究生教育指导委员会成立",
+    "detail": "沈校亮自武汉大学工程管理专业学位研究生教育指导委员会成立之日（2025年3月20日）起担任副主任委员。",
+    "date": "2025-03-20",
+    "subcategory": "校内任职",
+    "category": "service",
+    "role": "副主任委员",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ],
+    "date_label": "2025年3月20日起"
   },
   {
     "id": "fact-3a5ba955552980",
@@ -789,38 +999,6 @@
     ]
   },
   {
-    "id": "fact-9adbd6a8a7a3c1",
-    "category": "teaching",
-    "subcategory": "学生指导",
-    "date": "2025",
-    "date_label": "2025年",
-    "title": "全国大学生电子商务“三创赛”商务大数据分析实战赛全国一等奖",
-    "role": "",
-    "detail": "沈校亮、王楠共同指导张娅婷等同学开展新能源汽车行业数据分析，获第十五届全国大学生电子商务“创新、创意及创业”挑战赛商务大数据分析实战赛全国总决赛一等奖。",
-    "sources": [
-      {
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA%3D%3D&idx=1&mid=2656201074&sn=f6e10a6ac75ad58e85765f8effa9657e",
-        "label": "武汉大学官方微信 · 全国总决赛收官，武大学子斩获7项奖！"
-      }
-    ]
-  },
-  {
-    "id": "fact-ec293fd07ed681",
-    "category": "teaching",
-    "subcategory": "学生指导",
-    "date": "2025",
-    "date_label": "2025年",
-    "title": "全国大学生电子商务“三创赛”常规赛全国一等奖",
-    "role": "",
-    "detail": "贺超城、沈校亮共同指导罗曼玮等同学完成“时迹”数智文旅项目，获第十五届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛一等奖。",
-    "sources": [
-      {
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA%3D%3D&idx=1&mid=2656201074&sn=f6e10a6ac75ad58e85765f8effa9657e",
-        "label": "武汉大学官方微信 · 全国总决赛收官，武大学子斩获7项奖！"
-      }
-    ]
-  },
-  {
     "id": "excellent-sanchuang-instructor-2025",
     "title": "获第十五届全国大学生电子商务“三创赛”优秀指导教师",
     "detail": "沈校亮获第十五届全国大学生电子商务“创新、创意及创业”挑战赛优秀指导教师。",
@@ -832,6 +1010,21 @@
       {
         "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2025/08/22/131c72eb256fcafea77332578693e8e0.pdf",
         "label": "三创赛全国总决赛优秀指导教师公示"
+      }
+    ],
+    "date_label": "2025年"
+  },
+  {
+    "id": "luojia-teaching-forum-paper-2025",
+    "title": "获武汉大学第六届“教与学的革命”珞珈论坛教师论文二等奖",
+    "detail": "沈校亮撰写的《数智化关怀赋能拔尖创新人才培养：基于多智能体协同的大学生心理健康智能诊断研究》获武汉大学第六届“教与学的革命”珞珈论坛教师论文二等奖。",
+    "date": "2025",
+    "subcategory": "教学荣誉",
+    "category": "teaching",
+    "role": "论文作者",
+    "sources": [
+      {
+        "label": "武汉大学珞珈论坛教师论文获奖名单（校内材料，供核对）"
       }
     ],
     "date_label": "2025年"
@@ -881,6 +1074,53 @@
       {
         "url": "https://sim.whu.edu.cn/info/1748/100672.htm",
         "label": "武汉大学信息管理学院 · 2021级信息管理与信息系统班获评武汉大学“先进班集体标兵”"
+      }
+    ]
+  },
+  {
+    "id": "sim-mem-director-2024",
+    "title": "接任武汉大学信息管理学院 MEM 项目主任",
+    "detail": "2024年9月4日起，沈校亮担任武汉大学信息管理学院工程管理硕士（MEM）项目主任。",
+    "date": "2024-09-04",
+    "subcategory": "校内任职",
+    "category": "service",
+    "role": "项目主任",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ],
+    "date_label": "2024年9月4日起"
+  },
+  {
+    "id": "teaching-sanchuang-national-2024",
+    "title": "指导“丝路小纵队”《驼铃》获第十四届三创赛常规赛全国总决赛一等奖",
+    "detail": "沈校亮与贺超城共同指导“丝路小纵队”完成《驼铃——讲述中国故事的跨境智能商务平台》，获第十四届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛一等奖。沈校亮获优秀指导教师。",
+    "date": "2024-08-24",
+    "subcategory": "学生指导",
+    "category": "teaching",
+    "role": "指导教师、优秀指导教师",
+    "sources": [
+      {
+        "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/08/26/927bff34787bce33c2d61be0d993d23c.pdf",
+        "label": "三创赛全国决赛获奖公示"
+      }
+    ],
+    "date_label": "2024年8月24日（证书落款）"
+  },
+  {
+    "id": "teaching-sanchuang-hubei-2024",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "date": "2024-08-13",
+    "date_label": "2024年8月13日（证书落款）",
+    "title": "指导“丝路小纵队”《驼铃》获第十四届三创赛湖北赛区特等奖",
+    "role": "指导教师",
+    "detail": "沈校亮与贺超城共同指导“丝路小纵队”的《驼铃——讲述中国故事的跨境智能商务平台》，获第十四届全国大学生电子商务“创新、创意及创业”挑战赛湖北赛区常规赛特等奖。两人列入赛区“最佳指导老师”名单。",
+    "sources": [
+      {
+        "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/06/08/4fc1321795e0a92297434f472f6b978c.pdf#page=6",
+        "label": "三创赛湖北赛区公示 · 特等奖及最佳指导老师名单"
       }
     ]
   },
@@ -1197,50 +1437,33 @@
     ]
   },
   {
-    "id": "teaching-sanchuang-national-2024",
-    "title": "“驼铃”获第十四届三创赛常规赛全国总决赛一等奖",
-    "detail": "贺超城、沈校亮共同指导“丝路小纵队”完成《驼铃——讲述中国故事的跨境智能商务平台》，获第十四届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛一等奖。沈校亮获优秀指导教师。",
-    "date": "2024",
-    "subcategory": "学生指导",
-    "category": "teaching",
-    "role": "指导教师、优秀指导教师",
-    "sources": [
-      {
-        "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/08/26/927bff34787bce33c2d61be0d993d23c.pdf",
-        "label": "三创赛全国决赛获奖公示"
-      },
-      {
-        "url": "https://news.whu.edu.cn/info/1007/464187.htm",
-        "label": "武汉大学比赛报道"
-      },
-      {
-        "url": "assets/ecommerce-2024-national-first.webp",
-        "label": "全国总决赛一等奖证书（2024年8月24日落款）"
-      }
-    ],
-    "date_label": "2024年"
-  },
-  {
-    "id": "teaching-sanchuang-hubei-2024",
+    "id": "ziqiang-entrepreneurship-bronze-2024",
     "category": "teaching",
     "subcategory": "学生指导",
+    "title": "指导学生获武汉大学第十二届“自强杯”大学生创业计划竞赛铜奖",
+    "detail": "沈校亮与严炜炜共同指导学生完成《舆见分明——开启人工智能辅助舆情公关新时代》，获武汉大学第十二届“自强杯”大学生创业计划竞赛铜奖。",
     "date": "2024",
     "date_label": "2024年",
-    "title": "第十四届三创赛湖北赛区特等奖",
-    "role": "指导教师",
-    "detail": "贺超城、沈校亮共同指导“丝路小纵队”的《驼铃——讲述中国故事的跨境智能商务平台》，获第十四届全国大学生电子商务“创新、创意及创业”挑战赛湖北赛区常规赛特等奖。两人列入赛区“最佳指导老师”名单。",
+    "role": "共同指导教师",
     "sources": [
       {
-        "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2024/06/08/4fc1321795e0a92297434f472f6b978c.pdf#page=6",
-        "label": "三创赛湖北赛区公示 · 特等奖及最佳指导老师名单"
-      },
+        "label": "武汉大学第十二届“自强杯”大学生创业计划竞赛优秀作品名单（校内材料，供核对）"
+      }
+    ]
+  },
+  {
+    "id": "teaching-internet-plus",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "date": "2023-11",
+    "date_label": "2023年11月（获奖证书落款）",
+    "title": "指导学生项目获武汉大学第九届“互联网+”大学生创新创业大赛三等奖",
+    "role": "共同指导教师",
+    "detail": "邓胜利、沈校亮共同指导的学生项目《基于人工智能的混合增强智慧教育系统研发与应用》获武汉大学第九届“互联网+”大学生创新创业大赛三等奖。钱倩文为项目团队成员。",
+    "sources": [
       {
-        "url": "https://news.whu.edu.cn/info/1007/464187.htm",
-        "label": "武汉大学团队报道"
-      },
-      {
-        "url": "assets/ecommerce-2024-hubei-special.webp",
-        "label": "湖北赛区省级选拔赛特等奖证书（2024年8月13日落款）"
+        "label": "获奖证书",
+        "url": "assets/internet-plus-2023-whu-third.webp"
       }
     ]
   },
@@ -1414,8 +1637,8 @@
     "detail": "Xiao-Liang Shen, You Wu · 中国系统工程学会信息系统工程专业委员会2023学术年会 · CNAIS 2023，杭州",
     "sources": [
       {
-        "label": "CNAIS 2023 最新会议议程",
-        "url": "https://cfm.zjuyh.com/MettingManage/Resource/kindeditor-4.1.10/attached/file/20231016/20231016214523_0079.pdf"
+        "label": "CNAIS 2023 大会议程（第11页）",
+        "url": "https://cfm.zjuyh.com/MettingManage/Resource/kindeditor-4.1.10/attached/file/20231014/20231014084253_5763.pdf#page=11"
       }
     ]
   },
@@ -1528,6 +1751,22 @@
       {
         "url": "https://sim.whu.edu.cn/info/2236/88592.htm",
         "label": "武汉大学信息管理学院 · 闻令而动 冲锋在前——信息管理学院党员突击队抗疫工作纪实"
+      }
+    ]
+  },
+  {
+    "id": "summer-teacher-training-2022",
+    "category": "teaching",
+    "subcategory": "师资培训",
+    "title": "完成2022年暑期教师研修",
+    "date": "2022-09-01",
+    "date_label": "2022年9月1日",
+    "role": "",
+    "detail": "沈校亮于7月20日至8月31日在国家智慧教育公共服务平台参加“2022年暑期教师研修”专题培训，获认定10学时，9月1日获颁结业证书。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/summer-teacher-training-2022.pdf"
       }
     ]
   },
@@ -1788,6 +2027,53 @@
     ]
   },
   {
+    "id": "teaching-undergraduate-program",
+    "category": "teaching",
+    "subcategory": "教学改革",
+    "date": "2022",
+    "date_label": "2022年",
+    "title": "数据思维与能力导向的信管一流本科专业建设",
+    "role": "子项目负责人",
+    "detail": "沈校亮担任武汉大学本科教育质量建设综合改革项目《数据思维与能力导向的信管一流本科专业建设》的子项目负责人。总项目由陆伟主持。",
+    "sources": [
+      {
+        "label": "沈校亮本人确认"
+      }
+    ]
+  },
+  {
+    "id": "faculty-curriculum-2021",
+    "category": "teaching",
+    "subcategory": "师资培训",
+    "title": "完成高校教师课程思政教学能力培训",
+    "date": "2021-11-29",
+    "date_label": "2021年11月29日",
+    "role": "",
+    "detail": "沈校亮完成全国高校教师网络培训中心与新华网联合举办的高校教师课程思政教学能力培训。培训于11月24日至26日举行，共16学时，11月29日获颁证书。",
+    "sources": [
+      {
+        "label": "证书（PDF）",
+        "url": "assets/faculty-curriculum-2021.pdf"
+      }
+    ]
+  },
+  {
+    "id": "internet-research-editor-2018",
+    "category": "service",
+    "subcategory": "期刊任职",
+    "date": "2021-08-01",
+    "date_label": "2021年8月1日起",
+    "title": "《Internet Research》高级编辑",
+    "role": "",
+    "detail": "沈校亮自2021年8月1日起担任《Internet Research》高级编辑（Senior Editor）。",
+    "sources": [
+      {
+        "label": "Emerald · Internet Research 编委会",
+        "url": "https://www.emerald.com/intr/pages/editorial-board"
+      }
+    ]
+  },
+  {
     "id": "pub-5bf75e127d4573",
     "category": "research",
     "subcategory": "期刊论文",
@@ -1901,42 +2187,6 @@
         "url": "https://link.springer.com/content/pdf/bfm:978-3-031-35924-8/1#page=11",
         "label": "Springer 会议论文集 · KMIS 程序委员会名单",
         "note": "Springer 会议论文集前言 PDF 第10、11页。"
-      }
-    ]
-  },
-  {
-    "id": "fact-9d6e7dbd36d1e4",
-    "title": "担任武汉大学工程管理项目中心副主任",
-    "detail": "沈校亮担任武汉大学工程管理项目中心副主任。",
-    "date": null,
-    "subcategory": "校内任职",
-    "category": "service",
-    "role": "副主任",
-    "sources": [
-      {
-        "url": "https://mem.whu.edu.cn/info/1261/3641.htm",
-        "label": "武汉大学工程管理项目中心 · 新生迎新大会报道（副主任职务）"
-      }
-    ],
-    "date_label": "现任职务"
-  },
-  {
-    "id": "internet-research-editor-2018",
-    "category": "service",
-    "subcategory": "期刊任职",
-    "date": null,
-    "date_label": "现任职务",
-    "title": "《Internet Research》高级编辑",
-    "role": "",
-    "detail": "沈校亮现任《Internet Research》高级编辑（Senior Editor）。",
-    "sources": [
-      {
-        "label": "Emerald · Internet Research 编委会",
-        "url": "https://www.emerald.com/intr/pages/editorial-board"
-      },
-      {
-        "url": "https://iceb2026.buaa.edu.cn/Doctoral_Consortium.html",
-        "label": "ICEB 2026 · 博士生论坛导师介绍"
       }
     ]
   },
