@@ -258,6 +258,29 @@
     ]
   },
   {
+    "id": "future-teacher-care-2026",
+    "title": "主持武汉大学本科教育质量建设综合改革项目",
+    "detail": "沈校亮主持的《面向拔尖创新人才培养的未来教师“数智化关怀能力”提升研究与实践》入选武汉大学2026年本科教育质量建设综合改革项目，类别为未来教育教学改革类。",
+    "date": "2026-03-02",
+    "subcategory": "教学改革",
+    "category": "teaching",
+    "role": "项目负责人",
+    "sources": [
+      {
+        "label": "武汉大学本科生院 · 关于公布2026年武汉大学本科教育质量建设综合改革项目名单的通知",
+        "url": "https://uc.whu.edu.cn/2022/show.jsp?urltype=news.NewsContentUrl&wbtreeid=1520&wbnewsid=125731",
+        "note": "校方页面可能需要校内访问权限。",
+        "show_note": true
+      },
+      {
+        "label": "本科生院公开通知目录（3月2日）",
+        "url": "https://uc.whu.edu.cn/tzgg/zhyw/25.htm",
+        "note": "公开目录列出通知标题与2026年3月2日的发布日期。"
+      }
+    ],
+    "date_label": "2026年3月2日（本科生院公布名单）"
+  },
+  {
     "id": "fact-bcec98113b9ff1",
     "category": "service",
     "subcategory": "会议服务",
@@ -349,24 +372,18 @@
   },
   {
     "id": "mem-teaching-ai-2026",
-    "title": "主持武汉大学工程管理硕士教育教学改革研究项目",
-    "detail": "沈校亮主持的武汉大学工程管理硕士（MEM）教育教学改革研究项目《“工程+管理+AI”融合的MEM数智人才全链条培养模式与协同育人生态构建研究》获批。",
+    "title": "主持武汉大学工程管理项目中心教学改革研究项目",
+    "detail": "沈校亮主持武汉大学工程管理项目中心教学改革研究项目《“工程+管理+AI”融合的MEM数智人才全链条培养模式与协同育人生态构建研究》。",
     "date": "2026",
     "subcategory": "教学改革",
     "category": "teaching",
     "role": "项目负责人",
-    "sources": [],
-    "date_label": "2026年"
-  },
-  {
-    "id": "future-teacher-care-2026",
-    "title": "主持武汉大学本科教育质量建设综合改革项目",
-    "detail": "沈校亮主持武汉大学2026年本科教育质量建设综合改革项目《面向拔尖创新人才培养的未来教师“数智化关怀能力”提升研究与实践》，项目类别为未来教育教学改革类。",
-    "date": "2026",
-    "subcategory": "教学改革",
-    "category": "teaching",
-    "role": "项目负责人",
-    "sources": [],
+    "sources": [
+      {
+        "label": "武汉大学工程管理项目中心 · 项目名单",
+        "url": "https://mp.weixin.qq.com/s/_oO2U7-ZsLZ0ilz-QGX0JQ"
+      }
+    ],
     "date_label": "2026年"
   },
   {
@@ -451,6 +468,10 @@
     "category": "service",
     "role": "主任",
     "sources": [
+      {
+        "label": "武汉大学信息管理学院 · 期刊与学术交流中心成立报道",
+        "url": "https://mp.weixin.qq.com/s/jeEEtAigQFu9x8epHfZLXQ"
+      },
       {
         "url": "https://sim.whu.edu.cn/xygk/jgdl.htm",
         "label": "武汉大学信息管理学院 · 机构导览",
