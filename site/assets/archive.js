@@ -83,7 +83,7 @@
       const item = button.closest('.fact');
       const text = selector => item.querySelector(selector)?.textContent.trim() || '';
       const sources = Array.from(item.querySelectorAll('.fact-sources a, .source-label'), source => {
-        const label = source.textContent.trim();
+        const label = (source.querySelector('.source-name') || source).textContent.trim();
         return source.href ? label + ' ' + source.href : label;
       });
       const record = [

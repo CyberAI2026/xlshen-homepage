@@ -76,3 +76,15 @@ button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px soli
 .award-title:hover{text-decoration:underline}
 .student-awards p{margin:.18rem 0 .1rem;color:var(--muted)}
 @media(max-width:630px){.role-name{display:block}.profile-intro{margin-top:.75rem}.student-awards p{font-size:.94rem}}
+
+.external-source,.fact-sources a.external-source{display:block;width:fit-content;max-width:100%;line-height:1.5;margin:.3rem 0;overflow-wrap:anywhere}
+.source-url{display:block;max-width:100%;color:var(--green);font:400 .84rem/1.45 var(--sans);text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere;white-space:normal}
+.source-name,.fact-sources .source-name{font-weight:500;color:var(--green)}
+.source-address{margin:.18rem 0 .3rem;min-width:0}
+.source-address a{display:block;width:fit-content;max-width:100%}
+
+.citation-note,.fact-detail,.fact-role,.records li,.entries p{overflow-wrap:anywhere}
+.fact-main,.entries li>div,.fact-actions,.fact-sources,.filter-row>*{min-width:0;max-width:100%}
+@media(max-width:630px){.entries li{grid-template-columns:minmax(0,1fr)}.fact{grid-template-columns:minmax(0,1fr)}}
+
+.source,.fact-sources a{white-space:normal;overflow-wrap:anywhere}

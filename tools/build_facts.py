@@ -17,7 +17,14 @@ SITE = Path(__file__).resolve().parents[1] / "site"
 
 
 def safe_link(url, site):
-    parts = urlsplit(url)
+    if not isinstance(url, str) or not url or any(c.isspace() or ord(c) < 32 for c in url) or "\\" in url:
+        return False
+    try:
+        parts = urlsplit(url)
+        if parts.scheme in {"https", "http"}:
+            return bool(parts.hostname) and parts.username is None and parts.password is None
+    except ValueError:
+        return False
     path = PurePosixPath(parts.path)
     return (not parts.scheme and not parts.netloc and not path.is_absolute()
             and ".." not in path.parts and "\\" not in url and (site / path).is_file())
@@ -66,7 +73,8 @@ def record_html(row):
         if not url:
             sources.append(f'<span class="source-label">{label}</span>')
             continue
-        if url.startswith("assets/sources/") or PurePosixPath(url).suffix.lower() == ".webp":
+        external = urlsplit(url).scheme in {"http", "https"}
+        if external or PurePosixPath(url).suffix.lower() == ".webp":
             action = ' target="_blank" rel="noopener"'
         elif PurePosixPath(url).suffix.lower() in {".pdf", ".zip", ".png", ".jpg", ".jpeg"}:
             action = " download"
@@ -74,7 +82,12 @@ def record_html(row):
             action = ""
         note = escape(src.get("note", ""), quote=True)
         tooltip = f' title="{note}"' if note else ""
-        sources.append(f'<a href="{escape(url, quote=True)}"{action}{tooltip}>{label}</a>')
+        if external:
+            address = escape(url, quote=True)
+            sources.append(f'<a class="external-source" href="{address}"{action}{tooltip}>'
+                           f'<span class="source-name">{label}</span><bdi class="source-url" dir="ltr">{address}</bdi></a>')
+        else:
+            sources.append(f'<a href="{escape(url, quote=True)}"{action}{tooltip}>{label}</a>')
         if src.get("show_note"):
             sources.append(f'<small class="citation-note">{note}</small>')
     links = " ".join(sources) if sources else '<span class="source-label">个人履历</span>'
