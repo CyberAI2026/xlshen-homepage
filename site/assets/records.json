@@ -131,6 +131,26 @@
     ]
   },
   {
+    "id": "whu-mem-open-day-2026",
+    "category": "teaching",
+    "subcategory": "校园开放日",
+    "date": "2026-09-19",
+    "date_label": "2026年9月19日",
+    "title": "在武汉大学工程管理硕士（MEM）校园开放日介绍MEM项目及招生政策",
+    "role": "报告人",
+    "detail": "9月19日，武汉大学工程管理项目中心举办2027级工程管理硕士（MEM）校园开放日。沈校亮在活动中作《武汉大学MEM项目介绍及招生政策解读》报告。",
+    "sources": [
+      {
+        "label": "武汉大学工程管理硕士（MEM）校园开放日 · 官方微信",
+        "url": "https://mp.weixin.qq.com/s/JsuMxFsQOfkh6GhcCMM_8g"
+      },
+      {
+        "label": "武汉大学国家卓越工程师学院 · MEM校园开放日活动通知",
+        "url": "https://ncee.whu.edu.cn/info/1141/9301.htm"
+      }
+    ]
+  },
+  {
     "id": "fact-c6a2a2aec8ea99",
     "category": "service",
     "subcategory": "会议服务",
@@ -221,6 +241,21 @@
     ]
   },
   {
+    "id": "nju-young-scholars-forum-786",
+    "category": "service",
+    "subcategory": "学术讲座",
+    "date": "2026-05-29",
+    "date_label": "2026年5月29日",
+    "title": "受邀在南京大学管理学院青年学者论坛第786期作报告",
+    "role": "受邀报告人",
+    "detail": "5月29日上午9时，沈校亮受邀在南京大学安中楼302室作报告《从论文发表到学术标签——学术生态变化中的期刊平台分工与学者成长路径》。报告围绕不同期刊平台的分工，以及青年学者如何形成自己的研究方向与学术标签展开，由杨雪教授主持。",
+    "sources": [
+      {
+        "label": "南京大学管理学院青年学者论坛第786期海报"
+      }
+    ]
+  },
+  {
     "id": "huoshanbei-luojia-xinqiao-2026",
     "category": "teaching",
     "subcategory": "学生指导",
@@ -271,11 +306,6 @@
         "url": "https://uc.whu.edu.cn/2022/show.jsp?urltype=news.NewsContentUrl&wbtreeid=1520&wbnewsid=125731",
         "note": "校方页面可能需要校内访问权限。",
         "show_note": true
-      },
-      {
-        "label": "本科生院公开通知目录（3月2日）",
-        "url": "https://uc.whu.edu.cn/tzgg/zhyw/25.htm",
-        "note": "公开目录列出通知标题与2026年3月2日的发布日期。"
       }
     ],
     "date_label": "2026年3月2日（本科生院公布名单）"
