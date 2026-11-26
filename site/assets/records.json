@@ -385,6 +385,22 @@
     ]
   },
   {
+    "id": "mem-teaching-ai-2026",
+    "title": "主持武汉大学工程管理项目中心教学改革研究项目",
+    "detail": "沈校亮主持武汉大学工程管理项目中心教学改革研究项目《“工程+管理+AI”融合的MEM数智人才全链条培养模式与协同育人生态构建研究》。",
+    "date": "2026-04-22",
+    "subcategory": "教学改革",
+    "category": "teaching",
+    "role": "项目负责人",
+    "sources": [
+      {
+        "url": "https://mem.whu.edu.cn/info/1271/2551.htm",
+        "label": "武汉大学工程管理项目中心 · 项目名单"
+      }
+    ],
+    "date_label": "2026年4月22日（项目名单公布）"
+  },
+  {
     "id": "sim-young-faculty-publishing-2026",
     "category": "service",
     "subcategory": "学术交流",
@@ -507,22 +523,6 @@
         "label": "人大复印报刊资料 · 2026年第4期转载目录"
       }
     ]
-  },
-  {
-    "id": "mem-teaching-ai-2026",
-    "title": "主持武汉大学工程管理项目中心教学改革研究项目",
-    "detail": "沈校亮主持武汉大学工程管理项目中心教学改革研究项目《“工程+管理+AI”融合的MEM数智人才全链条培养模式与协同育人生态构建研究》。",
-    "date": "2026",
-    "subcategory": "教学改革",
-    "category": "teaching",
-    "role": "项目负责人",
-    "sources": [
-      {
-        "url": "https://mem.whu.edu.cn/info/1271/2551.htm",
-        "label": "武汉大学工程管理项目中心 · 项目名单"
-      }
-    ],
-    "date_label": "2026年"
   },
   {
     "id": "teaching-market-survey-hubei-2026",
@@ -1482,6 +1482,21 @@
     "sources": []
   },
   {
+    "id": "ziqiang-entrepreneurship-bronze-2024",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "指导学生获武汉大学第十二届“自强杯”大学生创业计划竞赛铜奖",
+    "detail": "沈校亮、严炜炜共同指导的项目《舆见分明——开启人工智能辅助舆情公关新时代》获武汉大学第十二届“自强杯”大学生创业计划竞赛校级铜奖。",
+    "date": "2024",
+    "date_label": "2024年",
+    "role": "指导教师",
+    "sources": [
+      {
+        "label": "武汉大学第十二届“自强杯”大学生创业计划竞赛优秀作品名单"
+      }
+    ]
+  },
+  {
     "id": "teaching-internet-plus",
     "category": "teaching",
     "subcategory": "学生指导",
@@ -1656,17 +1671,6 @@
         "label": "武汉大学信息管理学院获奖报道"
       }
     ]
-  },
-  {
-    "id": "teaching-ziqiang",
-    "category": "teaching",
-    "subcategory": "学生指导",
-    "date": "2023",
-    "date_label": "2023年",
-    "title": "第十五届自强杯校级一等奖",
-    "role": "",
-    "detail": "指导学生获武汉大学第十五届“自强杯”大学生课外学术科技作品竞赛一等奖。",
-    "sources": []
   },
   {
     "id": "pub-4f8493299eb5c7",
@@ -2219,7 +2223,12 @@
     "title": "《Internet Research》高级编辑",
     "role": "",
     "detail": "担任《Internet Research》高级编辑（Senior Editor）。",
-    "sources": []
+    "sources": [
+      {
+        "label": "Emerald · Internet Research 编委会",
+        "url": "https://www.emerald.com/intr/pages/editorial-board"
+      }
+    ]
   },
   {
     "id": "fact-1108a01340fbf5",
