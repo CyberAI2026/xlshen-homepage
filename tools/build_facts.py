@@ -50,15 +50,14 @@ def load_records(site):
             raise ValueError(f"Invalid date: {rid}")
         if row["date_label"] is not None and not isinstance(row["date_label"], str):
             raise ValueError(f"Invalid date label: {rid}")
-        if not isinstance(row["sources"], list) or not row["sources"]:
-            raise ValueError(f"Missing source: {rid}")
+        if not isinstance(row["sources"], list):
+            raise ValueError(f"Invalid sources: {rid}")
         for src in row["sources"]:
-            if (not isinstance(src, dict) or not {"label"} <= set(src) <= {"label", "url", "note", "show_note"}
+            if (not isinstance(src, dict) or not {"label", "url"} <= set(src) <= {"label", "url", "note", "show_note"}
                     or not isinstance(src["label"], str) or not src["label"].strip()
                     or ("show_note" in src and ("note" not in src or not isinstance(src["show_note"], bool)))
                     or ("note" in src and (not isinstance(src["note"], str) or not src["note"].strip()))
-                    or ("url" in src and (not isinstance(src["url"], str)
-                                          or not safe_link(src["url"], site)))):
+                    or not safe_link(src["url"], site)):
                 raise ValueError(f"Invalid evidence link: {rid}")
     return records
 
@@ -69,10 +68,7 @@ def record_html(row):
     sources = []
     for src in row["sources"]:
         label = escape(src["label"])
-        url = src.get("url")
-        if not url:
-            sources.append(f'<span class="source-label">{label}</span>')
-            continue
+        url = src["url"]
         external = urlsplit(url).scheme in {"http", "https"}
         if external or PurePosixPath(url).suffix.lower() in {".webp", ".jpg", ".jpeg"}:
             action = ' target="_blank" rel="noopener"'
@@ -91,6 +87,10 @@ def record_html(row):
         if src.get("show_note"):
             sources.append(f'<small class="citation-note">{note}</small>')
     links = " ".join(sources)
+    source_block = (
+        f'\n        <div class="fact-actions"><div class="fact-sources"><span>来源</span>　{links}</div></div>'
+        if links else ""
+    )
     role = f'\n        <p class="fact-role"><span>角色</span>　{escape(row["role"])}</p>' if row["role"] else ""
     year = escape(row["date"][:4]) if row["date"] else "current"
     rid = row["id"]
@@ -99,9 +99,7 @@ def record_html(row):
       <div class="fact-meta"><span class="fact-date">{date_label}</span><span class="fact-tag">{tag}</span></div>
       <div class="fact-main">
         <h3 class="fact-title">{escape(row['title'])}</h3>{role}
-        <p class="fact-detail">{escape(row['detail'])}</p>
-        <div class="fact-actions"><div class="fact-sources"><span>来源</span>　{links}</div>
-        </div>
+        <p class="fact-detail">{escape(row['detail'])}</p>{source_block}
       </div>
     </li>"""
 

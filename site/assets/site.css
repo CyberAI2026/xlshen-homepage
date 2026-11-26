@@ -54,7 +54,6 @@ button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px soli
 
 .archive-year{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:.88rem}.archive-year select{font:inherit;background:var(--white);color:var(--green);padding:7px;border:1px solid var(--line);border-radius:4px;min-height:40px}.fact-title,.fact-detail{overflow-wrap:anywhere}.fact-main a,.fact-main span{overflow-wrap:anywhere}.entries .category{text-decoration:none}.entries .category:hover{text-decoration:underline}.year-links[hidden],.year-links a[hidden]{display:none}
 
-.fact-sources .source-label{display:inline-block;font-weight:400;margin-right:12px;overflow-wrap:anywhere}
 .citation-label{font-size:.83rem;color:var(--muted)}
 @media(max-width:700px){.directory{grid-template-columns:repeat(2,minmax(0,1fr))}.directory a:nth-child(odd){border-left:0}.directory a:nth-child(n+3){border-top:1px solid var(--line)}}
 
@@ -86,3 +85,9 @@ button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px soli
 @media(max-width:630px){.entries li{grid-template-columns:minmax(0,1fr)}.fact{grid-template-columns:minmax(0,1fr)}}
 
 .source,.fact-sources a{white-space:normal;overflow-wrap:anywhere}
+
+.entries .news-date-label {
+  display: block;
+  margin-top: .35rem;
+  line-height: 1.45;
+}

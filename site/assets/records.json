@@ -26,9 +26,6 @@
     "detail": "沈校亮参与撰写的论文《AI配音对AIGC事实核查过程的影响：来自鼠标轨迹、fNIRS与访谈的证据》获《工程管理科技前沿》录用。该刊入选 FMS 管理科学高质量中文期刊 T1 级，并为国家自然科学基金委员会管理科学部认定的管理科学 A 级重要期刊。",
     "sources": [
       {
-        "label": "沈校亮本人确认"
-      },
-      {
         "label": "FMS 管理科学高质量中文期刊目录",
         "url": "https://fms-journal.net/journals_cn"
       }
@@ -634,9 +631,6 @@
     "detail": "担任第9届软件与电子商务国际会议（ICSeB 2025）程序委员会共同主席（Program Committee Co-Chair）。",
     "sources": [
       {
-        "label": "ICSeB 2025 · 当届组委会名单（留存）"
-      },
-      {
         "label": "ICSeB 2025 · 会议回顾",
         "url": "https://www.icseb.org/2025.html"
       }
@@ -753,9 +747,6 @@
     "detail": "担任第 16 届电子商务、管理与经济学国际会议（ICEME 2025）宣传主席。",
     "sources": [
       {
-        "label": "沈校亮本人确认"
-      },
-      {
         "label": "ICEME 2025 · 会议回顾",
         "url": "https://iceme.org/2025.html"
       }
@@ -853,11 +844,7 @@
     "subcategory": "校内任职",
     "category": "service",
     "role": "副主任委员",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ],
+    "sources": [],
     "date_label": "2025年3月20日起"
   },
   {
@@ -1076,11 +1063,7 @@
     "subcategory": "教学荣誉",
     "category": "teaching",
     "role": "论文作者",
-    "sources": [
-      {
-        "label": "武汉大学珞珈论坛教师论文获奖名单（校内材料，供核对）"
-      }
-    ],
+    "sources": [],
     "date_label": "2025年"
   },
   {
@@ -1093,9 +1076,6 @@
     "role": "",
     "detail": "沈校亮、吴忧 · 2025年中国情报学年会暨情报学与情报工作发展论坛（西安）",
     "sources": [
-      {
-        "label": "沈校亮本人确认"
-      },
       {
         "label": "武汉纺织大学 · 吴忧同题会议报告",
         "url": "https://em.wtu.edu.cn/info/1051/17668.htm"
@@ -1111,11 +1091,7 @@
     "title": "基于情感温暖与伦理对齐的算法厌恶缓解：一项混合方法研究",
     "role": "",
     "detail": "沈校亮、王晨悦、吴忧 · 2025年中国情报学年会暨情报学与情报工作发展论坛（西安）",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "sim-class-mentor-visit-2024",
@@ -1173,11 +1149,7 @@
     "subcategory": "校内任职",
     "category": "service",
     "role": "项目主任",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ],
+    "sources": [],
     "date_label": "2024年9月4日起"
   },
   {
@@ -1533,11 +1505,7 @@
     "date": "2024",
     "date_label": "2024年",
     "role": "共同指导教师",
-    "sources": [
-      {
-        "label": "武汉大学第十二届“自强杯”大学生创业计划竞赛优秀作品名单（校内材料，供核对）"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-f940052784fc08",
@@ -1580,11 +1548,7 @@
     "title": "超越价值沉淀：基于价值释放视角的数据要素应用价值分类体系构建",
     "role": "",
     "detail": "沈校亮、王晨悦 · 中国情报学年会暨情报学与情报工作发展论坛 · 天津，10 月 11–13 日",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "grant-ai-governance-2024",
@@ -1599,9 +1563,6 @@
       {
         "url": "https://news.whu.edu.cn/info/1015/451167.htm",
         "label": "武汉大学新闻网 · 总项目立项公告"
-      },
-      {
-        "label": "沈校亮本人确认"
       }
     ]
   },
@@ -1614,11 +1575,7 @@
     "title": "《Information Processing & Management》专刊“Understanding Human Behaviors Through Large Language Models”",
     "role": "客座编辑",
     "detail": "共同担任《Information Processing & Management》专刊“Understanding Human Behaviors Through Large Language Models”客座编辑。",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "teaching-internet-plus",
@@ -1645,11 +1602,7 @@
     "date_label": "2023年9月1日（表彰通知）",
     "role": "指导教师",
     "detail": "沈校亮指导学生完成的《“平台赋能”数字乡村建设：实践成效 路径探索与效能提升研究——基于浙鄂川三省六县的实证调研》获武汉大学第十五届“自强杯”大学生课外学术科技作品竞赛一等奖（哲学社会科学类社会调查报告）。",
-    "sources": [
-      {
-        "label": "武汉大学第十五届“自强杯”大学生课外学术科技作品竞赛获奖名单（武大学工字〔2023〕27号，2023年9月1日）"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-b14ca893e6550e",
@@ -1663,9 +1616,6 @@
       {
         "label": "爱思唯尔 · 2022年度榜单发布公告",
         "url": "https://www.elsevier.com/zh-cn/about/press-releases/2022-chinese-highly-cited-researchers"
-      },
-      {
-        "label": "沈校亮本人确认"
       }
     ],
     "date_label": "2023年3月28日"
@@ -1923,11 +1873,7 @@
     "title": "在线信息污染：概念内涵、外延界定与多维分类",
     "role": "",
     "detail": "沈校亮，吴忧，丁奕童 · 中国情报学年会暨情报学与情报工作发展论坛 · 长沙",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "grant-rumor-engagement-2023",
@@ -1943,9 +1889,6 @@
         "url": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.06.017",
         "label": "《信息资源管理学报》论文及基金标注",
         "note": "原刊第1页列出论文题名、作者与项目资助信息。"
-      },
-      {
-        "label": "沈校亮本人确认"
       }
     ]
   },
@@ -1963,9 +1906,6 @@
         "url": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.06.017",
         "label": "《信息资源管理学报》论文及基金标注",
         "note": "原刊第1页列出论文题名、作者与项目资助信息。"
-      },
-      {
-        "label": "沈校亮本人确认"
       }
     ]
   },
@@ -1978,11 +1918,7 @@
     "title": "教育部人文社科重点研究基地重大项目子课题四",
     "role": "",
     "detail": "担任教育部人文社科重点研究基地重大项目“智能情报支持下的科技决策与创新政策研究”子课题四负责人，承担“数智赋能的科技决策支撑服务研究”（22JJD870002，2023–2025）。",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-f0dd1fe79f52b9",
@@ -1993,11 +1929,7 @@
     "title": "社交媒体用户不实信息举报倾向识别软件",
     "role": "",
     "detail": "与刘琳瑶共同完成的软件“社交媒体用户不实信息举报倾向识别软件”登记软件著作权，登记号2023SR1054309。",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-4c6e76f1475d6c",
@@ -2008,11 +1940,7 @@
     "title": "社交媒体用户虚假信息发布倾向识别软件",
     "role": "",
     "detail": "与刘琳瑶共同完成的软件“社交媒体用户虚假信息发布倾向识别软件”登记软件著作权，登记号2023SR1127070。",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "student-innovation-online-class-2022",
@@ -2295,11 +2223,7 @@
     "title": "数据思维与能力导向的信管一流本科专业建设",
     "role": "子项目负责人",
     "detail": "沈校亮担任武汉大学本科教育质量建设综合改革项目《数据思维与能力导向的信管一流本科专业建设》的子项目负责人。总项目由陆伟主持。",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "fact-53b8926dbeec41",
@@ -2350,9 +2274,6 @@
       {
         "url": "https://patentimages.storage.googleapis.com/6a/fa/bf/e371ee39d35c8a/CN109190857B.pdf",
         "label": "专利授权公告首页"
-      },
-      {
-        "label": "沈校亮本人确认"
       }
     ]
   },
@@ -2500,9 +2421,6 @@
     "detail": "2016年至2021年担任《管理科学》“管理信息系统”领域副主编。",
     "sources": [
       {
-        "label": "《管理科学》编辑部任职证明（原件留存）"
-      },
-      {
         "url": "https://mp.weixin.qq.com/s/PU2d711xA6tLkRh-fARuSA",
         "label": "武汉大学学生会 · 《师道风范》专访"
       }
@@ -2517,11 +2435,7 @@
     "title": "缺陷人工智能设计和不信任视角下用户对智能客服的抵制行为研究",
     "role": "",
     "detail": "孙永强，杨波，沈校亮 · 中国系统工程学会数据科学与知识系统工程专业委员会第一届学术年会 · 大连理工大学承办，线上举行",
-    "sources": [
-      {
-        "label": "沈校亮本人确认"
-      }
-    ]
+    "sources": []
   },
   {
     "id": "whiceb-bright-dark-ebusiness-2021",
@@ -2532,9 +2446,6 @@
     "date_label": "2021年",
     "detail": "第20届武汉电子商务国际会议征稿通知列沈校亮为“Bright and Dark Sides in E-Business”专题共同主席。",
     "sources": [
-      {
-        "label": "WHICEB 2021 · 会议通知与专题共同主席名单（留存）"
-      },
       {
         "label": "中国地质大学（武汉）经济管理学院 · WHICEB 2021 会议报道",
         "url": "https://jgxy.cug.edu.cn/info/1037/7308.htm"
