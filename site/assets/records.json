@@ -147,10 +147,6 @@
       {
         "label": "武汉大学工程管理硕士（MEM）校园开放日 · 官方微信",
         "url": "https://mp.weixin.qq.com/s/JsuMxFsQOfkh6GhcCMM_8g"
-      },
-      {
-        "label": "武汉大学国家卓越工程师学院 · MEM校园开放日活动通知",
-        "url": "https://ncee.whu.edu.cn/info/1141/9301.htm"
       }
     ]
   },
@@ -314,7 +310,8 @@
     "detail": "5月29日上午9时，沈校亮受邀在南京大学安中楼302室作报告《从论文发表到学术标签——学术生态变化中的期刊平台分工与学者成长路径》。报告围绕不同期刊平台的分工，以及青年学者如何形成自己的研究方向与学术标签展开，由杨雪教授主持。",
     "sources": [
       {
-        "label": "南京大学管理学院青年学者论坛第786期海报"
+        "label": "南京大学管理学院青年学者论坛第786期海报（JPG）",
+        "url": "assets/nju-young-scholars-forum-786.jpg"
       }
     ]
   },
@@ -351,10 +348,6 @@
       {
         "url": "https://sim.whu.edu.cn/info/1748/113032.htm",
         "label": "武汉大学信息管理学院 · “火山杯”获奖报道"
-      },
-      {
-        "url": "https://news.whu.edu.cn/info/1007/496347.htm",
-        "label": "武汉大学决赛报道"
       }
     ]
   },
@@ -628,11 +621,6 @@
       {
         "label": "武汉大学信息管理学院 · 期刊与学术交流中心成立报道",
         "url": "https://mp.weixin.qq.com/s/jeEEtAigQFu9x8epHfZLXQ"
-      },
-      {
-        "url": "https://sim.whu.edu.cn/xygk/jgdl.htm",
-        "label": "武汉大学信息管理学院 · 机构导览",
-        "note": "期刊与学术交流中心现任人员名单。"
       }
     ],
     "date_label": "2025年11月"
@@ -750,8 +738,8 @@
     "detail": "与王楠共同指导的新能源汽车数据分析项目获第十五届全国大学生电子商务“创新、创意及创业”挑战赛商务大数据分析实战赛全国总决赛一等奖。",
     "sources": [
       {
-        "url": "https://www.thepaper.cn/newsDetail_forward_31601320",
-        "label": "澎湃新闻"
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA%3D%3D&idx=1&mid=2656201074&sn=f6e10a6ac75ad58e85765f8effa9657e",
+        "label": "武汉大学官方微信 · 全国总决赛收官，武大学子斩获7项奖！"
       }
     ]
   },
@@ -766,8 +754,8 @@
     "detail": "与贺超城共同指导的“时迹”数智文旅项目获第十五届全国大学生电子商务“创新、创意及创业”挑战赛常规赛全国总决赛一等奖。",
     "sources": [
       {
-        "url": "https://www.thepaper.cn/newsDetail_forward_31601320",
-        "label": "澎湃新闻"
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA%3D%3D&idx=1&mid=2656201074&sn=f6e10a6ac75ad58e85765f8effa9657e",
+        "label": "武汉大学官方微信 · 全国总决赛收官，武大学子斩获7项奖！"
       }
     ]
   },
@@ -2401,182 +2389,6 @@
     "role": "",
     "detail": "孙永强，杨波，沈校亮 · 中国系统工程学会数据科学与知识系统工程专业委员会第一届学术年会 · 大连理工大学承办，线上举行",
     "sources": []
-  },
-  {
-    "id": "fact-3bdecc0b01450f",
-    "category": "service",
-    "subcategory": "专刊编辑",
-    "date": "2020-03",
-    "date_label": "2020年3月",
-    "title": "《Electronic Commerce Research》社交网络电子商务专刊出版",
-    "role": "",
-    "detail": "担任客座编辑的《Electronic Commerce Research》“Electronic Commerce in Social Networks”专刊于3月出版。",
-    "sources": [
-      {
-        "url": "https://link.springer.com/article/10.1007/s10660-020-09407-2",
-        "label": "Springer Nature"
-      }
-    ]
-  },
-  {
-    "id": "moe-youth-award-2020",
-    "category": "research",
-    "subcategory": "科研获奖",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "教育部第八届高等学校科学研究优秀成果奖（人文社会科学）青年成果奖",
-    "role": "",
-    "detail": "与孙永强等合作发表的论文获教育部第八届高等学校科学研究优秀成果奖（人文社会科学）青年成果奖，沈校亮为第三作者。",
-    "sources": [
-      {
-        "url": "https://news.whu.edu.cn/info/1015/62925.htm",
-        "label": "武汉大学新闻网 · 该届颁奖报道"
-      },
-      {
-        "url": "https://db.hbskw.com/pcms/index.php?a=show&c=index&catid=6&id=11280&m=content",
-        "label": "湖北省社会科学界联合会 · 学者资料"
-      }
-    ]
-  },
-  {
-    "id": "fact-8c93e2ee89b47e",
-    "category": "research",
-    "subcategory": "期刊奖项",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "《Internet Research》杰出副主编奖",
-    "role": "",
-    "detail": "获《Internet Research》2020 年 Emerald Literati 杰出副主编奖。",
-    "sources": [
-      {
-        "url": "https://web.archive.org/web/20250209035308/https://www.emeraldgrouppublishing.com/journal/intr/internet-research-literati-award-winners-2020",
-        "label": "Emerald · 2020年获奖公告（网页存档）"
-      }
-    ]
-  },
-  {
-    "id": "fact-66a7d8696e6aa4",
-    "category": "service",
-    "subcategory": "会议服务",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "AMCIS 人工智能专题共同主席",
-    "role": "",
-    "detail": "担任 AMCIS 2020 “The Dark Sides of AI”专题共同主席。",
-    "sources": [
-      {
-        "url": "https://archives.aisconferences.org/amcis2020/track-descriptions/",
-        "label": "AMCIS 2020 · 专题介绍与主席名单"
-      }
-    ]
-  },
-  {
-    "id": "fact-0db9ac4ec4c9fa",
-    "category": "research",
-    "subcategory": "科研项目",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "武汉大学“人工智能问题”融通研究专项",
-    "role": "",
-    "detail": "主持武汉大学“人工智能问题”融通研究专项“人工智能的阴暗面：概念分类、产生原因与干预策略”（2020–2021，2020AI012）。",
-    "sources": []
-  },
-  {
-    "id": "fact-471c83f1cc5a6a",
-    "category": "research",
-    "subcategory": "科研项目",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "移动APP用户采纳后行为研究",
-    "role": "",
-    "detail": "国家自然科学基金面上项目“移动APP用户采纳后行为研究——深度使用与应用内购买”（71671132）由沈校亮主持，执行期至2020年。",
-    "sources": [
-      {
-        "url": "https://db.hbskw.com/pcms/index.php?a=show&c=index&catid=6&id=11280&m=content",
-        "label": "湖北省社科专家库 · 项目名称、编号及期限"
-      }
-    ]
-  },
-  {
-    "id": "fact-98e84ebf412920",
-    "category": "research",
-    "subcategory": "会议论文提名",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "HICSS 最佳论文提名",
-    "role": "",
-    "detail": "孙永强、王楠与沈校亮合作完成的“Toward a Configurational Protection Motivation Theory”获第53届夏威夷系统科学年会（HICSS）最佳论文提名。",
-    "sources": [
-      {
-        "url": "https://hicss.hawaii.edu/wp-content/uploads/2019/12/Hicss_53_Program_12242019.pdf",
-        "label": "HICSS 会议官网",
-        "note": "第53届夏威夷系统科学年会议程PDF第63页，论文前星号与该页的提名图例。"
-      }
-    ]
-  },
-  {
-    "id": "pub-8ad249f3d0f46b",
-    "category": "research",
-    "subcategory": "期刊论文",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "When digitalized customers meet digitalized services: A digitalized social cognitive perspective of omnichannel service usage",
-    "role": "",
-    "detail": "Yongqiang Sun, Chaofan Yang, Xiao-Liang Shen, Nan Wang · International Journal of Information Management · 54, 102200",
-    "sources": [
-      {
-        "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102200",
-        "label": "出版原文 · DOI"
-      }
-    ]
-  },
-  {
-    "id": "pub-b29d31b76cbd59",
-    "category": "research",
-    "subcategory": "会议论文",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "Toward a Configurational Protection Motivation Theory",
-    "role": "",
-    "detail": "Yongqiang Sun, Nan Wang, Xiao-Liang Shen · Hawaii International Conference on System Sciences · HICSS-53，夏威夷",
-    "sources": [
-      {
-        "url": "https://aisel.aisnet.org/hicss-53/hc/adoption/12/",
-        "label": "AIS 电子图书馆"
-      }
-    ]
-  },
-  {
-    "id": "pub-fa67c433224c75",
-    "category": "research",
-    "subcategory": "会议论文",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "Intermittent Continuance of Smart Health Devices: A Zone-of-Tolerance Perspective",
-    "role": "",
-    "detail": "Xiao-Liang Shen, Yimeng Yang, Yongqiang Sun, Yang-Jun Li, Hefu Liu · Hawaii International Conference on System Sciences · HICSS-53, 3346–3355",
-    "sources": [
-      {
-        "url": "https://scholars.cityu.edu.hk/en/publications/intermittent-continuance-of-smart-health-devices-a-zone-of-tolera/",
-        "label": "香港城市大学研究成果库"
-      }
-    ]
-  },
-  {
-    "id": "pub-f28b6cd65218cb",
-    "category": "research",
-    "subcategory": "会议论文",
-    "date": "2020",
-    "date_label": "2020年",
-    "title": "Perceived Firm Attributes, Social Identification, and Intrinsic Motivation to Voice in Brand Virtual Communities: Differentiating Brand-General and Innovation-Specific Perceptions",
-    "role": "",
-    "detail": "Yongqiang Sun, Cailian Zhao, Xiao-Liang Shen, Nan Wang · Hawaii International Conference on System Sciences · HICSS-53，夏威夷",
-    "sources": [
-      {
-        "url": "https://aisel.aisnet.org/hicss-53/in/firm_and_user_generated_content/2/",
-        "label": "AIS 电子图书馆"
-      }
-    ]
   },
   {
     "id": "fact-e1f5fef92e86b8",

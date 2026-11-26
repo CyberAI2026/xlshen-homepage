@@ -74,9 +74,9 @@ def record_html(row):
             sources.append(f'<span class="source-label">{label}</span>')
             continue
         external = urlsplit(url).scheme in {"http", "https"}
-        if external or PurePosixPath(url).suffix.lower() == ".webp":
+        if external or PurePosixPath(url).suffix.lower() in {".webp", ".jpg", ".jpeg"}:
             action = ' target="_blank" rel="noopener"'
-        elif PurePosixPath(url).suffix.lower() in {".pdf", ".zip", ".png", ".jpg", ".jpeg"}:
+        elif PurePosixPath(url).suffix.lower() in {".pdf", ".zip", ".png"}:
             action = " download"
         else:
             action = ""
@@ -134,7 +134,7 @@ def build_facts(site=SITE):
     head = head.replace('class="nav-link" href="facts.html"', 'class="nav-link" href="facts.html" aria-current="page"')
     body = f"""<main id="main"><div class="wrap inner archive">
       <h1>成果与活动</h1>
-      <p class="lead">查阅教学、科研、社会服务、新闻报道与研究传播记录，可按年份、类别或关键词筛选。</p>
+      <p class="lead">查阅2021年至今的教学、科研、社会服务、新闻报道与研究传播记录，可按年份、类别或关键词筛选。</p>
       <div class="archive-tools" data-archive-controls hidden>
         <div class="filter-row"><div class="filter-options" role="group" aria-label="按类别筛选">{''.join(filters)}</div>
           <label class="record-search"><span>检索记录</span><input type="search" id="archive-search" placeholder="名称、年份或关键词" autocomplete="off"></label>
