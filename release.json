@@ -1,9 +1,9 @@
 {
   "file": "site.zip.parts",
-  "size": 16121076,
-  "sha256": "4ccb2b00049e24431da1f9c0a3c0161ef6cf4abde7eb314dc4a6b6bdd852c895",
+  "size": 16128582,
+  "sha256": "2951a9fe997a2abfbb00cc1c8117a1f5ffe1ddfbb8f56d0ae306688ad881e0af",
   "parts": [
-    "fdd442b9aa33a280518afb6f5ae0880a4794b5626a2e4db616bd633c8828e2db",
-    "98d24b6d2495e5966edbf8fc3ccbdcfd958fe439cb31e97bdda29e524bf14738"
+    "1f77dda2d5f078857c9b5690f6c237ca520b97a331dfe23c3a92ee3dd19599c9",
+    "725156d37b2b4a4c7e3c5ce31f926ca27840b9111963fc8a94441c580be6035b"
   ]
 }
