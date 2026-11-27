@@ -152,6 +152,26 @@
     "subcategory": "活动交流"
   },
   {
+    "id": "pub-asist-upcib-2026",
+    "category": "research",
+    "subcategory": "会议论文",
+    "date": "2026-11-06",
+    "date_label": "2026年11月6日至10日",
+    "title": "Unethical Pro-Celebrity Information Behavior (UPCIB): Conceptualization, Scale Development, and Validation",
+    "role": "",
+    "detail": "Xiao-Liang Shen, Qianwen Qian · ASIS&T 2026 年会（泰国曼谷） · 现场长论文（In Person Long Paper）",
+    "sources": [
+      {
+        "label": "ASIS&T 2026 · 官方论文名单",
+        "url": "https://www.asist.org/am2026/am26-papers/"
+      },
+      {
+        "label": "ASIS&T 2026 · 会议日程",
+        "url": "https://www.asist.org/am2026/am26-schedule-at-a-glance/"
+      }
+    ]
+  },
+  {
     "id": "cp-cup-experience-sharing-2026",
     "category": "teaching",
     "date": "2026-11-05",
@@ -851,6 +871,22 @@
       }
     ],
     "date_label": "2025年11月"
+  },
+  {
+    "id": "pub-cnais-language-reporting-2025",
+    "category": "research",
+    "subcategory": "会议报告",
+    "date": "2025-10-24",
+    "date_label": "2025年10月24日至26日",
+    "title": "语言风格对深度举报行为的影响机制研究：直接效应、倒 U 型调节与响应面分析",
+    "role": "",
+    "detail": "Xiao-Liang Shen, Lin-Yao Luo, Yang-Jun Li · CNAIS 2025 学术年会（北京） · “网络空间内容治理”分论坛",
+    "sources": [
+      {
+        "label": "CNAIS 2025 · 会议官网",
+        "url": "https://cnais2025.scimeeting.cn/cn/web/index/28755_"
+      }
+    ]
   },
   {
     "id": "fact-451d83b44bd7bd",
