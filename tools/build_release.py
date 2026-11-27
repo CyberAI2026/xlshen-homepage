@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build the public homepage release. Requires Python 3.8 or newer."""
 import hashlib
+from html import unescape
 import io
 import json
 from pathlib import Path
@@ -8,7 +9,7 @@ import re
 import stat
 import zipfile
 
-from build_facts import build_facts
+from build_facts import build_facts, load_records
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -22,6 +23,43 @@ PART_BYTES = 8 * 1024**2
 ASSET_TYPES = {'.css', '.js', '.json', '.txt', '.xml', '.pdf', '.zip', '.png', '.jpg',
                '.jpeg', '.webp', '.gif', '.ico', '.woff', '.woff2', '.csv'}
 NAME = re.compile(r'[A-Za-z0-9][A-Za-z0-9._-]{0,119}\Z')
+PAPER_TYPES = {'学术论文', '期刊录用', '期刊导言', '会议论文', '会议报告', '会议海报'}
+
+
+def archive_entries(path):
+    source = path.read_text(encoding='utf-8')
+    matches = re.findall(r'<li\s+id="([a-z0-9-]+)"[^>]*>(.*?)</li>', source, re.S)
+    entries = dict(matches)
+    if len(entries) != len(matches):
+        raise ValueError(f'Duplicate archive entries in {path.name}')
+    return entries
+
+
+def validate_archive(site):
+    records = load_records(site)
+    news = archive_entries(site / 'news.html')
+    missing_news = {row['id'] for row in records} - news.keys()
+    if missing_news:
+        raise ValueError('Records missing from News: ' + ', '.join(sorted(missing_news)))
+
+    papers = archive_entries(site / 'research.html')
+    for row in records:
+        if row['category'] != 'research' or row['subcategory'] not in PAPER_TYPES:
+            continue
+        rid = row['id']
+        paper_id = f'paper-{rid}'
+        if paper_id not in papers or f'href="research.html#{paper_id}"' not in news[rid]:
+            raise ValueError(f'Link the research paper and its news entry: {rid}')
+        headline = re.search(r'class="entry-title"[^>]*>([^<]+)</a>', news[rid])
+        if not headline or row['title'] not in unescape(headline.group(1)):
+            raise ValueError(f'Include the full paper title in its news headline: {rid}')
+        if row['subcategory'] == '期刊录用':
+            citations = re.findall(r'《([^》]+)》', row['title'])
+            paper = unescape(papers[paper_id])
+            if len(citations) < 2 or '录用' not in row['title'] or '已录用' not in paper:
+                raise ValueError(f'Use the paper title, journal, and acceptance status in both entries: {rid}')
+            if not all(citation in paper for citation in citations[:2]):
+                raise ValueError(f'The research entry must identify the accepted paper and journal: {rid}')
 
 
 def public_files(site):
@@ -48,6 +86,7 @@ def public_files(site):
 
 
 def build():
+    validate_archive(ROOT / 'site')
     build_facts(ROOT / 'site')
     files = public_files(ROOT / 'site')
     version_page_assets(files)

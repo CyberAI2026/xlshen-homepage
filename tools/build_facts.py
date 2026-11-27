@@ -87,19 +87,18 @@ def record_html(row):
         if src.get("show_note"):
             sources.append(f'<small class="citation-note">{note}</small>')
     links = " ".join(sources)
-    source_block = (
-        f'\n        <div class="fact-actions"><div class="fact-sources"><span>来源</span>　{links}</div></div>'
-        if links else ""
-    )
     role = f'\n        <p class="fact-role"><span>角色</span>　{escape(row["role"])}</p>' if row["role"] else ""
     year = escape(row["date"][:4]) if row["date"] else "current"
     rid = row["id"]
+    source_block = f'<div class="fact-sources"><span>来源</span>　{links}</div>' if links else ""
+    actions = (f'\n        <div class="fact-actions">{source_block}'
+               f'<a class="source" href="news.html#{rid}">查看新闻动态</a></div>')
     return f"""
     <li class="fact" id="record-{rid}" data-category="{row['category']}" data-year="{year}">
       <div class="fact-meta"><span class="fact-date">{date_label}</span><span class="fact-tag">{tag}</span></div>
       <div class="fact-main">
         <h3 class="fact-title">{escape(row['title'])}</h3>{role}
-        <p class="fact-detail">{escape(row['detail'])}</p>{source_block}
+        <p class="fact-detail">{escape(row['detail'])}</p>{actions}
       </div>
     </li>"""
 
@@ -131,7 +130,7 @@ def build_facts(site=SITE):
     head = head.replace('class="nav-link" href="facts.html"', 'class="nav-link" href="facts.html" aria-current="page"')
     body = f"""<main id="main"><div class="wrap inner archive">
       <h1>成果与活动</h1>
-      <p class="lead">查阅2021年至今的教学、科研、社会服务、新闻报道与研究传播记录，可按年份、类别或关键词筛选。</p>
+      <p class="lead">查阅教学、科研、社会服务、新闻报道与研究传播记录，可按年份、类别或关键词筛选。</p>
       <div class="archive-tools" data-archive-controls hidden>
         <div class="filter-row"><div class="filter-options" role="group" aria-label="按类别筛选">{''.join(filters)}</div>
           <label class="record-search"><span>检索记录</span><input type="search" id="archive-search" placeholder="名称、年份或关键词" autocomplete="off"></label>

@@ -18,7 +18,7 @@
   {
     "id": "aigc-fact-checking-ai-voice-accepted-2026",
     "category": "research",
-    "subcategory": "学术论文",
+    "subcategory": "期刊录用",
     "title": "《AI配音对AIGC事实核查过程的影响：来自鼠标轨迹、fNIRS与访谈的证据》获《工程管理科技前沿》录用",
     "date": "2026-11-26",
     "date_label": "2026年11月26日",
@@ -1259,8 +1259,8 @@
     "id": "pub-20f9616100bedf",
     "category": "research",
     "subcategory": "学术论文",
-    "date": "2025",
-    "date_label": "2025年",
+    "date": "2025-06",
+    "date_label": "2025年6月",
     "title": "From Conflict to Cyber Deviance Among University Students: The Mediating Role of Negative Emotions and the Moderating Role of Confucian Values",
     "role": "",
     "detail": "Eunji Choi, Jian Mou, Xiao-Liang Shen, Jinsung Kim · 인터넷전자상거래연구 (The Journal of Internet Electronic Commerce Research) · 25(3), 145–168",
@@ -1548,7 +1548,7 @@
   {
     "id": "fact-a8fd1a62c7dc08",
     "category": "research",
-    "subcategory": "学术论文",
+    "subcategory": "学术荣誉",
     "date": "2024-04-02",
     "date_label": "2024年4月2日",
     "title": "iConference 最佳中文研究论文奖提名",
@@ -1888,7 +1888,12 @@
     "title": "《Information Processing & Management》专刊“Understanding Human Behaviors Through Large Language Models”",
     "role": "客座编辑",
     "detail": "共同担任《Information Processing & Management》专刊“Understanding Human Behaviors Through Large Language Models”客座编辑。",
-    "sources": []
+    "sources": [
+      {
+        "label": "Elsevier · 专刊及客座编辑",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0306457325004340"
+      }
+    ]
   },
   {
     "id": "teaching-internet-plus",
@@ -2779,6 +2784,54 @@
       {
         "url": "https://link.springer.com/journal/10660/editorial-board",
         "label": "Springer Nature · Electronic Commerce Research"
+      }
+    ]
+  },
+  {
+    "id": "ecr-social-networks-special-2020",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "date": "2020-03",
+    "date_label": "2020年3月出版",
+    "title": "《Electronic Commerce Research》专刊“Electronic Commerce in Social Networks”",
+    "role": "客座编辑",
+    "detail": "沈校亮共同担任《Electronic Commerce Research》专刊“Electronic Commerce in Social Networks”客座编辑。专刊于2020年出版，见第20卷第1期。",
+    "sources": [
+      {
+        "label": "Springer Nature · 专刊目录与客座编辑",
+        "url": "https://link.springer.com/journal/10660/volumes-and-issues/20-1"
+      }
+    ]
+  },
+  {
+    "id": "ipm-dark-information-behavior-special-2020",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "date": "2020-01-04",
+    "date_label": "2020年1月4日征稿启事",
+    "title": "《Information Processing & Management》专刊“Dark Side of Online Information Behavior”",
+    "role": "客座编辑",
+    "detail": "AISWorld 发布《Information Processing & Management》专刊“Dark Side of Online Information Behavior”征稿启事，沈校亮为客座编辑。",
+    "sources": [
+      {
+        "label": "AISWorld · 专刊征稿与客座编辑",
+        "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20200104/036509.html"
+      }
+    ]
+  },
+  {
+    "id": "lht-big-data-special-2018",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "date": "2018",
+    "date_label": "2018年出版",
+    "title": "《Library Hi Tech》专刊“Library Management and Innovation in the Big Data Era”",
+    "role": "客座编辑",
+    "detail": "Shan Liu 与沈校亮共同担任《Library Hi Tech》专刊“Library Management and Innovation in the Big Data Era”客座编辑，专刊刊于第36卷第3期。",
+    "sources": [
+      {
+        "label": "Emerald · 专刊目录与客座编辑",
+        "url": "https://www.emerald.com/lht/issue/36/3"
       }
     ]
   }
