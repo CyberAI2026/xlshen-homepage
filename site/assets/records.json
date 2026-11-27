@@ -88,6 +88,22 @@
     ]
   },
   {
+    "id": "sim-ai-research-forum-2026",
+    "category": "service",
+    "date": "2026-11-20",
+    "title": "主持“珞珈信管·前沿论坛”智能科研新范式讲座",
+    "role": "讲座主持人",
+    "detail": "11月20日，沈校亮主持武汉大学信息管理学院“珞珈信管·前沿论坛”讲座。中电科发展规划院高级工程师李巧明以《面向智能科研新范式：美国〈科学：新黄金时代〉洞见与我国高水平科技自立自强启示》为题作报告。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/1-BnP8efFXizV8nWDWme3g",
+        "label": "武汉大学信息管理学院期刊与学术交流中心 · 讲座预告"
+      }
+    ],
+    "date_label": "2026年11月20日",
+    "subcategory": "活动交流"
+  },
+  {
     "id": "whu-faculty-career-2026",
     "category": "service",
     "subcategory": "青年教职工交流",
@@ -118,6 +134,22 @@
         "url": "https://www.cmit.cn/html/tongzhigonggao/show-144-45879-1.html"
       }
     ]
+  },
+  {
+    "id": "cp-cup-experience-sharing-2026",
+    "category": "teaching",
+    "date": "2026-11-05",
+    "title": "参加“正大杯”全国大学生市场调查与分析大赛经验分享会",
+    "role": "选题点评",
+    "detail": "11月5日，沈校亮参加武汉大学经济与管理学院举办的“正大杯”全国大学生市场调查与分析大赛经验分享会，为第十七届赛事备赛团队点评初步选题，并就研究价值、问题聚焦、数据来源和研究方法提出建议。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/TLLuBITMgo9M2ERa73NKWw",
+        "label": "武汉大学经济与管理学院 · 经验分享会报道"
+      }
+    ],
+    "date_label": "2026年11月5日",
+    "subcategory": "活动交流"
   },
   {
     "id": "fact-4e198e5d09d5e9",
@@ -192,6 +224,22 @@
         "label": "武汉大学工程管理硕士（MEM）校园开放日 · 官方微信"
       }
     ]
+  },
+  {
+    "id": "mem-offline-admissions-briefing-2026",
+    "category": "teaching",
+    "date": "2026-09-05",
+    "title": "在首场线下宣讲会上解读武汉大学2027级MEM招生政策",
+    "role": "招生政策宣讲",
+    "detail": "9月5日，沈校亮在武汉大学2027级MEM首场线下招生宣讲会上介绍项目特色、培养方向、学制和学习方式，并解读招生政策、复试与录取安排。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/YHidDCslmTEA-e-s-AuELw",
+        "label": "武汉太奇MBA · 宣讲会报道"
+      }
+    ],
+    "date_label": "2026年9月5日",
+    "subcategory": "活动交流"
   },
   {
     "id": "mem-welcome-2026",
@@ -819,6 +867,22 @@
         "label": "武汉纺织大学管理学院 · 年会报道与吴忧专题报告"
       }
     ]
+  },
+  {
+    "id": "dim-editorial-board-xian-2025",
+    "category": "service",
+    "date": "2025-07-11",
+    "title": "在西安主持《Data and Information Management》编委会议",
+    "role": "会议主持人、期刊执行主编",
+    "detail": "7月11日，《Data and Information Management》编委会议在西安举行。执行主编沈校亮主持会议，介绍期刊发展与组稿进展，并与编委交流期刊学术质量和国际合作。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/mkyQKJYNz6lCc5vRZ_gJfA",
+        "label": "DIM期刊公众号 · 编委会报道"
+      }
+    ],
+    "date_label": "2025年7月11日",
+    "subcategory": "活动交流"
   },
   {
     "id": "sim-information-analysis-summer-school-2025",
