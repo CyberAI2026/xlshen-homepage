@@ -13,11 +13,6 @@ CATEGORIES = {
 }
 FIELDS = {"id", "category", "subcategory", "title", "date", "date_label", "role", "detail", "sources"}
 SITE = Path(__file__).resolve().parents[1] / "site"
-FIRST_NEWS_YEAR = "2020"
-
-
-def in_news_archive(row):
-    return not row["date"] or row["date"][:4] >= FIRST_NEWS_YEAR
 
 
 def safe_link(url, site):
@@ -95,8 +90,7 @@ def record_html(row):
     year = escape(row["date"][:4]) if row["date"] else "current"
     rid = row["id"]
     source_block = f'<div class="fact-sources"><span>来源</span>　{links}</div>' if links else ""
-    news_link = f'<a class="source" href="news.html#{rid}">查看新闻动态</a>' if in_news_archive(row) else ""
-    actions = f'\n        <div class="fact-actions">{source_block}{news_link}</div>' if source_block or news_link else ""
+    actions = f'\n        <div class="fact-actions">{source_block}<a class="source" href="news.html#{rid}">查看新闻动态</a></div>'
     return f"""
     <li class="fact" id="record-{rid}" data-category="{row['category']}" data-year="{year}">
       <div class="fact-meta"><span class="fact-date">{date_label}</span><span class="fact-tag">{tag}</span></div>

@@ -2869,5 +2869,2341 @@
         "url": "https://www.emerald.com/lht/issue/36/3"
       }
     ]
+  },
+  {
+    "id": "early-moe-youth-award-2020",
+    "category": "research",
+    "subcategory": "科研获奖",
+    "title": "合著论文获第八届高等学校科学研究优秀成果奖（人文社会科学）青年成果奖",
+    "date": "2020-12-17",
+    "date_label": "2020.12.17",
+    "role": "",
+    "detail": "孙永强、王楠、沈校亮等合著的论文《Location information disclosure in location-based social network services: Privacy calculus, benefit structure, and gender differences》获教育部青年成果奖。",
+    "sources": [
+      {
+        "label": "教育部 · 获奖名单",
+        "url": "https://www.moe.gov.cn/srcsite/A13/moe_2557/moe_2558/202012/W020201217406187677477.pdf"
+      },
+      {
+        "label": "武汉大学新闻网 · 获奖名单",
+        "url": "https://news.whu.edu.cn/info/1015/62925.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-f4bf4da2f92161",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "When digitalized customers meet digitalized services: A digitalized social cognitive perspective of omnichannel service usage",
+    "date": "2020-10",
+    "date_label": "2020.10",
+    "role": "Y. Sun, C. Yang, Xiao-Liang Shen, N. Wang",
+    "detail": "论文《When digitalized customers meet digitalized services: A digitalized social cognitive perspective of omnichannel service usage》在《International Journal of Information Management》发表。该刊为Elsevier 旗下的信息管理期刊，关注信息管理及其在组织与社会中的应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102200"
+      }
+    ]
+  },
+  {
+    "id": "early-em-dark-sides-cfp",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "title": "《Electronic Markets》专刊“The Dark Sides of AI”发布征稿",
+    "date": "2020-09-22",
+    "date_label": "2020.09.22",
+    "role": "客座主编",
+    "detail": "沈校亮参与担任《Electronic Markets》“The Dark Sides of AI”专刊客座主编，专刊面向人工智能使用带来的风险与负面影响征稿。",
+    "sources": [
+      {
+        "label": "AISWorld · 征稿信息",
+        "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20200922/038904.html"
+      },
+      {
+        "label": "武汉大学 · 教师公开简历",
+        "url": "https://jszy.whu.edu.cn/_resources/group1/M00/00/E8/wKgCBWZalb2ATm8wAAXwbiMZ6Gc952.pdf"
+      }
+    ]
+  },
+  {
+    "id": "early-esi-social-commerce-2020",
+    "category": "research",
+    "subcategory": "学术影响",
+    "title": "论文《Consumers’ decisions in social commerce context: An empirical investigation》入选ESI高被引论文",
+    "date": "2020-06-10",
+    "date_label": "2020.06.10",
+    "role": "",
+    "detail": "武汉大学经济与管理学院报道，陈君与沈校亮合著的该论文入选 ESI 高被引论文。论文发表于《Decision Support Systems》。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 报道",
+        "url": "https://ems.whu.edu.cn/info/1539/17541.htm"
+      },
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.dss.2015.07.012"
+      }
+    ]
+  },
+  {
+    "id": "pub-759910a5b3a3be",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Toward a Configurational Protection Motivation Theory",
+    "date": "2020-01-07",
+    "date_label": "2020.01.07",
+    "role": "Y. Sun, N. Wang, Xiao-Liang Shen",
+    "detail": "获最佳论文提名。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.24251/hicss.2020.440"
+      }
+    ]
+  },
+  {
+    "id": "pub-22001be1d4c7c0",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Intermittent Continuance of Smart Health Devices: A Zone-of-Tolerance Perspective",
+    "date": "2020-01-07",
+    "date_label": "2020.01.07",
+    "role": "Xiao-Liang Shen, Y. Yang, Y. Sun, Y.J. Li, H. Liu",
+    "detail": "Xiao-Liang Shen, Y. Yang, Y. Sun, Y.J. Li, H. Liu · HICSS 2020 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.24251/hicss.2020.409"
+      }
+    ]
+  },
+  {
+    "id": "pub-e3d993609d7e0c",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Perceived Firm Attributes, Social Identification, and Intrinsic Motivation to Voice in Brand Virtual Communities: Differentiating Brand-General and Innovation-Specific Perceptions",
+    "date": "2020-01-07",
+    "date_label": "2020.01.07",
+    "role": "Y. Sun, C. Zhao, Xiao-Liang Shen, N. Wang",
+    "detail": "Y. Sun, C. Zhao, Xiao-Liang Shen, N. Wang · HICSS 2020 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.24251/hicss.2020.506"
+      }
+    ]
+  },
+  {
+    "id": "early-project-2020ai012",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "人工智能的阴暗面：概念分类、产生原因与干预策略",
+    "date": "2020",
+    "date_label": "2020",
+    "role": "主持",
+    "detail": "沈校亮主持武汉大学“人工智能问题”融通研究专项《人工智能的阴暗面：概念分类、产生原因与干预策略》。项目编号 2020AI012。研究期为 2020–2021 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-emerald-associate-editor-2020",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "title": "获《Internet Research》杰出副主编奖",
+    "date": "2020",
+    "date_label": "2020",
+    "role": "",
+    "detail": "沈校亮获 Emerald Literati Awards 杰出副主编奖（Outstanding Associate Editor）。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-amcis-ai-track-2020",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 AMCIS 2020 “The Dark Sides of AI”分会主席",
+    "date": "2020",
+    "date_label": "2020",
+    "role": "",
+    "detail": "沈校亮担任第26届美洲信息系统年会“The Dark Sides of AI”分会主席。",
+    "sources": [
+      {
+        "label": "会议官方资料",
+        "url": "https://archives.aisconferences.org/amcis2020/track-descriptions/"
+      }
+    ]
+  },
+  {
+    "id": "early-pacis-associate-editor-2020",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 PACIS 2020 “Social Media and Sharing Economy”分会副编辑",
+    "date": "2020",
+    "date_label": "2020",
+    "role": "",
+    "detail": "沈校亮担任第24届亚太信息系统年会“Social Media and Sharing Economy”分会副编辑。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师公开简历",
+        "url": "https://jszy.whu.edu.cn/_resources/group1/M00/00/E8/wKgCBWZalb2ATm8wAAXwbiMZ6Gc952.pdf"
+      }
+    ]
+  },
+  {
+    "id": "early-icis-associate-editor-2020",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 ICIS 2020 “User Behavior & User Engagement”分会副编辑",
+    "date": "2020",
+    "date_label": "2020",
+    "role": "",
+    "detail": "沈校亮担任第41届国际信息系统年会“User Behavior & User Engagement”分会副编辑。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师公开简历",
+        "url": "https://jszy.whu.edu.cn/_resources/group1/M00/00/E8/wKgCBWZalb2ATm8wAAXwbiMZ6Gc952.pdf"
+      }
+    ]
+  },
+  {
+    "id": "pub-8db413bb6f7780",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Dual Process, Buffering/Coping Effects, and Reciprocal Dynamics: A Social Demands-Resources Model of SNS Discontinuance",
+    "date": "2019-12-15",
+    "date_label": "2019.12.15",
+    "role": "Y. Sun, W. Zou, N. Wang, Xiao-Liang Shen",
+    "detail": "Y. Sun, W. Zou, N. Wang, Xiao-Liang Shen · ICIS 2019 会议论文。",
+    "sources": [
+      {
+        "label": "AIS 原文",
+        "url": "https://aisel.aisnet.org/icis2019/behavior_is/behavior_is/12/"
+      }
+    ]
+  },
+  {
+    "id": "pub-2b88236517b306",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Bias effects, synergistic effects, and information contingency effects: Developing and testing an extended information adoption model in social Q&A",
+    "date": "2019-12",
+    "date_label": "2019.12",
+    "role": "Y. Sun, N. Wang, Xiao-Liang Shen, X. Zhang",
+    "detail": "论文《Bias effects, synergistic effects, and information contingency effects: Developing and testing an extended information adoption model in social Q&A》在《Journal of the Association for Information Science and Technology》发表。该刊为美国信息科学与技术学会（ASIS&T）的学术期刊，关注信息科学与技术。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1002/asi.24228"
+      }
+    ]
+  },
+  {
+    "id": "pub-c179416a2bc395",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Understanding students’ engagement in MOOCs: An integration of self‐determination theory and theory of relationship quality",
+    "date": "2019-11",
+    "date_label": "2019.11",
+    "role": "Y. Sun, L. Ni, Y. Zhao, Xiao-Liang Shen, N. Wang",
+    "detail": "论文《Understanding students’ engagement in MOOCs: An integration of self‐determination theory and theory of relationship quality》在《British Journal of Educational Technology》发表。该刊由 Wiley 代表英国教育研究协会（BERA）出版，关注教育技术研究与实践。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1111/bjet.12724"
+      }
+    ]
+  },
+  {
+    "id": "pub-00a0087a52d7a8",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "An adaptive weight vector guided evolutionary algorithm for preference-based multi-objective optimization",
+    "date": "2019-09",
+    "date_label": "2019.09",
+    "role": "F. Wang, Y. Li, H. Zhang, T. Hu, Xiao-Liang Shen",
+    "detail": "论文《An adaptive weight vector guided evolutionary algorithm for preference-based multi-objective optimization》在《Swarm and Evolutionary Computation》发表。该刊为Elsevier 旗下期刊，关注群体智能与进化计算。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.swevo.2019.06.009"
+      }
+    ]
+  },
+  {
+    "id": "pub-02deccc97fa74d",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Health Misinformation on Social Media: A Literature Review",
+    "date": "2019-07-08",
+    "date_label": "2019.07.08",
+    "role": "Y.J. Li, C.M.K. Cheung, Xiao-Liang Shen, M.K.O. Lee",
+    "detail": "Y.J. Li, C.M.K. Cheung, Xiao-Liang Shen, M.K.O. Lee · PACIS 2019 会议论文。",
+    "sources": [
+      {
+        "label": "大学学术成果库",
+        "url": "https://scholars.hkmu.edu.hk/en/publications/health-misinformation-on-social-media-a-literature-review/"
+      }
+    ]
+  },
+  {
+    "id": "pub-dbf6fa79ab4a93",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Knowledge Withholding in Online Knowledge Spaces: Social Deviance Behavior and Secondary Control Perspective",
+    "date": "2019-04",
+    "date_label": "2019.04",
+    "role": "Xiao-Liang Shen, Y.J. Li, Y. Sun, J. Chen, F. Wang",
+    "detail": "论文《Knowledge Withholding in Online Knowledge Spaces: Social Deviance Behavior and Secondary Control Perspective》在《Journal of the Association for Information Science and Technology》发表。该刊为美国信息科学与技术学会（ASIS&T）的学术期刊，关注信息科学与技术。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1002/asi.24192"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-dc0666599cef71",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Understanding the Role of Technology Attractiveness in Promoting Social Commerce Engagement: Moderating Effect of Personal Interest",
+    "date": "2019-03",
+    "date_label": "2019.03",
+    "role": "Xiao-Liang Shen, Y.J. Li, Y. Sun, Z. Chen, F. Wang",
+    "detail": "论文《Understanding the Role of Technology Attractiveness in Promoting Social Commerce Engagement: Moderating Effect of Personal Interest》在《Information & Management》发表。该刊为Elsevier 旗下的信息系统期刊，关注信息技术的管理与应用。",
+    "sources": [
+      {
+        "label": "出版原文",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0378720617306420"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-17d8db2db4cca9",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Just Being There Matters: Investigating the Role of Sense of Presence in Like Behaviors from the Perspective of Symbolic Interactionism",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "N. Wang, Y. Sun, Xiao-Liang Shen, D. Liu, X. Zhang",
+    "detail": "论文《Just Being There Matters: Investigating the Role of Sense of Presence in Like Behaviors from the Perspective of Symbolic Interactionism》在《Internet Research》发表。该刊为Emerald 旗下期刊，关注互联网技术及其社会与管理影响。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1108/IntR-08-2017-0299"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-b1974980899ffb",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Social attachment, life satisfaction and SNS continuance: a dual-role perspective",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "N. Wang, Y. Sun, L. Zhan, Xiao-Liang Shen",
+    "detail": "论文《Social attachment, life satisfaction and SNS continuance: a dual-role perspective》在《International Journal of Mobile Communications》发表。该刊为Inderscience 旗下期刊，关注移动通信技术及其应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1504/ijmc.2019.102080"
+      }
+    ]
+  },
+  {
+    "id": "early-project-2019adc035",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "湖北省健康科技产业发展路径与对策研究",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "主持",
+    "detail": "沈校亮主持湖北省技术创新专项软科学研究项目《湖北省健康科技产业发展路径与对策研究》。项目编号 2019ADC035。研究期为 2019–2020 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-71828202",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "基于社交媒体的数字口碑传播与采纳研究",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "共同主持",
+    "detail": "沈校亮共同主持国家自然科学基金海外及港澳学者合作研究基金《基于社交媒体的数字口碑传播与采纳研究》。项目编号 71828202。研究期为 2019–2020 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-71871168",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "心理距离视角下的奖励式众筹投资者决策行为研究——基于项目文本和多媒体信息分析",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "参与",
+    "detail": "沈校亮参与国家自然科学基金面上项目《心理距离视角下的奖励式众筹投资者决策行为研究——基于项目文本和多媒体信息分析》。项目编号 71871168。研究期为 2019–2022 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-ningdong-project-management",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "基于宁东煤化工基地建设实践的重大项目管理理论与关键路径研究",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "参与",
+    "detail": "沈校亮参与中国神华宁煤集团咨询项目《基于宁东煤化工基地建设实践的重大项目管理理论与关键路径研究》。研究期为 2019–2020 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-emerald-reviewer-2019",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "title": "获《Information Technology & People》杰出审稿人奖",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "",
+    "detail": "沈校亮获 Emerald Literati Awards 杰出审稿人奖（Outstanding Reviewer）。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-visiting-cityu-2019",
+    "category": "service",
+    "subcategory": "学术交流",
+    "title": "任香港城市大学信息系统系访问教授",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "",
+    "detail": "沈校亮于 2019–2020 年任香港城市大学商学院信息系统系访问教授。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师主页",
+        "url": "https://jszy.whu.edu.cn/shen/en/more/408556/jsjjgd/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-luojia-leading-2019",
+    "category": "research",
+    "subcategory": "人才计划",
+    "title": "再次入选武汉大学经济与管理学院珞珈领秀人才计划",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "",
+    "detail": "沈校亮再次入选武汉大学经济与管理学院珞珈领秀人才计划（2019–2021 年）。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      },
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-ecis-associate-editor-2019-2020",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 ECIS “Social and Ethical Implications of ICT Use”分会副编辑",
+    "date": "2019",
+    "date_label": "2019",
+    "role": "",
+    "detail": "沈校亮担任 2019、2020 年欧洲信息系统年会“Social and Ethical Implications of ICT Use”分会副编辑。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师公开简历",
+        "url": "https://jszy.whu.edu.cn/_resources/group1/M00/00/E8/wKgCBWZalb2ATm8wAAXwbiMZ6Gc952.pdf"
+      }
+    ]
+  },
+  {
+    "id": "pub-8cb7b794518426",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "A value-justice model of knowledge integration in wikis: The moderating role of knowledge equivocality",
+    "date": "2018-12",
+    "date_label": "2018.12",
+    "role": "N. Wang, Y. Sun, Xiao-Liang Shen, X. Zhang",
+    "detail": "论文《A value-justice model of knowledge integration in wikis: The moderating role of knowledge equivocality》在《International Journal of Information Management》发表。该刊为Elsevier 旗下的信息管理期刊，关注信息管理及其在组织与社会中的应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.ijinfomgt.2018.07.006"
+      }
+    ]
+  },
+  {
+    "id": "pub-377283b004c3bb",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "虚拟品牌社区知识贡献意愿研究：基于动机和匹配的整合视角",
+    "date": "2018-10",
+    "date_label": "2018.10",
+    "role": "沈校亮、厉洋军",
+    "detail": "论文《虚拟品牌社区知识贡献意愿研究：基于动机和匹配的整合视角》在《管理评论》发表。该刊关注工商管理与管理科学研究。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "pub-9de72d2fa98a3e",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "How Team Member's Individual Motivations Influence Their We-Intentions: Mediating Role of Behavioral Desire",
+    "date": "2018-08-24",
+    "date_label": "2018.08.24",
+    "role": "Y.J. Li, Xiao-Liang Shen, C.M.K. Cheung,, M.K.O. Lee",
+    "detail": "Y.J. Li, Xiao-Liang Shen, C.M.K. Cheung,, M.K.O. Lee · CSIM 2018 会议论文。",
+    "sources": [
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-luojia-forum-282",
+    "category": "service",
+    "subcategory": "学术交流",
+    "title": "主持第282期珞珈青年经济与管理论坛",
+    "date": "2018-05-26",
+    "date_label": "2018.05.26",
+    "role": "",
+    "detail": "沈校亮主持武汉大学珞珈青年经济与管理论坛第282期。中国科学技术大学刘和福教授作报告《Supplier Concentration and Financial Performance: The Complementary Role of IT-enabled Absorptive Capacity》。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 活动报道",
+        "url": "https://ems.whu.edu.cn/info/1587/5654.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-ed849c2ef35c02",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Channel integration quality, perceived fluency and omnichannel service usage: The moderating roles of internal and external usage experience",
+    "date": "2018-05",
+    "date_label": "2018.05",
+    "role": "Xiao-Liang Shen, Y.J. Li, Y. Sun, N. Wang",
+    "detail": "论文《Channel integration quality, perceived fluency and omnichannel service usage: The moderating roles of internal and external usage experience》在《Decision Support Systems》发表。该刊为Elsevier 旗下期刊，关注决策支持系统及其应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.dss.2018.01.006"
+      }
+    ]
+  },
+  {
+    "id": "pub-30b27362f2fa65",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Person-environment fit, commitment, and customer contribution in online brand community: A nonlinear model",
+    "date": "2018-04",
+    "date_label": "2018.04",
+    "role": "Xiao-Liang Shen, Y.J. Li, Y. Sun, Y. Zhou",
+    "detail": "论文《Person-environment fit, commitment, and customer contribution in online brand community: A nonlinear model》在《Journal of Business Research》发表。该刊为Elsevier 旗下期刊，刊载商学与管理研究。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.jbusres.2017.12.007"
+      }
+    ]
+  },
+  {
+    "id": "pub-b48d5684bb25d8",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "A New Evolutionary Algorithm Based on MOEA/D for Portfolio Optimization",
+    "date": "2018-03-29",
+    "date_label": "2018.03.29",
+    "role": "H. Zhang, Y. Zhao, F. Wang, A. Zhang, P. Yang, Xiao-Liang Shen",
+    "detail": "H. Zhang, Y. Zhao, F. Wang, A. Zhang, P. Yang, Xiao-Liang Shen · ICACI 2018 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1109/ICACI.2018.8377569"
+      }
+    ]
+  },
+  {
+    "id": "pub-79cce8edee9d62",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Wearable Health Information Systems Intermittent Discontinuance: A Revised Expectation-Disconfirmation Model",
+    "date": "2018",
+    "date_label": "2018",
+    "role": "Xiao-Liang Shen, Y.J. Li, Y. Sun",
+    "detail": "论文《Wearable Health Information Systems Intermittent Discontinuance: A Revised Expectation-Disconfirmation Model》在《Industrial Management & Data Systems》发表。该刊为Emerald 旗下期刊，关注信息技术与运营管理的交叉研究。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1108/IMDS-05-2017-0222"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-1aa10f3410424b",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Understanding the Trust Building Mechanisms in Social Media: Regulatory Effectiveness, Trust Transfer, and Gender Difference",
+    "date": "2018",
+    "date_label": "2018",
+    "role": "Y. Sun, Y. Zhang, Xiao-Liang Shen, N. Wang, X. Zhang, Y. Wu",
+    "detail": "论文《Understanding the Trust Building Mechanisms in Social Media: Regulatory Effectiveness, Trust Transfer, and Gender Difference》在《Aslib Journal of Information Management》发表。该刊为Emerald 旗下期刊，关注信息管理与信息行为。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1108/AJIM-03-2018-0072"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-29bc61ccee1358",
+    "category": "research",
+    "subcategory": "期刊导言",
+    "title": "Library management and innovation in the Big Data Era",
+    "date": "2018",
+    "date_label": "2018",
+    "role": "S. Liu, Xiao-Liang Shen",
+    "detail": "专刊导言《Library management and innovation in the Big Data Era》在《Library Hi Tech》发表。该刊为Emerald 旗下期刊，关注图书馆和信息服务中的技术应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1108/lht-09-2018-272"
+      }
+    ]
+  },
+  {
+    "id": "pub-9c957664d4ade2",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "A Hybrid Particle Swarm Optimization Algorithm Using Adaptive Learning Strategy",
+    "date": "2018",
+    "date_label": "2018",
+    "role": "F. Wang, H. Zhang, K. Li, Z. Lin, J. Yang, Xiao-Liang Shen",
+    "detail": "论文《A Hybrid Particle Swarm Optimization Algorithm Using Adaptive Learning Strategy》在《Information Sciences》发表。该刊为Elsevier 旗下期刊，关注信息科学、人工智能与信息系统。",
+    "sources": [
+      {
+        "label": "出版原文",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020025518300380"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-project-2042018kf0224",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "基于深度学习的社交金融网络数据挖掘及其在投资决策中的应用研究",
+    "date": "2018",
+    "date_label": "2018",
+    "role": "共同主持",
+    "detail": "沈校亮共同主持武汉大学自主科研项目（学科交叉类）《基于深度学习的社交金融网络数据挖掘及其在投资决策中的应用研究》。项目编号 2042018KF0224。研究期为 2018–2019 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-target-cascading",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "目标传导式绩效管理的理论创新与实践应用",
+    "date": "2018",
+    "date_label": "2018",
+    "role": "参与",
+    "detail": "沈校亮参与中国神华宁煤集团咨询项目《目标传导式绩效管理的理论创新与实践应用》。研究期为 2018–2019 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-visiting-kfas-2018",
+    "category": "research",
+    "subcategory": "人才计划",
+    "title": "入选韩国高等教育财团国际学者交流项目",
+    "date": "2018",
+    "date_label": "2018",
+    "role": "",
+    "detail": "沈校亮入选韩国高等教育财团国际学者交流项目（ISEF），任期为 2018–2019 年。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师主页",
+        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
+      },
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-internet-research-associate-editor-2018",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "title": "任《Internet Research》副主编",
+    "date": "2018",
+    "date_label": "2018",
+    "role": "",
+    "detail": "沈校亮于 2018–2021 年担任《Internet Research》副主编（Associate Editor）。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "pub-7d7cc042c6593d",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Understanding Users' Switching Behavior of Mobile Instant Messaging Applications: An Empirical Study from the Perspective of Push-Pull-Mooring Framework",
+    "date": "2017-10",
+    "date_label": "2017.10",
+    "role": "Y. Sun, D. Liu, S. Chen, X. Wu, Xiao-Liang Shen, X. Zhang",
+    "detail": "论文《Understanding Users' Switching Behavior of Mobile Instant Messaging Applications: An Empirical Study from the Perspective of Push-Pull-Mooring Framework》在《Computers in Human Behavior》发表。该刊为Elsevier 旗下期刊，关注数字技术使用中的人类行为。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.chb.2017.06.014"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-3108dcff7d4ff9",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "How to Increase Users' Social Commerce Engagement? A Technology Attractiveness Model",
+    "date": "2017-01-04",
+    "date_label": "2017.01.04",
+    "role": "Xiao-Liang Shen, Y.J. Li, Y. Sun, Z.J. Chen, K.Z.K. Zhang, S.J. Zhao",
+    "detail": "Xiao-Liang Shen, Y.J. Li, Y. Sun, Z.J. Chen, K.Z.K. Zhang, S.J. Zhao · HICSS 2017 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.24251/hicss.2017.102"
+      }
+    ]
+  },
+  {
+    "id": "pub-2a6ddc1b50c20c",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "智能健康硬件用户间歇性中止行为影响因素研究",
+    "date": "2017-01",
+    "date_label": "2017.01",
+    "role": "沈校亮、厉洋军",
+    "detail": "论文《智能健康硬件用户间歇性中止行为影响因素研究》在《管理科学》发表。该刊关注管理科学与管理实践研究。",
+    "sources": [
+      {
+        "label": "期刊原文",
+        "url": "https://glkx.hit.edu.cn/__local/A/68/76/87A2E189F86983544FF09B8E5B9_029F0F75_39451D.pdf"
+      }
+    ]
+  },
+  {
+    "id": "early-project-17g002",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "虚拟社区用户知识隐藏行为动因研究",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "主持",
+    "detail": "沈校亮主持湖北省教育厅人文社会科学研究项目《虚拟社区用户知识隐藏行为动因研究》。项目编号 17G002。研究期为 2017–2018 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-whu2016013",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "商业大数据驱动下的管理创新研究",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "共同主持",
+    "detail": "沈校亮共同主持武汉大学人文社会科学青年学者学术团队项目《商业大数据驱动下的管理创新研究》。项目编号 Whu2016013。研究期为 2017–2019 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-413000072",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "互联网用户行为研究前沿述评",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "主持",
+    "detail": "沈校亮主持武汉大学海外人文社会科学研究动态追踪计划《互联网用户行为研究前沿述评》。项目编号 413000072。研究期为 2017 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-17yjc630157",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "技术升级情景下的用户技术抵制行为研究：基于中和技术理论的视角",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "参与",
+    "detail": "沈校亮参与教育部人文社会科学研究青年基金项目《技术升级情景下的用户技术抵制行为研究：基于中和技术理论的视角》。项目编号 17YJC630157。研究期为 2017–2019 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-candlelight-mentor-2017",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "获武汉大学“烛光导航工程”优秀导航师称号",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "",
+    "detail": "沈校亮获评武汉大学“烛光导航工程”优秀导航师。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-good-teacher-2017",
+    "category": "teaching",
+    "subcategory": "教学获奖",
+    "title": "获武汉大学经济与管理学院“我身边的好老师”称号",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "",
+    "detail": "沈校亮获评武汉大学经济与管理学院“我身边的好老师”。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-wechat-microcourse",
+    "category": "teaching",
+    "subcategory": "教学改革",
+    "title": "参与湖北省高校省级教改项目《大数据背景下基于微信公众平台的经管类微课程研究》",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "",
+    "detail": "沈校亮参与王恺主持的湖北省高校省级教学改革研究项目，项目编号 2016025，研究期为 2017–2020 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-whu-hss-award-first-2017",
+    "category": "research",
+    "subcategory": "科研获奖",
+    "title": "合著论文获武汉大学第十四届人文社会科学研究优秀成果奖一等奖",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "",
+    "detail": "孙永强、王楠、沈校亮等合著的《基于位置的社交网络服务中的信息披露：隐私计算、收益结构与性别差异》获论文类一等奖。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      },
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-whu-hss-award-second-2017",
+    "category": "research",
+    "subcategory": "科研获奖",
+    "title": "合著论文获武汉大学第十四届人文社会科学研究优秀成果奖二等奖",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "",
+    "detail": "陈君与沈校亮合著的《社会化商务下用户决策行为实证研究》获论文类二等奖。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      },
+      {
+        "label": "武汉大学经济与管理学院 · 报道",
+        "url": "https://ems.whu.edu.cn/info/1539/17541.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-whiceb-emerging-issues-2017-2020",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任武汉电子商务国际会议“Emerging Issues in E-Business”分会主席",
+    "date": "2017",
+    "date_label": "2017",
+    "role": "",
+    "detail": "沈校亮担任 2017–2020 年武汉电子商务国际会议“Emerging Issues in E-Business”分会主席。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师公开简历",
+        "url": "https://jszy.whu.edu.cn/_resources/group1/M00/00/E8/wKgCBWZalb2ATm8wAAXwbiMZ6Gc952.pdf"
+      }
+    ]
+  },
+  {
+    "id": "early-whu-teaching-competition-2016",
+    "category": "teaching",
+    "subcategory": "教学获奖",
+    "title": "获武汉大学第八届青年教师教学竞赛三等奖",
+    "date": "2016-11-01",
+    "date_label": "2016.11.01",
+    "role": "",
+    "detail": "沈校亮在武汉大学第八届青年教师教学竞赛决赛中讲授“免费商业模式”，获三等奖。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 报道",
+        "url": "https://ems.whu.edu.cn/info/1587/6597.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-1274aa927fa024",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Herd behavior in consumers’ adoption of online reviews",
+    "date": "2016-11",
+    "date_label": "2016.11",
+    "role": "Xiao-Liang Shen, K.Z.K. Zhang, S.J. Zhao",
+    "detail": "论文《Herd behavior in consumers’ adoption of online reviews》在《Journal of the Association for Information Science and Technology》发表。该刊为美国信息科学与技术学会（ASIS&T）的学术期刊，关注信息科学与技术。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1002/asi.23602"
+      }
+    ]
+  },
+  {
+    "id": "early-project-airbnb",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "分享经济下的用户参与和价值共创：以Airbnb为例",
+    "date": "2016-09-06",
+    "date_label": "2016.09.06",
+    "role": "主持",
+    "detail": "沈校亮主持武汉大学国际学术合作培育项目《分享经济下的用户参与和价值共创：以Airbnb为例》。研究期为 2016–2018 年。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 立项报道",
+        "url": "https://ems.whu.edu.cn/info/1587/6670.htm"
+      },
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-71671132",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "移动APP用户采纳后行为研究——深度使用与应用内购买",
+    "date": "2016-08-28",
+    "date_label": "2016.08.28",
+    "role": "主持",
+    "detail": "沈校亮主持国家自然科学基金面上项目《移动APP用户采纳后行为研究——深度使用与应用内购买》。项目编号 71671132。研究期为 2017–2020 年。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 立项报道",
+        "url": "https://ems.whu.edu.cn/info/1587/6661.htm"
+      },
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "pub-37c8e026a23e90",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Standardization or Adaptation during the Web-Mobile Service Transition: Understanding the Moderating Role of Gender",
+    "date": "2016-08",
+    "date_label": "2016.08",
+    "role": "Y. Sun, Xiao-Liang Shen, N. Wang",
+    "detail": "论文《Standardization or Adaptation during the Web-Mobile Service Transition: Understanding the Moderating Role of Gender》在《Journal of Electronic Commerce Research》发表。该刊关注电子商务领域的理论与应用研究。",
+    "sources": [
+      {
+        "label": "出版原文",
+        "url": "https://jecr.org/index.php/node/501"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-eb63d2c44fe130",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Understanding the Factors Influencing the Online Group Buying Behavior from a Pull - Push Perspective",
+    "date": "2016-01-05",
+    "date_label": "2016.01.05",
+    "role": "Y. Sun, Xiao-Liang Shen, N. Wang",
+    "detail": "Y. Sun, Xiao-Liang Shen, N. Wang · HICSS 2016 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1109/hicss.2016.121"
+      }
+    ]
+  },
+  {
+    "id": "pub-a9d5b6840f0fa1",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Understanding the Factors Affecting Users' Like Intentions in Social Network Services: A Multi-dimensional Value Perspective",
+    "date": "2016-01-05",
+    "date_label": "2016.01.05",
+    "role": "Y. Sun, D. Liu, Xiao-Liang Shen, X. Zhang, N. Wang",
+    "detail": "Y. Sun, D. Liu, Xiao-Liang Shen, X. Zhang, N. Wang · HICSS 2016 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1109/hicss.2016.285"
+      }
+    ]
+  },
+  {
+    "id": "pub-ad975cb00b0b2e",
+    "category": "research",
+    "subcategory": "学术专著",
+    "title": "虚拟社区知识共享与用户采纳行为研究",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "沈校亮",
+    "detail": "专著《虚拟社区知识共享与用户采纳行为研究》由科学出版社出版。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "pub-6bb4006ec90ed7",
+    "category": "research",
+    "subcategory": "书籍章节",
+    "title": "The Roles of Complementary and Supplementary Fit in Predicting Online Brand Community Users’ Willingness to Contribute",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "Xiao-Liang Shen, Yang-Jun Li, Yongqiang Sun",
+    "detail": "章节《The Roles of Complementary and Supplementary Fit in Predicting Online Brand Community Users’ Willingness to Contribute》收入《Transforming Healthcare Through Information Systems》。",
+    "sources": [
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-project-2016adc069",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "湖北省互联网创新人才培养模式与路径研究",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "主持",
+    "detail": "沈校亮主持湖北省技术创新专项软科学研究项目《湖北省互联网创新人才培养模式与路径研究》。项目编号 2016ADC069。研究期为 2016–2017 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-16yjc870011",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "开放式协同编辑平台中的用户知识整合机制研究",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "参与",
+    "detail": "沈校亮参与教育部人文社会科学研究青年基金项目《开放式协同编辑平台中的用户知识整合机制研究》。项目编号 16YJC870011。研究期为 2016–2018 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-ppt-competition-2016",
+    "category": "teaching",
+    "subcategory": "教学获奖",
+    "title": "获武汉大学首届青年教师PPT教案微赛一等奖",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮获武汉大学首届青年教师PPT教案微赛一等奖。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-college-teaching-competition-2016",
+    "category": "teaching",
+    "subcategory": "教学获奖",
+    "title": "获武汉大学经济与管理学院第六届青年教师教学竞赛二等奖",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮获武汉大学经济与管理学院第六届青年教师教学竞赛二等奖。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-undergraduate-teaching-award-2016",
+    "category": "teaching",
+    "subcategory": "教学获奖",
+    "title": "获武汉大学首届本科优秀教学业绩奖",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮获武汉大学 2015–2016 学年首届本科优秀教学业绩奖。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-provincial-paper-award",
+    "category": "research",
+    "subcategory": "科研获奖",
+    "title": "合著论文获湖北省第十六届自然科学优秀学术论文奖二等奖",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "陈君与沈校亮合著的《Consumers’ decisions in social commerce context: An empirical investigation》获湖北省第十六届自然科学优秀学术论文奖二等奖。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 报道",
+        "url": "https://ems.whu.edu.cn/info/1539/17541.htm"
+      },
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-luojia-leading-2016",
+    "category": "research",
+    "subcategory": "人才计划",
+    "title": "入选武汉大学经济与管理学院珞珈领秀人才计划",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮入选武汉大学经济与管理学院珞珈领秀人才计划（2016–2018 年）。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      },
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-surrey-cooperation-platform",
+    "category": "service",
+    "subcategory": "学术交流",
+    "title": "任武汉大学–萨里大学国际合作创新平台中方负责人",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮于 2016–2018 年担任武汉大学与英国萨里大学国际合作创新平台中方负责人。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师主页",
+        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-management-science-associate-editor-2016",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "title": "任《管理科学》管理信息系统领域副主编",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮于 2016–2021 年担任《管理科学》管理信息系统领域副主编。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-whiceb-track-2016",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 WHICEB 2016 “Social Media and Electronic Business”分会主席",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮担任第15届武汉电子商务国际会议“Social Media and Electronic Business”分会主席。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-pacis-associate-editor-2016",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 PACIS 2016 “Societal Implications of ICT Use”分会副编辑",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮担任第20届亚太信息系统年会“Societal Implications of ICT Use”分会副编辑。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-ems-young-faculty-association",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任武汉大学经济与管理学院青年教师协会会长",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮于 2016–2021 年担任武汉大学经济与管理学院青年教师协会会长。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师主页",
+        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-data-analysis-center",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任武汉大学管理科学与数据分析研究中心副主任",
+    "date": "2016",
+    "date_label": "2016",
+    "role": "",
+    "detail": "沈校亮于 2016–2021 年担任武汉大学管理科学与数据分析研究中心副主任。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师主页",
+        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-df6f0fc265e72c",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Knowledge Withholding in Online Brand Community: A Neutralization Perspective",
+    "date": "2015-12-13",
+    "date_label": "2015.12.13",
+    "role": "Y. Sun, Xiao-Liang Shen, N. Wang",
+    "detail": "Y. Sun, Xiao-Liang Shen, N. Wang · ICIS 2015 会议论文。",
+    "sources": [
+      {
+        "label": "AIS 原文",
+        "url": "https://aisel.aisnet.org/icis2015/proceedings/HumanBehaviorIS/27/"
+      }
+    ]
+  },
+  {
+    "id": "pub-295596230df23c",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Consumers' decisions in social commerce context: An empirical investigation",
+    "date": "2015-11",
+    "date_label": "2015.11",
+    "role": "J. Chen, Xiao-Liang Shen",
+    "detail": "论文《Consumers' decisions in social commerce context: An empirical investigation》在《Decision Support Systems》发表。该刊为Elsevier 旗下期刊，关注决策支持系统及其应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.dss.2015.07.012"
+      }
+    ]
+  },
+  {
+    "id": "pub-46905b413862bf",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Location information disclosure in location-based social network services: Privacy calculus, benefit structure, and gender differences",
+    "date": "2015-11",
+    "date_label": "2015.11",
+    "role": "Y. Sun, N. Wang, Xiao-Liang Shen, J.X. Zhang",
+    "detail": "论文《Location information disclosure in location-based social network services: Privacy calculus, benefit structure, and gender differences》在《Computers in Human Behavior》发表。该刊为Elsevier 旗下期刊，关注数字技术使用中的人类行为。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.chb.2015.06.006"
+      }
+    ]
+  },
+  {
+    "id": "pub-9e40375eb1077b",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "虚拟社区用户知识隐藏行为影响因素研究",
+    "date": "2015-11",
+    "date_label": "2015.11",
+    "role": "甘文波、沈校亮",
+    "detail": "论文《虚拟社区用户知识隐藏行为影响因素研究》在《情报杂志》发表。该刊关注情报学与信息资源管理研究。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "pub-338a7e10da57bb",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Knowledge Contribution in Customer-Centric Brand Community: A Person-Environment-Fit Model",
+    "date": "2015-08-25",
+    "date_label": "2015.08.25",
+    "role": "Xiao-Liang Shen, Y.J. Li, Y. Sun",
+    "detail": "获大会最佳论文奖。",
+    "sources": [
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-60e16d3fa48994",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "An Empirical Investigation of Knowledge Withholding in Virtual Community",
+    "date": "2015-07-06",
+    "date_label": "2015.07.06",
+    "role": "Xiao-Liang Shen, W. Gan, Y. Sun, N. Wang",
+    "detail": "Xiao-Liang Shen, W. Gan, Y. Sun, N. Wang · PACIS 2015 会议论文。",
+    "sources": [
+      {
+        "label": "AIS 原文",
+        "url": "https://aisel.aisnet.org/pacis2015/14/"
+      }
+    ]
+  },
+  {
+    "id": "pub-83610694199f8c",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Understanding Users' Acceptance of Competitive Social Media: A Relative Model",
+    "date": "2015-07-06",
+    "date_label": "2015.07.06",
+    "role": "Xiao-Liang Shen, S. Ma, Y. Sun",
+    "detail": "Xiao-Liang Shen, S. Ma, Y. Sun · PACIS 2015 会议论文。",
+    "sources": [
+      {
+        "label": "AIS 会议论文集",
+        "url": "https://aisel.aisnet.org/pacis2015/"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-2865cfc912980e",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Knowledge Quality of Collaborative Editing in Wikipedia: An Integrative Perspective of Social Capital and Team Conflict",
+    "date": "2015-07-06",
+    "date_label": "2015.07.06",
+    "role": "L. Zhan, N. Wang, Xiao-Liang Shen, Y. Sun",
+    "detail": "L. Zhan, N. Wang, Xiao-Liang Shen, Y. Sun · PACIS 2015 会议论文。",
+    "sources": [
+      {
+        "label": "AIS 会议论文集",
+        "url": "https://aisel.aisnet.org/pacis2015/"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-f88e311943601d",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Promoting Sales of Online Games through Customer Engagement",
+    "date": "2015",
+    "date_label": "2015",
+    "role": "C.M.K. Cheung, Xiao-Liang Shen , Z. Lee, T. Chan",
+    "detail": "论文《Promoting Sales of Online Games through Customer Engagement》在《Electronic Commerce Research and Applications》发表。该刊为Elsevier 旗下期刊，关注电子商务研究及其应用。",
+    "sources": [
+      {
+        "label": "出版原文",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1567422315000125"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-project-413100001",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "基于移动社交平台的消费者信息分享动因研究",
+    "date": "2015",
+    "date_label": "2015",
+    "role": "主持",
+    "detail": "沈校亮主持武汉大学珞珈青年人才计划科研启动项目《基于移动社交平台的消费者信息分享动因研究》。项目编号 413100001。研究期为 2015–2017 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-410500261",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "互联网驱动下的群体协作与知识创新研究",
+    "date": "2015",
+    "date_label": "2015",
+    "role": "主持",
+    "detail": "沈校亮主持武汉大学自主科研项目（人文社会科学类）《互联网驱动下的群体协作与知识创新研究》。项目编号 410500261。研究期为 2015–2017 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-undergraduate-thesis-2015",
+    "category": "teaching",
+    "subcategory": "学生指导",
+    "title": "指导论文获湖北省优秀学士学位论文",
+    "date": "2015",
+    "date_label": "2015",
+    "role": "",
+    "detail": "沈校亮指导的本科生学位论文获评 2015 年湖北省优秀学士学位论文。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-deans-award-2015",
+    "category": "teaching",
+    "subcategory": "教学获奖",
+    "title": "获武汉大学经济与管理学院教学贡献院长奖",
+    "date": "2015",
+    "date_label": "2015",
+    "role": "",
+    "detail": "沈校亮获武汉大学经济与管理学院教学贡献院长奖（优秀教师奖）。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-wuhan-social-science-award-2015",
+    "category": "research",
+    "subcategory": "科研获奖",
+    "title": "合著论文获武汉市第十四次社会科学优秀成果奖三等奖",
+    "date": "2015",
+    "date_label": "2015",
+    "role": "",
+    "detail": "沈校亮等合著的《泛网时代下的情境化推荐：基于社交网络和消费价值的视角》获论文类三等奖。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      },
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-icis-associate-editor-2015",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 ICIS 2015 “Exploring the Information Frontier”分会副编辑",
+    "date": "2015",
+    "date_label": "2015",
+    "role": "",
+    "detail": "沈校亮担任第36届国际信息系统年会“Exploring the Information Frontier”分会副编辑。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-esi-citation-contributions-2014",
+    "category": "research",
+    "subcategory": "学术影响",
+    "title": "合著论文列入武汉大学ESI学科被引贡献论文",
+    "date": "2014-11-18",
+    "date_label": "2014.11.18",
+    "role": "",
+    "detail": "武汉大学经济与管理学院发布学科服务动态，沈校亮参与的合作技术、移动电子口碑及社交媒体群体沟通研究列入相关学科被引贡献论文。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 报道",
+        "url": "https://ems.whu.edu.cn/info/1587/6844.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-1913c313eb2eb6",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Exploring online social behavior in crowdsourcing communities: A relationship management perspective",
+    "date": "2014-11",
+    "date_label": "2014.11",
+    "role": "Xiao-Liang Shen, M.K.O. Lee, C.M.K. Cheung",
+    "detail": "论文《Exploring online social behavior in crowdsourcing communities: A relationship management perspective》在《Computers in Human Behavior》发表。该刊为Elsevier 旗下期刊，关注数字技术使用中的人类行为。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.chb.2014.08.006"
+      }
+    ]
+  },
+  {
+    "id": "pub-8e1e1af517d034",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Why People Lurk? A Conceptual Framework for Unwillingness to Contribute in Q&A Virtual Community",
+    "date": "2014-09-20",
+    "date_label": "2014.09.20",
+    "role": "Xiao-Liang Shen, W. Gan",
+    "detail": "Xiao-Liang Shen, W. Gan · 2014 年中国管理科学与工程学会年会 会议论文。",
+    "sources": [
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-99689e54dd80e1",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Understanding the role of consistency during web–mobile service transition: Dimensions and boundary conditions",
+    "date": "2014-08",
+    "date_label": "2014.08",
+    "role": "Y. Sun, Xiao-Liang Shen, N. Wang",
+    "detail": "论文《Understanding the role of consistency during web–mobile service transition: Dimensions and boundary conditions》在《International Journal of Information Management》发表。该刊为Elsevier 旗下的信息管理期刊，关注信息管理及其在组织与社会中的应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.ijinfomgt.2014.04.008"
+      }
+    ]
+  },
+  {
+    "id": "pub-fd76e74df94406",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Perceived Benefits, Privacy Risks, and Perceived Justice in Location Information Disclosure: A Moderated Mediation Analysis",
+    "date": "2014-06-24",
+    "date_label": "2014.06.24",
+    "role": "Y. Sun, N. Wang, Xiao-Liang Shen",
+    "detail": "Y. Sun, N. Wang, Xiao-Liang Shen · PACIS 2014 会议论文。",
+    "sources": [
+      {
+        "label": "论文目录",
+        "url": "https://dblp.uni-trier.de/rec/conf/pacis/SunWS14.html"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-2212e983e63d57",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Understanding Information Adoption in Online Review Communities: The Role of Herd Factors",
+    "date": "2014-01-06",
+    "date_label": "2014.01.06",
+    "role": "Xiao-Liang Shen, K. Zhang, S. Zhao",
+    "detail": "Xiao-Liang Shen, K. Zhang, S. Zhao · HICSS 2014 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文",
+        "url": "https://ieeexplore.ieee.org/document/6758677"
+      }
+    ]
+  },
+  {
+    "id": "pub-6b1f69746acda1",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Understanding Social Commerce Intention: A Relational View",
+    "date": "2014-01-06",
+    "date_label": "2014.01.06",
+    "role": "J. Chen, Xiao-Liang Shen, Z. Chen",
+    "detail": "J. Chen, Xiao-Liang Shen, Z. Chen · HICSS 2014 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1109/HICSS.2014.227"
+      }
+    ]
+  },
+  {
+    "id": "pub-056711cba11caf",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Relational Capital and Performance: Assessing the Mediating Role of Supply Chain Agility and the Moderating Role of Environmental Contexts",
+    "date": "2014-01-06",
+    "date_label": "2014.01.06",
+    "role": "C. Zhao, H. Liu, Q. Huang, L. Liang, Xiao-Liang Shen",
+    "detail": "C. Zhao, H. Liu, Q. Huang, L. Liang, Xiao-Liang Shen · HICSS 2014 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1109/HICSS.2014.522"
+      }
+    ]
+  },
+  {
+    "id": "early-project-71301125",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "移动微问答技术接受模型：基于匹配理论的视角",
+    "date": "2014",
+    "date_label": "2014",
+    "role": "主持",
+    "detail": "沈校亮主持国家自然科学基金青年基金项目《移动微问答技术接受模型：基于匹配理论的视角》。项目编号 71301125。研究期为 2014–2016 年。",
+    "sources": [
+      {
+        "label": "国家自然科学基金项目资料",
+        "url": "https://www.zhuanzhiai.com/fund/72ee1a3030e5743100e39686ecbbd806"
+      },
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-whu-mooc-project",
+    "category": "teaching",
+    "subcategory": "教学改革",
+    "title": "主持武汉大学教改项目《MOOC环境下经管类本科生培养模式再思考》",
+    "date": "2014",
+    "date_label": "2014",
+    "role": "",
+    "detail": "沈校亮主持武汉大学教学改革建设项目《MOOC环境下经管类本科生培养模式再思考》，研究期为 2014–2017 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-pacis-chair-2014",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 PACIS 2014 “Social Media and e-Commerce”分会主席",
+    "date": "2014",
+    "date_label": "2014",
+    "role": "",
+    "detail": "沈校亮担任第18届亚太信息系统年会“Social Media and e-Commerce”分会主席。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 报道",
+        "url": "https://ems.whu.edu.cn/info/1539/17541.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-786e5fa7be08e9",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Perceived critical mass and collective intention in social media-supported small group communication",
+    "date": "2013-10",
+    "date_label": "2013.10",
+    "role": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee",
+    "detail": "论文《Perceived critical mass and collective intention in social media-supported small group communication》在《International Journal of Information Management》发表。该刊为Elsevier 旗下的信息管理期刊，关注信息管理及其在组织与社会中的应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.ijinfomgt.2013.04.005"
+      }
+    ]
+  },
+  {
+    "id": "pub-596c5d2a502603",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Dealing with the Transition from Web to Mobile Services: The Role of Consistency and Trust",
+    "date": "2013-06-18",
+    "date_label": "2013.06.18",
+    "role": "Y. Sun, Xiao-Liang Shen, N. Wang",
+    "detail": "Y. Sun, Xiao-Liang Shen, N. Wang · PACIS 2013 会议论文。",
+    "sources": [
+      {
+        "label": "AIS 原文",
+        "url": "https://aisel.aisnet.org/pacis2013/61/"
+      }
+    ]
+  },
+  {
+    "id": "pub-a9255c5af252a8",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Why People Adopt Social Networking-based Mobile Data Service - A Fit Perspective",
+    "date": "2013-05-25",
+    "date_label": "2013.05.25",
+    "role": "S. Ma, Xiao-Liang Shen",
+    "detail": "S. Ma, Xiao-Liang Shen · WHICEB 2013 会议论文。",
+    "sources": [
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-8960b2ab15d69d",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "What leads students to adopt information from Wikipedia? An empirical investigation into the role of trust and information usefulness",
+    "date": "2013-05",
+    "date_label": "2013.05",
+    "role": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee",
+    "detail": "论文《What leads students to adopt information from Wikipedia? An empirical investigation into the role of trust and information usefulness》在《British Journal of Educational Technology》发表。该刊由 Wiley 代表英国教育研究协会（BERA）出版，关注教育技术研究与实践。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1111/j.1467-8535.2012.01335.x"
+      }
+    ]
+  },
+  {
+    "id": "pub-8d7892d14e31d2",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Recommendations from Friends Anytime and Anywhere: Toward a Model of Contextual Offer and Consumption Values",
+    "date": "2013-05",
+    "date_label": "2013.05",
+    "role": "Xiao-Liang Shen, Y. Sun, N. Wang",
+    "detail": "论文《Recommendations from Friends Anytime and Anywhere: Toward a Model of Contextual Offer and Consumption Values》在《Cyberpsychology, Behavior, and Social Networking》发表。该刊关注数字技术与社交网络中的心理和行为。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1089/cyber.2012.0215"
+      }
+    ]
+  },
+  {
+    "id": "pub-bd459192baa642",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Transition of electronic word-of-mouth services from web to mobile context: A trust transfer perspective",
+    "date": "2013-02",
+    "date_label": "2013.02",
+    "role": "N. Wang, Xiao-Liang Shen, Y. Sun",
+    "detail": "论文《Transition of electronic word-of-mouth services from web to mobile context: A trust transfer perspective》在《Decision Support Systems》发表。该刊为Elsevier 旗下期刊，关注决策支持系统及其应用。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1016/j.dss.2012.12.015"
+      }
+    ]
+  },
+  {
+    "id": "pub-aec6ea426285f3",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Unleash the Power of Mobile Word-of-Mouth: An Empirical Study of System and Information Characteristics in Ubiquitous Decision Making",
+    "date": "2013",
+    "date_label": "2013",
+    "role": "Xiao-Liang Shen, N. Wang, Y. Sun, L. Xiang",
+    "detail": "论文《Unleash the Power of Mobile Word-of-Mouth: An Empirical Study of System and Information Characteristics in Ubiquitous Decision Making》在《Online Information Review》发表。该刊为Emerald 旗下期刊，关注数字环境中的信息传播、使用与管理。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1108/14684521311311621"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-project-13yjc630132",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "移动社会化信息服务平台用户采纳行为研究——以移动微博和微问答为例",
+    "date": "2013",
+    "date_label": "2013",
+    "role": "主持",
+    "detail": "沈校亮主持教育部人文社会科学研究青年基金项目《移动社会化信息服务平台用户采纳行为研究——以移动微博和微问答为例》。项目编号 13YJC630132。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      },
+      {
+        "label": "教育部 · 项目经费拨付名单",
+        "url": "https://www.moe.gov.cn/s78/A13/tongzhi/201901/W020190109357317285592.pdf"
+      }
+    ]
+  },
+  {
+    "id": "early-project-71231007",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "复杂不确定性多主体多目标合作博弈与协商谈判的合作机制与合作模式",
+    "date": "2013",
+    "date_label": "2013",
+    "role": "担任子课题负责人",
+    "detail": "沈校亮担任子课题负责人国家自然科学基金重点项目《复杂不确定性多主体多目标合作博弈与协商谈判的合作机制与合作模式》。项目编号 71231007。研究期为 2013–2017 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-teaching-paper-2013",
+    "category": "teaching",
+    "subcategory": "教学获奖",
+    "title": "获武汉大学优秀教学研究论文一等奖",
+    "date": "2013",
+    "date_label": "2013",
+    "role": "",
+    "detail": "沈校亮获武汉大学优秀教学研究论文一等奖。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-chutian-scholar-2013",
+    "category": "research",
+    "subcategory": "人才计划",
+    "title": "入选湖北省楚天学者计划",
+    "date": "2013",
+    "date_label": "2013",
+    "role": "",
+    "detail": "沈校亮入选湖北省教育厅楚天学者计划。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      },
+      {
+        "label": "武汉大学 · 教师主页",
+        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-luojia-youth-scholar-2013",
+    "category": "research",
+    "subcategory": "人才计划",
+    "title": "入选武汉大学珞珈青年学者计划",
+    "date": "2013",
+    "date_label": "2013",
+    "role": "",
+    "detail": "沈校亮入选武汉大学珞珈青年学者计划。",
+    "sources": [
+      {
+        "label": "武汉大学 · 获奖信息",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376096/list/index.htm"
+      },
+      {
+        "label": "武汉大学 · 教师主页",
+        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "early-ecis-associate-editor-2013",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任 ECIS 2013 “Social Media and Society”分会副编辑",
+    "date": "2013",
+    "date_label": "2013",
+    "role": "",
+    "detail": "沈校亮担任第21届欧洲信息系统年会“Social Media and Society”分会副编辑。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-management-science-deputy-chair",
+    "category": "service",
+    "subcategory": "学术服务",
+    "title": "任武汉大学经济与管理学院管理科学与工程系副主任",
+    "date": "2013",
+    "date_label": "2013",
+    "role": "",
+    "detail": "沈校亮于 2013–2018 年担任武汉大学经济与管理学院管理科学与工程系副主任。",
+    "sources": [
+      {
+        "label": "武汉大学 · 教师主页",
+        "url": "https://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-533a5b2cb5de71",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Harnessing collective intelligence of Web 2.0: group adoption and use of Internet-based collaboration technologies",
+    "date": "2012-12",
+    "date_label": "2012.12",
+    "role": "Xiao-Liang Shen, M.K.O. Lee, C.M.K. Cheung",
+    "detail": "论文《Harnessing collective intelligence of Web 2.0: group adoption and use of Internet-based collaboration technologies》在《Knowledge Management Research & Practice》发表。该刊关注知识管理的理论与实践。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1057/kmrp.2012.30"
+      }
+    ]
+  },
+  {
+    "id": "early-project-410500056",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "基于Web 2.0的网络用户集体行为产生机理与实证研究",
+    "date": "2012-07-03",
+    "date_label": "2012.07.03",
+    "role": "主持",
+    "detail": "沈校亮主持武汉大学自主科研项目《基于Web 2.0的网络用户集体行为产生机理与实证研究》。项目编号 410500056。研究期为 2012–2014 年。",
+    "sources": [
+      {
+        "label": "武汉大学经济与管理学院 · 立项报道",
+        "url": "https://ems.whu.edu.cn/info/1587/7720.htm"
+      },
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-2012149",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "基于消费价值视角的地理位置服务（LBS）用户采纳行为研究",
+    "date": "2012",
+    "date_label": "2012",
+    "role": "主持",
+    "detail": "沈校亮主持湖北省社会科学基金项目《基于消费价值视角的地理位置服务（LBS）用户采纳行为研究》。项目编号 2012149。研究期为 2012–2014 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-hubei-electricity",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "湖北省中长期（今后5–20年）经济社会发展重大变化分析预测及其对公司发展战略的影响研究",
+    "date": "2012",
+    "date_label": "2012",
+    "role": "参与",
+    "detail": "沈校亮参与国家电网湖北省电力公司咨询项目《湖北省中长期（今后5–20年）经济社会发展重大变化分析预测及其对公司发展战略的影响研究》。研究期为 2012–2013 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-teaching-competition-2012",
+    "category": "teaching",
+    "subcategory": "教学获奖",
+    "title": "获武汉大学经济与管理学院第四届青年教师教学竞赛二等奖",
+    "date": "2012",
+    "date_label": "2012",
+    "role": "",
+    "detail": "沈校亮获武汉大学经济与管理学院第四届青年教师教学竞赛二等奖。",
+    "sources": [
+      {
+        "label": "原个人主页 · 中文简历",
+        "url": "https://xlshen.weebly.com/20013259912002739029.html"
+      }
+    ]
+  },
+  {
+    "id": "early-textbook-social-science-methods",
+    "category": "teaching",
+    "subcategory": "教材出版",
+    "title": "合译《社会科学研究：原理、方法与实践》（第二版）",
+    "date": "2012",
+    "date_label": "2012",
+    "role": "",
+    "detail": "沈校亮与孙永强合作翻译 Anol Bhattacherjee 的《社会科学研究：原理、方法与实践》（第二版），中文版由全球教科书计划发布。",
+    "sources": [
+      {
+        "label": "教材原文",
+        "url": "https://www.opentextbooks.org.hk/tertiary-institutions/39696"
+      }
+    ]
+  },
+  {
+    "id": "pub-609d7508077810",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "An Empirical Investigation into the Effect of Information Usefulness on Information Adoption from Wikipedia",
+    "date": "2011-01-18",
+    "date_label": "2011.01.18",
+    "role": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee",
+    "detail": "获大会杰出论文奖。",
+    "sources": [
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-6479cff0b5088e",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "How Social Influence Affects We-Intention to Use Instant Messaging: The Moderating Effect of Usage Experience",
+    "date": "2011",
+    "date_label": "2011",
+    "role": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee, H. Chen",
+    "detail": "论文《How Social Influence Affects We-Intention to Use Instant Messaging: The Moderating Effect of Usage Experience》在《Information Systems Frontiers》发表。该刊为Springer Nature 旗下期刊，关注信息系统与信息技术的交叉研究。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1007/s10796-009-9193-9"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-7366c5f019a3ef",
+    "category": "research",
+    "subcategory": "书籍章节",
+    "title": "Harness the Wisdom of Crowds: The Importance of We-Intention in Social Computing Research",
+    "date": "2011",
+    "date_label": "2011",
+    "role": "Xiao-Liang Shen, Matthew K. O. Lee, Christy M. K. Cheung",
+    "detail": "章节《Harness the Wisdom of Crowds: The Importance of We-Intention in Social Computing Research》收入《Handbook of Research on Social Computing Theory and Practice: Interdisciplinary Approaches》。",
+    "sources": [
+      {
+        "label": "香港都会大学 · 成果库",
+        "url": "https://scholars.hkmu.edu.hk/en/publications/harness-the-wisdom-of-crowds-the-importance-of-we-intention-in-so/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-71002101",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "任务冲突与团队创新关系的分层研究——社会信息处理视角",
+    "date": "2011",
+    "date_label": "2011",
+    "role": "参与",
+    "detail": "沈校亮参与国家自然科学基金青年基金项目《任务冲突与团队创新关系的分层研究——社会信息处理视角》。项目编号 71002101。研究期为 2011–2013 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "early-project-contextual-recommendation",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "情境化推荐对用户接受移动点评平台的影响与作用机理研究",
+    "date": "2011",
+    "date_label": "2011",
+    "role": "主持",
+    "detail": "沈校亮主持武汉大学经济与管理学院青年教师资助项目《情境化推荐对用户接受移动点评平台的影响与作用机理研究》。研究期为 2011–2012 年。",
+    "sources": [
+      {
+        "label": "原个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ]
+  },
+  {
+    "id": "pub-866ed66690d2bc",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Exploring the Moderating Effect of Information Inconsistency in a Trust-based Online Shopping Model",
+    "date": "2010-01-05",
+    "date_label": "2010.01.05",
+    "role": "K. Zhang, M.K.O. Lee, C.M.K. Cheung, Xiao-Liang Shen, X. Jin, H. Chen",
+    "detail": "K. Zhang, M.K.O. Lee, C.M.K. Cheung, Xiao-Liang Shen, X. Jin, H. Chen · HICSS 2010 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1109/HICSS.2010.202"
+      }
+    ]
+  },
+  {
+    "id": "pub-439b6bfffc78b1",
+    "category": "research",
+    "subcategory": "学术论文",
+    "title": "Gender Differences in Intentional Social Action: We-Intention to Engage in Social Network-Facilitated Team Collaboration",
+    "date": "2010",
+    "date_label": "2010",
+    "role": "Xiao-Liang Shen, M.K.O. Lee, C.M.K. Cheung, H. Chen",
+    "detail": "论文《Gender Differences in Intentional Social Action: We-Intention to Engage in Social Network-Facilitated Team Collaboration》在《Journal of Information Technology》发表。该刊关注信息技术及其在组织和社会中的应用。",
+    "sources": [
+      {
+        "label": "AIS 原文",
+        "url": "https://aisel.aisnet.org/jit/vol25/iss2/5/"
+      },
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-eb12de487e8e09",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "An Investigation into Contribution I-intention and We-intention in Open Web-based Encyclopedia: Roles of Joint Commitment and Mutual Agreement",
+    "date": "2009-12-15",
+    "date_label": "2009.12.15",
+    "role": "Xiao-Liang Shen, M.K.O. Lee, C.M.K. Cheung, H. Chen",
+    "detail": "Xiao-Liang Shen, M.K.O. Lee, C.M.K. Cheung, H. Chen · ICIS 2009 会议论文。",
+    "sources": [
+      {
+        "label": "大学学术成果库",
+        "url": "https://scholars.hkbu.edu.hk/en/publications/an-investigation-into-contribution-i-intention-and-we-intention-i-11"
+      }
+    ]
+  },
+  {
+    "id": "pub-a20e92561031cb",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "The Role of Perceived Critical Mass in Explaining We-Intention to Use Instant Messaging for Team Collaboration",
+    "date": "2009-11-30",
+    "date_label": "2009.11.30",
+    "role": "Xiao-Liang Shen, M.K.O. Lee, C.M.K. Cheung, H. Chen",
+    "detail": "Xiao-Liang Shen, M.K.O. Lee, C.M.K. Cheung, H. Chen · ICEB 2009 会议论文。",
+    "sources": [
+      {
+        "label": "AIS 原文",
+        "url": "https://aisel.aisnet.org/iceb2009/147/"
+      }
+    ]
+  },
+  {
+    "id": "pub-21f2a01f808ceb",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "The Power of ‘We’: Using Instant Messaging for Student Group Project Discussion",
+    "date": "2008-01-07",
+    "date_label": "2008.01.07",
+    "role": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee, W. Wang",
+    "detail": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee, W. Wang · HICSS 2008 会议论文。",
+    "sources": [
+      {
+        "label": "出版原文 · DOI",
+        "url": "https://doi.org/10.1109/HICSS.2008.449"
+      }
+    ]
+  },
+  {
+    "id": "pub-289856d38c2761",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "We-Intention to Use Instant Messaging for Collaborative Work: the Moderating Effect of Experience",
+    "date": "2007-07-28",
+    "date_label": "2007.07.28",
+    "role": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee, W. Wang",
+    "detail": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee, W. Wang · ICE-B 2007 会议论文。",
+    "sources": [
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-935887a49d778e",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "We-intention to Use Instant Messaging for Collaboration: A Social Influence Model",
+    "date": "2007-07-04",
+    "date_label": "2007.07.04",
+    "role": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee, W. Wang",
+    "detail": "Xiao-Liang Shen, C.M.K. Cheung, M.K.O. Lee, W. Wang · PACIS 2007 会议论文。",
+    "sources": [
+      {
+        "label": "武汉大学 · 论文成果",
+        "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "pub-095e6980addf9b",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Let's Work Together! We-intention to Use Instant Messaging for E-Collaboration",
+    "date": "2007-06-07",
+    "date_label": "2007.06.07",
+    "role": "C.M.K. Cheung, Xiao-Liang Shen, M.K.O. Lee, W. Wang",
+    "detail": "C.M.K. Cheung, Xiao-Liang Shen, M.K.O. Lee, W. Wang · ECIS 2007 会议论文。",
+    "sources": [
+      {
+        "label": "大学学术成果库",
+        "url": "https://scholars.hkbu.edu.hk/en/publications/lets-work-together-we-intention-to-use-instant-messaging-for-e-co-10/"
+      }
+    ]
   }
 ]
