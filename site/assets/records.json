@@ -136,6 +136,22 @@
     ]
   },
   {
+    "id": "sim-decitron-exchange-2026",
+    "category": "service",
+    "date": "2026-11-12",
+    "title": "主持“决策机”数智技术与应用专题交流会",
+    "role": "交流会主持人",
+    "detail": "11月12日，沈校亮主持武汉大学信息管理学院“决策机”数智技术与应用专题交流会。中科闻歌数字化解决方案专家邹文俊介绍如何结合大语言模型与多智能体技术开展复杂问题决策推演，与会教师讨论了其在政策研究、智库建设和舆情分析中的应用。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/1cF9LeZ-Rp9yLig1Jpw7eg",
+        "label": "武汉大学信息管理学院期刊与学术交流中心 · 交流会报道"
+      }
+    ],
+    "date_label": "2026年11月12日",
+    "subcategory": "活动交流"
+  },
+  {
     "id": "cp-cup-experience-sharing-2026",
     "category": "teaching",
     "date": "2026-11-05",
@@ -170,6 +186,22 @@
         "label": "Elsevier · 专题分会主席"
       }
     ]
+  },
+  {
+    "id": "sim-siau-human-ai-dialogue-2026",
+    "category": "service",
+    "date": "2026-10-30",
+    "title": "主持 Siau Keng Leng 教授的人智交互讲座",
+    "role": "讲座主持人",
+    "detail": "10月30日，沈校亮主持“珞珈信管·国际对话”讲座。新加坡管理大学 Siau Keng Leng 教授探讨人工智能与服务机器人能否和老年人建立密切关系，以及如何在照护场景中建立信任。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/QHd3P6pJjUHn60dfcDHBHw",
+        "label": "武汉大学信息管理学院期刊与学术交流中心 · 讲座预告"
+      }
+    ],
+    "date_label": "2026年10月30日",
+    "subcategory": "活动交流"
   },
   {
     "id": "top-scientists-2026",
@@ -343,6 +375,38 @@
     ]
   },
   {
+    "id": "sim-du-tina-library-dialogue-2026",
+    "category": "service",
+    "date": "2026-06-25",
+    "title": "主持杜佳教授“重塑图书馆”讲座",
+    "role": "讲座主持人",
+    "detail": "6月25日，沈校亮主持“珞珈信管·国际对话”讲座。澳大利亚查尔斯特大学信息与传播学院院长杜佳教授以《重塑图书馆，打造包容、公平的数字化未来》为题，探讨生成式人工智能背景下的图书馆服务、信息获取公平与公共责任。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/ZanpIFxCOu-1Vvj00nSoTw",
+        "label": "武汉大学信息管理学院期刊与学术交流中心 · 讲座预告"
+      }
+    ],
+    "date_label": "2026年6月25日",
+    "subcategory": "活动交流"
+  },
+  {
+    "id": "sim-zhang-jun-algorithmic-bias-dialogue-2026",
+    "category": "service",
+    "date": "2026-06-23",
+    "title": "主持章骏博士“算法如何正当化偏见”讲座",
+    "role": "讲座主持人",
+    "detail": "6月23日，沈校亮主持“珞珈信管·国际对话”讲座。蒙纳士大学信息技术学院高级讲师章骏博士结合行为实验，讨论有偏的算法建议如何影响人类判断，以及偏见如何在人机协同决策中延续。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/ALEVbCpDuyDhqLW9GHb-eQ",
+        "label": "武汉大学信息管理学院期刊与学术交流中心 · 讲座预告"
+      }
+    ],
+    "date_label": "2026年6月23日",
+    "subcategory": "活动交流"
+  },
+  {
     "id": "whu-faculty-interdisciplinary-2026",
     "category": "service",
     "subcategory": "青年教职工交流",
@@ -357,6 +421,38 @@
         "label": "武汉大学工会活动报道"
       }
     ]
+  },
+  {
+    "id": "sim-wang-shuyi-agents-forum-2026",
+    "category": "service",
+    "date": "2026-06-16",
+    "title": "主持王树义副教授“智能体时代的研究者新角色”讲座",
+    "role": "讲座主持人",
+    "detail": "6月16日，沈校亮主持“珞珈信管·前沿论坛”线上讲座。天津师范大学管理学院王树义副教授以《人在环上：智能体时代的研究者新角色》为题，讨论智能体参与科研时的任务分工、过程核验与研究者责任。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/vIl8n1_amtD9w_pNj0fq8Q",
+        "label": "武汉大学信息管理学院期刊与学术交流中心 · 讲座纪要"
+      }
+    ],
+    "date_label": "2026年6月16日",
+    "subcategory": "活动交流"
+  },
+  {
+    "id": "sim-modal-leap-company-visit-2026",
+    "category": "service",
+    "date": "2026-06-12",
+    "title": "随学院师生走访武汉模态跃迁科技有限公司",
+    "role": "实践队带队教师",
+    "detail": "6月12日，沈校亮与学院教师带领“以政视观”实践队走访武汉模态跃迁科技有限公司，了解多模态大模型和智能体的产业应用，并与公司负责人邴龙志交流学生实践实训和校企合作。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/vyxM22bDExYxtozz7laRVw",
+        "label": "武汉大学“以政视观”实践队 · 企业走访报道"
+      }
+    ],
+    "date_label": "2026年6月12日",
+    "subcategory": "活动交流"
   },
   {
     "id": "dim-citescore-2025",
@@ -421,6 +517,22 @@
         "url": "assets/nju-young-scholars-forum-786.jpg"
       }
     ]
+  },
+  {
+    "id": "ami-university-journal-seminar-2026",
+    "category": "service",
+    "date": "2026-05-23",
+    "title": "参加高校综合性学报专家委员会换届与期刊建设研讨会",
+    "role": "参会",
+    "detail": "5月23日，沈校亮参加中国社会科学评价研究院与暨南大学在广州联合主办的中国人文社会科学期刊评价高校综合性学报专家委员会换届与期刊建设研讨会。会议讨论了高校综合性学报的特色化发展和 AMI 期刊评价体系的优化。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/lgoJFek7RmIRS0P9Odda9Q",
+        "label": "中国社会科学评价研究院 · 会议报道"
+      }
+    ],
+    "date_label": "2026年5月23日",
+    "subcategory": "活动交流"
   },
   {
     "id": "mem-alumni-advisors-2026",
@@ -969,6 +1081,22 @@
     "date_label": "2025年3月25日"
   },
   {
+    "id": "dim-carrie-hu-visit-2025",
+    "category": "service",
+    "date": "2025-03-23",
+    "title": "爱思唯尔出版人 Carrie Hu 访问武汉大学，沈校亮主持两场讲座",
+    "role": "讲座主持人",
+    "detail": "3月23日报道，爱思唯尔出版人 Carrie Hu 访问武汉大学，与《Data and Information Management》主编陆伟交流期刊合作。沈校亮主持同期两场学术讲座，Carrie Hu 和韩国釜山大学牟健教授分别介绍爱思唯尔期刊发表流程和国际期刊投稿中常见的问题。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/F7Q9jSo0CHTiv-6_h-iJEg",
+        "label": "DIM期刊公众号 · 来访与讲座报道"
+      }
+    ],
+    "date_label": "2025年3月23日",
+    "subcategory": "活动交流"
+  },
+  {
     "id": "whu-mem-committee-2025",
     "title": "武汉大学工程管理专业学位研究生教育指导委员会成立",
     "detail": "沈校亮自武汉大学工程管理专业学位研究生教育指导委员会成立之日（2025年3月20日）起担任副主任委员。",
@@ -1316,6 +1444,22 @@
         "url": "assets/sanchuang-silu-hubei-2024.jpg"
       }
     ]
+  },
+  {
+    "id": "sim-dongfang-dahua-visit-2024",
+    "category": "service",
+    "date": "2024-06-26",
+    "title": "带领学院师生赴湖北东方大华能源集团调研",
+    "role": "带队教师",
+    "detail": "6月26日，沈校亮带领武汉大学信息管理学院50余名师生走访湖北东方大华能源集团有限公司，参观数字智能展厅，了解人工智能和大数据在能源电力领域绿色低碳发展中的应用。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/OMLw1rBKqcLpHpzwMQ58tg",
+        "label": "湖北东方大华能源集团 · 调研报道"
+      }
+    ],
+    "date_label": "2024年6月26日",
+    "subcategory": "活动交流"
   },
   {
     "id": "fact-5d5e6f1975c34e",
