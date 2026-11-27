@@ -16,6 +16,17 @@
     "role": "技术程序委员会委员"
   },
   {
+    "id": "liu-linyao-phd-defence-2026",
+    "category": "teaching",
+    "subcategory": "研究生培养",
+    "title": "博士生刘琳瑶顺利通过博士学位论文答辩",
+    "date": "2026-11-27",
+    "date_label": "2026年11月27日",
+    "role": "博士生导师",
+    "detail": "2026年11月27日，沈校亮指导的博士生刘琳瑶顺利通过博士学位论文答辩。其博士学位论文题为《辟谣主体视角下社交媒体辟谣效果的影响机制与提升策略研究》。",
+    "sources": []
+  },
+  {
     "id": "aigc-fact-checking-ai-voice-accepted-2026",
     "category": "research",
     "subcategory": "期刊录用",
@@ -289,11 +300,15 @@
     "date": "2026-09-18",
     "date_label": "2026年9月18日",
     "role": "",
-    "detail": "论文《语言风格对深度举报行为的影响机制研究：直接效应、倒U型调节与响应面分析》获《信息资源管理学报》录用。该刊由武汉大学主办，关注信息资源管理的理论、方法与技术，入选中文社会科学引文索引（CSSCI）来源期刊。",
+    "detail": "论文《语言风格对深度举报行为的影响机制研究：直接效应、倒U型调节与响应面分析》获《信息资源管理学报》录用。该刊由武汉大学主办，为 CSSCI 来源期刊、中国人文社会科学期刊 AMI 核心期刊、人大复印报刊资料重要转载来源期刊，并入选 FMS 管理科学高质量中文期刊 T2 级。",
     "sources": [
       {
         "label": "期刊简介与收录信息",
         "url": "https://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/column/column90.shtml"
+      },
+      {
+        "label": "FMS 管理科学高质量中文期刊目录",
+        "url": "https://www.fms-journal.net/journals_cn?num=20&page=4"
       }
     ]
   },

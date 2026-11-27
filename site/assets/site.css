@@ -91,3 +91,8 @@ button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px soli
   margin-top: .35rem;
   line-height: 1.45;
 }
+
+.news-history > summary {
+  cursor: pointer;
+  font-weight: 700;
+}
