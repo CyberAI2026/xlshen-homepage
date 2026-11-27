@@ -487,6 +487,22 @@
     ]
   },
   {
+    "id": "ami-university-journal-seminar-2026",
+    "category": "service",
+    "date": "2026-06-01",
+    "title": "参加图书馆、情报与档案学专家委员会换届与期刊建设研讨会",
+    "role": "参与研讨",
+    "detail": "6月1日，沈校亮以《Data and Information Management》执行主编身份，参加中国社会科学评价研究院与武汉大学在北京联合主办的中国人文社会科学期刊评价图书馆、情报与档案学专家委员会换届与期刊建设研讨会。与会专家围绕图书馆、情报与档案学期刊的 AMI 综合评价，交流了评价指标、期刊发展、学科建设和国际传播等议题。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/3bwgJk9EgHdyG-0_-hbAyA",
+        "label": "中国社会科学评价研究院 · 会议报道"
+      }
+    ],
+    "date_label": "2026年6月1日",
+    "subcategory": "活动交流"
+  },
+  {
     "category": "teaching",
     "subcategory": "竞赛指导",
     "role": "共同指导教师",
@@ -517,22 +533,6 @@
         "url": "assets/nju-young-scholars-forum-786.jpg"
       }
     ]
-  },
-  {
-    "id": "ami-university-journal-seminar-2026",
-    "category": "service",
-    "date": "2026-05-23",
-    "title": "参加高校综合性学报专家委员会换届与期刊建设研讨会",
-    "role": "参会",
-    "detail": "5月23日，沈校亮参加中国社会科学评价研究院与暨南大学在广州联合主办的中国人文社会科学期刊评价高校综合性学报专家委员会换届与期刊建设研讨会。会议讨论了高校综合性学报的特色化发展和 AMI 期刊评价体系的优化。",
-    "sources": [
-      {
-        "url": "https://mp.weixin.qq.com/s/lgoJFek7RmIRS0P9Odda9Q",
-        "label": "中国社会科学评价研究院 · 会议报道"
-      }
-    ],
-    "date_label": "2026年5月23日",
-    "subcategory": "活动交流"
   },
   {
     "id": "mem-alumni-advisors-2026",
