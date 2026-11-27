@@ -11,7 +11,6 @@
   const yearLinks = Array.from(document.querySelectorAll('[data-jump-year]'));
   const output = controls.querySelector('.results-status');
   const empty = document.querySelector('.no-results');
-  const newsHistory = document.querySelector('#news-history');
   const normalize = (text) => text.normalize('NFKC').toLocaleLowerCase().replace(/\s+/g, ' ').trim();
   const indexes = items.map(item => normalize(['沈校亮', labels[item.dataset.category], item.textContent].join(' ')));
   let category = 'all';
@@ -75,17 +74,4 @@
   readLocation();
   controls.hidden = false;
   render(false);
-
-  if (newsHistory) {
-    function openLinkedHistory() {
-      const target = document.getElementById(location.hash.slice(1));
-      if (!newsHistory.contains(target) || newsHistory.open) return;
-      newsHistory.open = true;
-      target.scrollIntoView();
-    }
-    const historyLink = document.querySelector('a[href="#news-history"]');
-    historyLink.addEventListener('click', () => { newsHistory.open = true; });
-    window.addEventListener('hashchange', openLinkedHistory);
-    openLinkedHistory();
-  }
 })();

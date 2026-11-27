@@ -9,7 +9,7 @@ import re
 import stat
 import zipfile
 
-from build_facts import build_facts, load_records
+from build_facts import build_facts, in_news_archive, load_records
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -42,7 +42,7 @@ def validate_archive(site):
                for alias in re.findall(r'<span id="([a-z0-9-]+)" data-news-alias></span>', entry)]
     if len(aliases) != len(set(aliases)) or set(aliases) & news.keys():
         raise ValueError('Duplicate news anchors')
-    missing_news = {row['id'] for row in records} - news.keys() - set(aliases)
+    missing_news = {row['id'] for row in records if in_news_archive(row)} - news.keys() - set(aliases)
     if missing_news:
         raise ValueError('Records missing from News: ' + ', '.join(sorted(missing_news)))
 
@@ -52,7 +52,11 @@ def validate_archive(site):
             continue
         rid = row['id']
         paper_id = f'paper-{rid}'
-        if paper_id not in papers or f'href="research.html#{paper_id}"' not in news[rid]:
+        if paper_id not in papers:
+            raise ValueError(f'Missing research paper: {rid}')
+        if not in_news_archive(row):
+            continue
+        if f'href="research.html#{paper_id}"' not in news[rid]:
             raise ValueError(f'Link the research paper and its news entry: {rid}')
         headline = re.search(r'class="entry-title"[^>]*>([^<]+)</a>', news[rid])
         if not headline or row['title'] not in unescape(headline.group(1)):
