@@ -167,6 +167,22 @@
     "subcategory": "活动交流"
   },
   {
+    "id": "icnn-neurois-multimodal-richness-2026",
+    "category": "research",
+    "subcategory": "会议论文",
+    "title": "Beyond Multimodal Richness: Cross-Level Functional Heterogeneity of Modality Increments in AI-Generated Information Sharing",
+    "date": "2026-11-07",
+    "date_label": "2026年11月7日",
+    "role": "",
+    "detail": "Xiaoliang Shen, Chenyue Wang, Xuwen Chen · ICNN 2026 · 会议论文",
+    "sources": [
+      {
+        "label": "浙江大学神经管理学实验室 · 会议议程",
+        "url": "http://neuromanagement.zju.edu.cn/views/nrxq.html?articleid=1602"
+      }
+    ]
+  },
+  {
     "id": "pub-asist-upcib-2026",
     "category": "research",
     "subcategory": "会议论文",
@@ -296,11 +312,11 @@
     "id": "language-style-reporting-jirm-accepted-2026",
     "category": "research",
     "subcategory": "期刊录用",
-    "title": "论文《语言风格对深度举报行为的影响机制研究：直接效应、倒U型调节与响应面分析》获《信息资源管理学报》录用",
+    "title": "论文《用户语言风格与平台治理参与：非线性调节与响应面分析》获《信息资源管理学报》录用",
     "date": "2026-09-18",
     "date_label": "2026年9月18日",
     "role": "",
-    "detail": "论文《语言风格对深度举报行为的影响机制研究：直接效应、倒U型调节与响应面分析》获《信息资源管理学报》录用。该刊由武汉大学主办，为 CSSCI 来源期刊、中国人文社会科学期刊 AMI 核心期刊、人大复印报刊资料重要转载来源期刊，并入选 FMS 管理科学高质量中文期刊 T2 级。",
+    "detail": "论文《用户语言风格与平台治理参与：非线性调节与响应面分析》获《信息资源管理学报》录用。该刊由武汉大学主办，为 CSSCI 来源期刊、中国人文社会科学期刊 AMI 核心期刊、人大复印报刊资料重要转载来源期刊，并入选 FMS 管理科学高质量中文期刊 T2 级。",
     "sources": [
       {
         "label": "期刊简介与收录信息",
@@ -899,10 +915,6 @@
       {
         "label": "武汉大学信息管理学院 · 期刊与学术交流中心成立报道",
         "url": "https://mp.weixin.qq.com/s/jeEEtAigQFu9x8epHfZLXQ"
-      },
-      {
-        "url": "https://sim.whu.edu.cn/info/2236/111632.htm",
-        "label": "武汉大学信息管理学院 · 主持高质量学术发表与青年教师职业发展座谈会"
       }
     ],
     "date_label": "2025年11月"
@@ -1038,16 +1050,12 @@
     "date": "2025-07-11",
     "date_label": "2025年7月11日至14日",
     "title": "沈校亮主持2025年中国情报学年会“智能情报与智慧服务”分会",
-    "role": "分会场主持人、报告论文合著者",
-    "detail": "2025年中国情报学年会暨情报学与情报工作发展论坛在西安举行。沈校亮主持“智能情报与智慧服务”分会，团队另有两篇论文作分论坛报告。",
+    "role": "分会主持人",
+    "detail": "沈校亮在西安举行的2025年中国情报学年会暨情报学与情报工作发展论坛上主持“智能情报与智慧服务”分会。",
     "sources": [
       {
         "url": "https://mp.weixin.qq.com/s/dw2xfOPly6TQrbp4K1n4cw",
         "label": "团队公众号 · 年会报道"
-      },
-      {
-        "url": "https://em.wtu.edu.cn/info/1051/17668.htm",
-        "label": "武汉纺织大学管理学院 · 年会报道与吴忧专题报告"
       }
     ]
   },
@@ -1513,6 +1521,22 @@
       {
         "label": "获奖证书",
         "url": "assets/sanchuang-silu-hubei-2024.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pacis-user-behavior-ae-2024",
+    "category": "service",
+    "subcategory": "会议服务",
+    "title": "担任 PACIS 2024 用户行为、参与及其后果分会副主编",
+    "date": "2024-07-03",
+    "date_label": "2024年7月3日",
+    "role": "分会副主编（Associate Editor）",
+    "detail": "沈校亮担任 PACIS 2024 “User Behavior, Engagement, and Consequences”分会副主编（Associate Editor）。",
+    "sources": [
+      {
+        "label": "PACIS 2024 · 分会及副主编名单",
+        "url": "https://pacis2024.aisconferences.org/track-descriptions/"
       }
     ]
   },
@@ -2277,23 +2301,33 @@
     "id": "fact-f0dd1fe79f52b9",
     "category": "research",
     "subcategory": "软件著作权",
-    "date": "2023",
-    "date_label": "2023年",
+    "date": "2023-09-13",
+    "date_label": "2023年9月13日",
     "title": "社交媒体用户不实信息举报倾向识别软件",
-    "role": "",
-    "detail": "与刘琳瑶共同完成的软件“社交媒体用户不实信息举报倾向识别软件”登记软件著作权，登记号2023SR1054309。",
-    "sources": []
+    "role": "共同开发",
+    "detail": "沈校亮与刘琳瑶共同开发的《社交媒体用户不实信息举报倾向识别软件》（V1.0）完成计算机软件著作权登记。著作权人为武汉大学，登记号为 2023SR1054309。",
+    "sources": [
+      {
+        "label": "软件著作权登记证书（PDF）",
+        "url": "assets/software-copyright-false-information-reporting-2023.pdf"
+      }
+    ]
   },
   {
     "id": "fact-4c6e76f1475d6c",
     "category": "research",
     "subcategory": "软件著作权",
-    "date": "2023",
-    "date_label": "2023年",
+    "date": "2023-09-21",
+    "date_label": "2023年9月21日",
     "title": "社交媒体用户虚假信息发布倾向识别软件",
-    "role": "",
-    "detail": "与刘琳瑶共同完成的软件“社交媒体用户虚假信息发布倾向识别软件”登记软件著作权，登记号2023SR1127070。",
-    "sources": []
+    "role": "共同开发",
+    "detail": "沈校亮与刘琳瑶共同开发的《社交媒体用户虚假信息发布倾向识别软件》（V1.0）完成计算机软件著作权登记。著作权人为武汉大学，登记号为 2023SR1127070。",
+    "sources": [
+      {
+        "label": "软件著作权登记证书（PDF）",
+        "url": "assets/software-copyright-misinformation-posting-2023.pdf"
+      }
+    ]
   },
   {
     "id": "student-innovation-online-class-2022",
