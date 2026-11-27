@@ -801,6 +801,26 @@
     ]
   },
   {
+    "id": "china-intelligence-annual-conference-2025",
+    "category": "service",
+    "subcategory": "活动交流",
+    "date": "2025-07-11",
+    "date_label": "2025年7月11日至14日",
+    "title": "团队在2025年中国情报学年会交流两项研究成果",
+    "role": "分会场主持人、报告论文合著者",
+    "detail": "7月11日至14日，团队参加在西安举行的2025年中国情报学年会。吴忧在“情报学理论创新”分论坛报告与沈校亮合著的《双系统理论视角下助推策略对谣言脱离行为的影响：社会背书的非对称调节效应与设计脆弱性》。王晨悦在“信息行为与用户研究”分论坛报告与沈校亮、吴忧合著的《基于情感温暖与伦理对齐的算法厌恶缓解：一项混合方法研究》。沈校亮主持“智能情报与智慧服务”分会场。",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/dw2xfOPly6TQrbp4K1n4cw",
+        "label": "团队公众号 · 年会报道"
+      },
+      {
+        "url": "https://em.wtu.edu.cn/info/1051/17668.htm",
+        "label": "武汉纺织大学管理学院 · 年会报道与吴忧专题报告"
+      }
+    ]
+  },
+  {
     "id": "sim-information-analysis-summer-school-2025",
     "category": "teaching",
     "subcategory": "研究生暑期学校",
@@ -1106,11 +1126,15 @@
     "date_label": "2025年",
     "title": "双系统理论视角下助推策略对谣言脱离行为的影响：社会背书的非对称调节效应与设计脆弱性",
     "role": "",
-    "detail": "沈校亮、吴忧 · 2025年中国情报学年会暨情报学与情报工作发展论坛（西安）",
+    "detail": "沈校亮、吴忧 · 2025年中国情报学年会暨情报学与情报工作发展论坛（西安） · “情报学理论创新”分论坛，吴忧报告",
     "sources": [
       {
         "label": "武汉纺织大学 · 吴忧同题会议报告",
         "url": "https://em.wtu.edu.cn/info/1051/17668.htm"
+      },
+      {
+        "url": "https://mp.weixin.qq.com/s/dw2xfOPly6TQrbp4K1n4cw",
+        "label": "团队公众号 · 年会报道"
       }
     ]
   },
@@ -1122,8 +1146,13 @@
     "date_label": "2025年",
     "title": "基于情感温暖与伦理对齐的算法厌恶缓解：一项混合方法研究",
     "role": "",
-    "detail": "沈校亮、王晨悦、吴忧 · 2025年中国情报学年会暨情报学与情报工作发展论坛（西安）",
-    "sources": []
+    "detail": "沈校亮、王晨悦、吴忧 · 2025年中国情报学年会暨情报学与情报工作发展论坛（西安） · “信息行为与用户研究”分论坛，王晨悦报告",
+    "sources": [
+      {
+        "url": "https://mp.weixin.qq.com/s/dw2xfOPly6TQrbp4K1n4cw",
+        "label": "团队公众号 · 年会报道"
+      }
+    ]
   },
   {
     "id": "sim-class-mentor-visit-2024",
