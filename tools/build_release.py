@@ -10,6 +10,7 @@ import stat
 import zipfile
 
 from build_facts import FIRST_NEWS_YEAR, build_facts, in_news_archive, load_records
+from build_links import set_link_targets
 from build_research import build_research
 
 
@@ -106,6 +107,7 @@ def build():
     build_facts(ROOT / 'site')
     files = public_files(ROOT / 'site')
     version_page_assets(files)
+    set_link_targets(files)
     sizes = [path.stat().st_size for path in files.values()]
     if len(files) > 512 or max(sizes) > 12 * 1024**2 or sum(sizes) > 128 * 1024**2:
         raise ValueError("Public files exceed the server file count, individual size or expanded size limit")
