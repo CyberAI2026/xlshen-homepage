@@ -18,12 +18,12 @@
   {
     "id": "aigc-fact-checking-ai-voice-accepted-2026",
     "category": "research",
-    "subcategory": "论文录用",
+    "subcategory": "学术论文",
     "title": "《AI配音对AIGC事实核查过程的影响：来自鼠标轨迹、fNIRS与访谈的证据》获《工程管理科技前沿》录用",
     "date": "2026-11-26",
     "date_label": "2026年11月26日",
     "role": "",
-    "detail": "沈校亮参与撰写的论文《AI配音对AIGC事实核查过程的影响：来自鼠标轨迹、fNIRS与访谈的证据》获《工程管理科技前沿》录用。该刊入选 FMS 管理科学高质量中文期刊 T1 级，并为国家自然科学基金委员会管理科学部认定的管理科学 A 级重要期刊。",
+    "detail": "论文《AI配音对AIGC事实核查过程的影响：来自鼠标轨迹、fNIRS与访谈的证据》获《工程管理科技前沿》录用。该刊入选 FMS 管理科学高质量中文期刊 T1 级，并为国家自然科学基金委员会管理科学部认定的管理科学 A 级重要期刊。",
     "sources": [
       {
         "label": "FMS 管理科学高质量中文期刊目录",
@@ -39,7 +39,7 @@
     "date": "2026-11-25",
     "date_label": "2026年11月25日",
     "role": "",
-    "detail": "沈校亮完成教育部高等教育司主办的2026年度“人工智能赋能高等教育人才培养”系列师资培训（未来教师、实验教学、文科专项），共16学时，11月25日获颁证书。",
+    "detail": "完成教育部高等教育司主办的2026年度“人工智能赋能高等教育人才培养”系列师资培训（未来教师、实验教学、文科专项），共16学时。11月25日获颁证书。",
     "sources": [
       {
         "label": "证书（PDF）",
@@ -50,7 +50,7 @@
   {
     "id": "rumor-verification-bilingual",
     "category": "media",
-    "subcategory": "成果传播",
+    "subcategory": "学术论文",
     "title": "网络谣言验证研究入选中国科协“科技期刊双语传播工程”",
     "date": "2026-11-22",
     "date_label": "2026年11月22日",
@@ -71,15 +71,15 @@
     "id": "teaching-reception-lab",
     "category": "teaching",
     "subcategory": "课程实验",
-    "title": "信息接收分布实验室 V1.9.3",
+    "title": "信息接收分布实验室",
     "date": "2026-11-22",
     "date_label": "2026年11月22日",
     "role": "课程教师",
-    "detail": "学生可以在浏览器中用教学数据做抽样和指标比较，上传自己的记录，并导出分析结果。课程页面同时提供可离线使用的学生包。",
+    "detail": "可按读者或文章分析打开记录，比较同一批视频的不同接收指标，并导出实验结果。",
     "sources": [
       {
-        "url": "course-lab.html",
-        "label": "课程实验与使用说明"
+        "url": "information-reception-lab.html",
+        "label": "课程实验"
       },
       {
         "url": "Reception_Lab_V1_9_3_Student.zip",
@@ -281,12 +281,12 @@
   {
     "id": "dim-jcr-2026",
     "category": "service",
-    "subcategory": "期刊进展",
+    "subcategory": "期刊工作",
     "date": "2026-06-26",
     "date_label": "2026年6月26日",
     "title": "《Data and Information Management》首次获得期刊影响因子",
     "role": "",
-    "detail": "沈校亮担任执行主编的 Data and Information Management 首次获得期刊影响因子 8.3，在信息科学与图书馆学学科排名第 8，位列 JCR 一区。",
+    "detail": "沈校亮担任执行主编的《Data and Information Management》首次获得期刊影响因子 8.3，在信息科学与图书馆学学科的 172 本期刊中排名第 8，位列 JCR 一区。",
     "sources": [
       {
         "url": "https://news.whu.edu.cn/info/1015/499067.htm",
@@ -313,7 +313,7 @@
   {
     "id": "dim-citescore-2025",
     "category": "service",
-    "subcategory": "期刊进展",
+    "subcategory": "期刊工作",
     "date": "2026-06-06",
     "date_label": "2026年6月6日",
     "title": "《Data and Information Management》2025年CiteScore升至11.1",
@@ -539,7 +539,7 @@
   {
     "id": "pub-f14db7777bbb49",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2026",
     "date_label": "2026年",
     "title": "Fear for me or fear for others? How self-others threat asymmetry drives misinformation correction",
@@ -555,7 +555,7 @@
   {
     "id": "pub-6ebb8c9c2ad98f",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2026",
     "date_label": "2026年",
     "title": "Unveiling the ethical decision-making process in rumor combating participation: a multi-method investigation in the USA and China",
@@ -571,7 +571,7 @@
   {
     "id": "pub-3ce0d3364d4f30",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2026",
     "date_label": "2026年",
     "title": "超越价值沉淀：数据要素应用价值分类体系构建",
@@ -661,7 +661,7 @@
     "title": "担任武汉大学信息管理学院期刊与学术交流中心主任",
     "detail": "2025年11月起，沈校亮担任武汉大学信息管理学院期刊与学术交流中心主任。",
     "date": "2025-11",
-    "subcategory": "校内任职",
+    "subcategory": "期刊工作",
     "category": "service",
     "role": "主任",
     "sources": [
@@ -679,7 +679,7 @@
   {
     "id": "fact-451d83b44bd7bd",
     "category": "service",
-    "subcategory": "期刊进展",
+    "subcategory": "期刊工作",
     "date": "2025-10-24",
     "date_label": "2025年10月24日",
     "title": "《Data and Information Management》被 ESCI 收录",
@@ -898,7 +898,7 @@
   {
     "id": "paper-rumor-verification-2025",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "信息素养对网络谣言验证的组合效应和动态影响：基于三期混合研究的实证分析",
@@ -914,7 +914,7 @@
   {
     "id": "teaching-digital-human-paper",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "虚拟数字人对用户在线学习效果的影响研究",
@@ -930,7 +930,7 @@
   {
     "id": "pub-44b0315319555b",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "An integrated model of ambivalence and deterrence of bystander inaction in delegitimizing doxing",
@@ -946,7 +946,7 @@
   {
     "id": "pub-505f9c8f2dba78",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "Conceptualization of privacy concerns and their influence on consumers’ resistance to AI-based recommender systems in e-commerce",
@@ -962,7 +962,7 @@
   {
     "id": "pub-cd6ac44b97036f",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "Co-owned information disclosure and collective privacy calculus on social network platforms: the moderating role of information ownership",
@@ -978,7 +978,7 @@
   {
     "id": "pub-1d73cbf33e96c6",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "Building harmonious human–AI relationship through empathy in frontline service encounters: underlying mechanisms and journey stage differences",
@@ -994,7 +994,7 @@
   {
     "id": "pub-20f9616100bedf",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "From Conflict to Cyber Deviance Among University Students: The Mediating Role of Negative Emotions and the Moderating Role of Confucian Values",
@@ -1010,7 +1010,7 @@
   {
     "id": "paper-reporting-2025",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "Motivational duality and fake news reporting behavior: a polynomial regression with response surface analysis",
@@ -1026,7 +1026,7 @@
   {
     "id": "pub-165039fc595bee",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "The Indispensable Ren: A Multi-Method Study of Confucian Ethical Configurations in Trolling with Misinformation",
@@ -1042,7 +1042,7 @@
   {
     "id": "pub-65b09010ec49cb",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "When Distal Duty Prevails, Does Misconduct Follow? A Latent Profile Analysis of Confucian Duty Ethics and Cyberdeviant Behaviors",
@@ -1058,7 +1058,7 @@
   {
     "id": "pub-7703b406119335",
     "category": "research",
-    "subcategory": "会议海报",
+    "subcategory": "学术论文",
     "date": "2025",
     "date_label": "2025年",
     "title": "A meta-analysis of antecedents and consequences of misinformation credibility",
@@ -1211,7 +1211,7 @@
   {
     "id": "fact-5d5e6f1975c34e",
     "category": "media",
-    "subcategory": "研究传播",
+    "subcategory": "学术论文",
     "date": "2024-06-24",
     "date_label": "2024年6月24日",
     "title": "在 Information Matters 介绍网络辟谣研究",
@@ -1243,7 +1243,7 @@
   {
     "id": "fact-cbb3eed6e5261a",
     "category": "service",
-    "subcategory": "期刊任职",
+    "subcategory": "期刊工作",
     "date": "2024-04-11",
     "date_label": "2024年4月11日",
     "title": "《Data and Information Management》执行主编",
@@ -1259,7 +1259,7 @@
   {
     "id": "fact-a8fd1a62c7dc08",
     "category": "research",
-    "subcategory": "会议论文提名",
+    "subcategory": "学术论文",
     "date": "2024-04-02",
     "date_label": "2024年4月2日",
     "title": "iConference 最佳中文研究论文奖提名",
@@ -1299,7 +1299,7 @@
   {
     "id": "pub-362e9490950092",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "农村老年人数字支付抵制行为的心理归因及其作用机制研究",
@@ -1315,7 +1315,7 @@
   {
     "id": "paper-rumor-atmosphere-2024",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "From whispers to warriors: Public atmosphere’s role in mobilizing social media users against rumors",
@@ -1331,7 +1331,7 @@
   {
     "id": "pub-7d6f9bf5d25af3",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "Understanding users’ voice assistant exploration intention: unraveling the differential mechanisms of the multiple dimensions of perceived intelligence",
@@ -1347,7 +1347,7 @@
   {
     "id": "pub-da1cd6ea145741",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "Disentangling the antecedents of rational versus emotional negative electronic word of mouth on a peer-to-peer accommodation platform",
@@ -1363,7 +1363,7 @@
   {
     "id": "pub-39d2a0baefd7e3",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "Building an economically sustainable online learning ecosystem with freemium model: A sequential mixed-method approach",
@@ -1379,7 +1379,7 @@
   {
     "id": "paper-doxing-2024",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "Doxing on Social Networking Sites: An Extension of the Social Cognitive Theory of Moral Thought and Action",
@@ -1395,7 +1395,7 @@
   {
     "id": "pub-831b9bbd3c147c",
     "category": "research",
-    "subcategory": "期刊导言",
+    "subcategory": "期刊工作",
     "date": "2024",
     "date_label": "2024年",
     "title": "Guest editorial: Exploring the research opportunities and challenges in the metaverse",
@@ -1411,7 +1411,7 @@
   {
     "id": "pub-bdc4de2019b9ef",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "Understanding the Motivations Behind Knowingly Spreading Rumors on Social Media Using Q Methodology",
@@ -1427,7 +1427,7 @@
   {
     "id": "pub-d89f271d302221",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "Multidimensional Information Literacy and Fact-Checking Behavior: A Person-Centered Approach Using Latent Profile Analysis",
@@ -1443,7 +1443,7 @@
   {
     "id": "pub-a0880c04f569cd",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "Does High Knowledge Contribution Mean Low Knowledge Withholding? Distinguishing Their Underlying Mechanisms by Integrating the Motivation and Neutralization Perspectives",
@@ -1459,7 +1459,7 @@
   {
     "id": "pub-1a4f9ddcd33777",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2024",
     "date_label": "2024年",
     "title": "用户信息素养与谣言验证意愿：基于动态视角的组态效应研究",
@@ -1507,7 +1507,7 @@
   {
     "id": "fact-f2e2975b086a6e",
     "category": "service",
-    "subcategory": "期刊任职",
+    "subcategory": "期刊工作",
     "date": "2024",
     "date_label": "2024年",
     "title": "《Annual Review of Information Science and Technology》编委",
@@ -1534,7 +1534,7 @@
   {
     "id": "fact-f940052784fc08",
     "category": "service",
-    "subcategory": "专刊编辑",
+    "subcategory": "期刊工作",
     "date": "2024",
     "date_label": "2024年征稿",
     "title": "《Electronic Markets》专刊“Cyberspace Governance in the AI Era”",
@@ -1550,7 +1550,7 @@
   {
     "id": "fact-c1c923f8e63597",
     "category": "service",
-    "subcategory": "专刊编辑",
+    "subcategory": "期刊工作",
     "date": "2024",
     "date_label": "2024年出版",
     "title": "《Internet Research》专刊“Opportunities and Challenges in the Metaverse”",
@@ -1593,7 +1593,7 @@
   {
     "id": "fact-52533e55ee9972",
     "category": "service",
-    "subcategory": "专刊编辑",
+    "subcategory": "期刊工作",
     "date": "2024",
     "date_label": "2024–2025年",
     "title": "《Information Processing & Management》专刊“Understanding Human Behaviors Through Large Language Models”",
@@ -1647,7 +1647,7 @@
   {
     "id": "pub-4f8493299eb5c7",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "Understanding AI-based customer service resistance: A perspective of defective AI features and tri-dimensional distrusting beliefs",
@@ -1663,7 +1663,7 @@
   {
     "id": "pub-95c42cfb250fa9",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "Establishing the typology and the underlying structure of rumor-combating behaviors: a multidimensional scaling approach",
@@ -1679,7 +1679,7 @@
   {
     "id": "pub-08720bde9652a3",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "Promoting collaborative learning in virtual worlds: the power of “we”",
@@ -1695,7 +1695,7 @@
   {
     "id": "special-human-ai-2023",
     "category": "research",
-    "subcategory": "期刊导言",
+    "subcategory": "期刊工作",
     "date": "2023",
     "date_label": "2023年",
     "title": "Human-AI interaction",
@@ -1711,7 +1711,7 @@
   {
     "id": "pub-682994d91da6fc",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "Fear appeal, coping appeal and mobile health technology persuasion: a two-stage scenario-based survey of the elderly",
@@ -1727,7 +1727,7 @@
   {
     "id": "pub-5c9fe47fca1048",
     "category": "research",
-    "subcategory": "期刊导言",
+    "subcategory": "期刊工作",
     "date": "2023",
     "date_label": "2023年",
     "title": "“数据要素生态体系建设”专题前言",
@@ -1743,7 +1743,7 @@
   {
     "id": "paper-data-governance-2023",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "基于价值与风险整合视角的数据要素治理困境与防范机制研究",
@@ -1759,7 +1759,7 @@
   {
     "id": "pub-f5afc6b9fea49d",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "Emphasizing Severity over Susceptibility: The Impact of Threat Warnings in Health Rumor Rebuttals",
@@ -1775,7 +1775,7 @@
   {
     "id": "pub-44d45b958c11c4",
     "category": "research",
-    "subcategory": "会议分会导言",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "Introduction to the Minitrack on Opportunities and Challenges in the Metaverse",
@@ -1791,7 +1791,7 @@
   {
     "id": "pub-614826d63d4a02",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "Self-others (In)congruence and Intention to Correct Misinformation: A Polynomial Regression with Response Surface Analysis",
@@ -1871,7 +1871,7 @@
   {
     "id": "fact-d7e1dd71e060fe",
     "category": "service",
-    "subcategory": "专刊编辑",
+    "subcategory": "期刊工作",
     "date": "2023",
     "date_label": "2023年出版",
     "title": "《Data and Information Management》专刊“Human-AI Interaction”",
@@ -1891,7 +1891,7 @@
   {
     "id": "pub-fbd2262f60cfd1",
     "category": "research",
-    "subcategory": "会议海报",
+    "subcategory": "学术论文",
     "date": "2023",
     "date_label": "2023年",
     "title": "在线信息污染：概念内涵、外延界定与多维分类",
@@ -2006,7 +2006,7 @@
     "date": "2022-09-01",
     "date_label": "2022年9月1日",
     "role": "",
-    "detail": "沈校亮于7月20日至8月31日在国家智慧教育公共服务平台参加“2022年暑期教师研修”专题培训，获认定10学时，9月1日获颁结业证书。",
+    "detail": "于7月20日至8月31日在国家智慧教育公共服务平台参加“2022年暑期教师研修”专题培训，获认定10学时，9月1日获颁结业证书。",
     "sources": [
       {
         "label": "证书（PDF）",
@@ -2033,7 +2033,7 @@
   {
     "id": "pub-c648658694c88a",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2022",
     "date_label": "2022年",
     "title": "When Socialization Goes Wrong: Understanding the We-Intention to Participate in Collective Trolling in Virtual Communities",
@@ -2049,7 +2049,7 @@
   {
     "id": "pub-c4568eaed8c458",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2022",
     "date_label": "2022年",
     "title": "Health Misinformation on Social Media: A Systematic Literature Review and Future Research Directions",
@@ -2065,7 +2065,7 @@
   {
     "id": "pub-9dda8bf58b8a9a",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2022",
     "date_label": "2022年",
     "title": "Will extrinsic motivation motivate or demotivate knowledge contributors? A moderated mediation analysis",
@@ -2081,7 +2081,7 @@
   {
     "id": "pub-e32c6a3b3627bc",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2022",
     "date_label": "2022年",
     "title": "Beyond anger: A neutralization perspective of customer revenge",
@@ -2097,7 +2097,7 @@
   {
     "id": "pub-bc1a16a5746d56",
     "category": "research",
-    "subcategory": "期刊导言",
+    "subcategory": "期刊工作",
     "date": "2022",
     "date_label": "2022年",
     "title": "The dark sides of AI",
@@ -2113,7 +2113,7 @@
   {
     "id": "pub-a2d2a65353b948",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2022",
     "date_label": "2022年",
     "title": "中和技术对辟谣信息分享的抑制作用和缓解机制",
@@ -2129,7 +2129,7 @@
   {
     "id": "pub-7e978e2fc97328",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2022",
     "date_label": "2022年",
     "title": "Empathic AI agents and Human-AI Relationship: Impact Mechanisms, Comparative Effects, and Journey Stage Differences",
@@ -2145,7 +2145,7 @@
   {
     "id": "pub-efcaa32c061261",
     "category": "research",
-    "subcategory": "会议分会导言",
+    "subcategory": "学术论文",
     "date": "2022",
     "date_label": "2022年",
     "title": "Introduction to the Minitrack on The Dark Sides of AI",
@@ -2209,7 +2209,7 @@
   {
     "id": "fact-e4e2f945d1c956",
     "category": "service",
-    "subcategory": "专刊编辑",
+    "subcategory": "期刊工作",
     "date": "2022",
     "date_label": "2022年出版",
     "title": "《Electronic Markets》专刊“The Dark Sides of AI”",
@@ -2277,7 +2277,7 @@
     "date": "2021-11-29",
     "date_label": "2021年11月29日",
     "role": "",
-    "detail": "沈校亮完成全国高校教师网络培训中心与新华网联合举办的高校教师课程思政教学能力培训。培训于11月24日至26日举行，共16学时，11月29日获颁证书。",
+    "detail": "完成全国高校教师网络培训中心与新华网联合举办的高校教师课程思政教学能力培训。培训于11月24日至26日举行，共16学时，11月29日获颁证书。",
     "sources": [
       {
         "label": "证书（PDF）",
@@ -2304,7 +2304,7 @@
   {
     "id": "internet-research-editor-2018",
     "category": "service",
-    "subcategory": "期刊任职",
+    "subcategory": "期刊工作",
     "date": "2021-08",
     "date_label": "2021年8月起",
     "title": "《Internet Research》高级编辑",
@@ -2320,7 +2320,7 @@
   {
     "id": "pub-5bf75e127d4573",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2021",
     "date_label": "2021年",
     "title": "Calculus interdependency, personality contingency, and causal asymmetry: Toward a configurational privacy calculus model of information disclosure",
@@ -2336,7 +2336,7 @@
   {
     "id": "pub-4a3f086d552afc",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2021",
     "date_label": "2021年",
     "title": "Good for use, but better for choice: A relative model of competing social networking services",
@@ -2352,7 +2352,7 @@
   {
     "id": "pub-7162f9763f9eab",
     "category": "research",
-    "subcategory": "期刊论文",
+    "subcategory": "学术论文",
     "date": "2021",
     "date_label": "2021年",
     "title": "Understanding how firm attributes affect voice in brand community",
@@ -2388,7 +2388,7 @@
   {
     "id": "fact-1108a01340fbf5",
     "category": "service",
-    "subcategory": "期刊任职",
+    "subcategory": "期刊工作",
     "date": "2021",
     "date_label": "2021年",
     "title": "《Data and Information Management》执行副主编",
@@ -2437,7 +2437,7 @@
   {
     "id": "management-science-editor-2016",
     "category": "service",
-    "subcategory": "期刊任职",
+    "subcategory": "期刊工作",
     "date": "2021",
     "date_label": "2016–2021年",
     "title": "《管理科学》管理信息系统领域副主编",
@@ -2453,7 +2453,7 @@
   {
     "id": "pub-7b9e7cd5c7c8d8",
     "category": "research",
-    "subcategory": "会议论文",
+    "subcategory": "学术论文",
     "date": "2021",
     "date_label": "2021年",
     "title": "缺陷人工智能设计和不信任视角下用户对智能客服的抵制行为研究",
@@ -2480,7 +2480,7 @@
   {
     "id": "fact-ad4d25ea22c9ce",
     "category": "service",
-    "subcategory": "期刊任职",
+    "subcategory": "期刊工作",
     "date": "",
     "date_label": "现任职务",
     "title": "《Electronic Commerce Research》副主编",
