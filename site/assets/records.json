@@ -1052,22 +1052,6 @@
     "role": "优秀指导老师"
   },
   {
-    "id": "fact-7c671e64aa8258",
-    "category": "service",
-    "subcategory": "会议服务",
-    "date": "2025-07-11",
-    "date_label": "2025年7月11日",
-    "title": "ICEME 2025 宣传主席",
-    "role": "宣传主席",
-    "detail": "担任第 16 届电子商务、管理与经济学国际会议（ICEME 2025）宣传主席。",
-    "sources": [
-      {
-        "label": "ICEME 2025 · 会议回顾",
-        "url": "https://iceme.org/2025.html"
-      }
-    ]
-  },
-  {
     "id": "china-intelligence-annual-conference-2025",
     "category": "service",
     "subcategory": "活动交流",
@@ -1554,6 +1538,22 @@
     ]
   },
   {
+    "id": "fact-f2e2975b086a6e",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "date": "2024-09-17",
+    "date_label": "2024年9月17日",
+    "title": "《Annual Review of Information Science and Technology》编委",
+    "role": "",
+    "detail": "2024年9月17日，ASIS&T 公布《Annual Review of Information Science and Technology》（ARIST）新任编委名单，沈校亮入选。",
+    "sources": [
+      {
+        "url": "https://www.asist.org/2024/09/17/new-members-of-arist-editorial-board-announced/",
+        "label": "ASIS&T · ARIST新任编委公告"
+      }
+    ]
+  },
+  {
     "id": "sim-mem-director-2024",
     "title": "接任武汉大学信息管理学院 MEM 项目主任",
     "detail": "2024年9月4日起，沈校亮担任武汉大学信息管理学院工程管理硕士（MEM）项目主任。",
@@ -1933,22 +1933,6 @@
       {
         "url": "https://web.archive.org/web/20241107130149/https://icseb.org/committee.html",
         "label": "ICSeB 2024 · 当届程序委员会主席（会议官网存档）"
-      }
-    ]
-  },
-  {
-    "id": "fact-f2e2975b086a6e",
-    "category": "service",
-    "subcategory": "期刊工作",
-    "date": "2024",
-    "date_label": "2024年",
-    "title": "《Annual Review of Information Science and Technology》编委",
-    "role": "",
-    "detail": "加入《Annual Review of Information Science and Technology》（ARIST）编委会。",
-    "sources": [
-      {
-        "url": "https://www.asist.org/2024/09/17/new-members-of-arist-editorial-board-announced/",
-        "label": "ASIS&T · ARIST新任编委公告"
       }
     ]
   },
