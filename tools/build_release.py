@@ -38,7 +38,11 @@ def archive_entries(path):
 def validate_archive(site):
     records = load_records(site)
     news = archive_entries(site / 'news.html')
-    missing_news = {row['id'] for row in records} - news.keys()
+    aliases = [alias for entry in news.values()
+               for alias in re.findall(r'<span id="([a-z0-9-]+)" data-news-alias></span>', entry)]
+    if len(aliases) != len(set(aliases)) or set(aliases) & news.keys():
+        raise ValueError('Duplicate news anchors')
+    missing_news = {row['id'] for row in records} - news.keys() - set(aliases)
     if missing_news:
         raise ValueError('Records missing from News: ' + ', '.join(sorted(missing_news)))
 

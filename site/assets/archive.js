@@ -2,7 +2,7 @@
   'use strict';
   const controls = document.querySelector('[data-archive-controls]');
   if (!controls) return;
-  const labels = { all: '全部', teaching: '教学', research: '科研', service: '社会服务', media: '新闻报道与研究传播' };
+  const labels = { all: '全部', teaching: '教学', research: '科研', service: '社会服务' };
   const filters = Array.from(controls.querySelectorAll('[data-filter]'));
   const input = controls.querySelector('input[type="search"]');
   const items = Array.from(document.querySelectorAll('.fact[data-category], .entries li[data-category]'));

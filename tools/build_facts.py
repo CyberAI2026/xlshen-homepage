@@ -10,7 +10,6 @@ CATEGORIES = {
     "teaching": ("教学", "课程、教学成果与学生学科竞赛"),
     "research": ("科研", "论文、科研项目与学术影响"),
     "service": ("社会服务", "期刊建设、学术组织与对外讲座"),
-    "media": ("新闻报道与研究传播", "媒体报道、研究解读与成果传播"),
 }
 FIELDS = {"id", "category", "subcategory", "title", "date", "date_label", "role", "detail", "sources"}
 SITE = Path(__file__).resolve().parents[1] / "site"
@@ -130,7 +129,7 @@ def build_facts(site=SITE):
     head = head.replace('class="nav-link" href="facts.html"', 'class="nav-link" href="facts.html" aria-current="page"')
     body = f"""<main id="main"><div class="wrap inner archive">
       <h1>成果与活动</h1>
-      <p class="lead">查阅教学、科研、社会服务、新闻报道与研究传播记录，可按年份、类别或关键词筛选。</p>
+      <p class="lead">查阅教学、科研与社会服务记录，可按年份、类别或关键词筛选。</p>
       <div class="archive-tools" data-archive-controls hidden>
         <div class="filter-row"><div class="filter-options" role="group" aria-label="按类别筛选">{''.join(filters)}</div>
           <label class="record-search"><span>检索记录</span><input type="search" id="archive-search" placeholder="名称、年份或关键词" autocomplete="off"></label>
@@ -138,7 +137,7 @@ def build_facts(site=SITE):
         </div>
         <p class="results-status" role="status" aria-live="polite"></p>
       </div>
-      <noscript><div class="archive-jumps"><a href="#teaching">教学</a> · <a href="#research">科研</a> · <a href="#service">社会服务</a> · <a href="#media">新闻报道与研究传播</a></div></noscript>
+      <noscript><div class="archive-jumps"><a href="#teaching">教学</a> · <a href="#research">科研</a> · <a href="#service">社会服务</a></div></noscript>
       <p class="no-results" hidden>没有符合条件的记录。<button type="button" class="reset-filters">显示全部记录</button></p>
       {''.join(groups)}
     </div></main>"""
