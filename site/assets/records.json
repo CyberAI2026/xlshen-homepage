@@ -327,6 +327,22 @@
     ]
   },
   {
+    "id": "ruc-press-center-visit-2026",
+    "category": "service",
+    "subcategory": "活动交流",
+    "date": "2026-06-01",
+    "date_label": "2026年6月1日",
+    "title": "赴中国人民大学书报资料中心开展专项调研",
+    "detail": "随武汉大学副校长陆伟一行到访中国人民大学书报资料中心，介绍武汉大学信息资源管理学科及系列期刊的建设情况，并围绕学术出版和期刊发展开展交流。",
+    "role": "",
+    "sources": [
+      {
+        "url": "https://zsyyb.cn/newsdetail.htm?id=11054",
+        "label": "中国人民大学书报资料中心 · 调研报道"
+      }
+    ]
+  },
+  {
     "category": "teaching",
     "subcategory": "竞赛指导",
     "role": "共同指导教师",
