@@ -9,7 +9,8 @@ import re
 import stat
 import zipfile
 
-from build_facts import build_facts, load_records
+from build_facts import FIRST_NEWS_YEAR, build_facts, in_news_archive, load_records
+from build_research import build_research
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -23,7 +24,8 @@ PART_BYTES = 8 * 1024**2
 ASSET_TYPES = {'.css', '.js', '.json', '.txt', '.xml', '.pdf', '.zip', '.png', '.jpg',
                '.jpeg', '.webp', '.gif', '.ico', '.woff', '.woff2', '.csv'}
 NAME = re.compile(r'[A-Za-z0-9][A-Za-z0-9._-]{0,119}\Z')
-PAPER_TYPES = {'学术论文', '期刊录用', '期刊导言', '会议论文', '会议报告', '会议海报', '学术专著', '书籍章节'}
+PAPER_TYPES = {'学术论文', '期刊录用', '期刊导言', '会议论文', '会议报告', '会议海报',
+               '学术专著', '书籍章节', '学位论文'}
 
 
 def archive_entries(path):
@@ -42,18 +44,25 @@ def validate_archive(site):
                for alias in re.findall(r'<span id="([a-z0-9-]+)" data-news-alias></span>', entry)]
     if len(aliases) != len(set(aliases)) or set(aliases) & news.keys():
         raise ValueError('Duplicate news anchors')
-    missing_news = {row['id'] for row in records} - news.keys() - set(aliases)
+    missing_news = {row['id'] for row in records if in_news_archive(row)} - news.keys() - set(aliases)
     if missing_news:
         raise ValueError('Records missing from News: ' + ', '.join(sorted(missing_news)))
 
+    archived = [rid for rid, entry in news.items()
+                if (match := re.search(r'<time datetime="(\d{4})', entry)) and match[1] < FIRST_NEWS_YEAR]
+    if archived:
+        raise ValueError('Move older records out of News: ' + ', '.join(archived))
+
     papers = archive_entries(site / 'research.html')
     for row in records:
-        if row['category'] != 'research' or row['subcategory'] not in PAPER_TYPES:
+        if row['subcategory'] not in PAPER_TYPES:
             continue
         rid = row['id']
         paper_id = f'paper-{rid}'
         if paper_id not in papers:
             raise ValueError(f'Missing research paper: {rid}')
+        if not in_news_archive(row):
+            continue
         if f'href="research.html#{paper_id}"' not in news[rid]:
             raise ValueError(f'Link the research paper and its news entry: {rid}')
         headline = re.search(r'class="entry-title"[^>]*>([^<]+)</a>', news[rid])
@@ -92,6 +101,7 @@ def public_files(site):
 
 
 def build():
+    build_research(ROOT / 'site')
     validate_archive(ROOT / 'site')
     build_facts(ROOT / 'site')
     files = public_files(ROOT / 'site')

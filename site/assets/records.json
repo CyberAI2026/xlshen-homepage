@@ -1009,23 +1009,47 @@
   },
   {
     "id": "excellent-sanchuang-instructor-2025",
-    "title": "获第十五届三创赛商务大数据分析实战赛全国总决赛优秀指导教师",
-    "detail": "沈校亮因指导“虚假寿司”团队，获第十五届全国大学生电子商务“创新、创意及创业”挑战赛商务大数据分析实战赛全国总决赛优秀指导教师。",
+    "title": "指导“虚假寿司”团队获第十五届三创赛全国总决赛优秀指导老师",
+    "detail": "沈校亮因指导“虚假寿司”团队获第十五届三创赛商务大数据分析实战赛全国总决赛优秀指导老师。该团队获全国一等奖。",
     "date": "2025-08-20",
     "subcategory": "竞赛指导",
     "category": "teaching",
-    "role": "优秀指导教师",
+    "role": "优秀指导老师",
     "sources": [
       {
         "url": "https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2025/08/22/131c72eb256fcafea77332578693e8e0.pdf",
         "label": "三创赛全国总决赛优秀指导教师公示"
       },
       {
-        "label": "全国总决赛优秀指导教师证书",
+        "label": "“虚假寿司”全国总决赛优秀指导老师证书",
         "url": "assets/sanchuang-byd-national-instructor-2025.jpg"
       }
     ],
     "date_label": "2025年8月20日"
+  },
+  {
+    "id": "sanchuang-shiji-national-instructor-2025",
+    "date": "2025-08-20",
+    "date_label": "2025年8月20日",
+    "category": "teaching",
+    "subcategory": "竞赛指导",
+    "title": "指导“时迹”团队获第十五届三创赛全国总决赛优秀指导老师",
+    "detail": "沈校亮因指导罗曼玮等同学组成的“时迹”团队获第十五届三创赛常规赛全国总决赛优秀指导老师。该团队获全国一等奖。",
+    "sources": [
+      {
+        "label": "“时迹”全国总决赛优秀指导老师证书",
+        "url": "assets/sanchuang-shiji-national-instructor-2025.jpg"
+      },
+      {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA%3D%3D&idx=1&mid=2656201074&sn=f6e10a6ac75ad58e85765f8effa9657e",
+        "label": "武汉大学官方微信 · 全国总决赛收官，武大学子斩获7项奖！"
+      },
+      {
+        "label": "获奖证书",
+        "url": "assets/sanchuang-shiji-national-2025.jpg"
+      }
+    ],
+    "role": "优秀指导老师"
   },
   {
     "id": "fact-7c671e64aa8258",
@@ -1124,6 +1148,46 @@
     ]
   },
   {
+    "id": "sanchuang-shiji-hubei-instructor-2025",
+    "date": "2025-06-30",
+    "date_label": "2025年6月30日",
+    "category": "teaching",
+    "subcategory": "竞赛指导",
+    "title": "指导“时迹”团队获第十五届三创赛湖北赛区最佳指导老师",
+    "detail": "沈校亮因指导“时迹”团队获第十五届三创赛湖北赛区省级选拔赛最佳指导老师。该团队获湖北赛区特等奖。",
+    "sources": [
+      {
+        "label": "“时迹”湖北赛区最佳指导老师证书",
+        "url": "assets/sanchuang-shiji-hubei-instructor-2025.jpg"
+      },
+      {
+        "label": "获奖证书",
+        "url": "assets/sanchuang-shiji-hubei-2025.webp"
+      }
+    ],
+    "role": "最佳指导老师"
+  },
+  {
+    "id": "sanchuang-byd-hubei-instructor-2025",
+    "date": "2025-06-30",
+    "date_label": "2025年6月30日",
+    "category": "teaching",
+    "subcategory": "竞赛指导",
+    "title": "指导“虚假寿司”团队获第十五届三创赛湖北赛区优秀指导老师",
+    "detail": "沈校亮因指导“虚假寿司”团队获第十五届三创赛湖北赛区商务大数据分析赛道省级选拔赛优秀指导老师。该团队获湖北赛区一等奖。",
+    "sources": [
+      {
+        "label": "“虚假寿司”湖北赛区优秀指导老师证书",
+        "url": "assets/sanchuang-byd-hubei-instructor-2025.jpg"
+      },
+      {
+        "label": "获奖证书",
+        "url": "assets/sanchuang-byd-hubei-2025.webp"
+      }
+    ],
+    "role": "优秀指导老师"
+  },
+  {
     "id": "fact-9d6e7dbd36d1e4",
     "title": "担任武汉大学工程管理项目中心副主任",
     "detail": "沈校亮自武汉大学工程管理项目中心成立之日（2025年3月26日）起担任中心副主任。",
@@ -1201,6 +1265,22 @@
         "label": "武汉大学本科生院 · 省级教改项目名单"
       }
     ]
+  },
+  {
+    "id": "dik-outstanding-reviewer-2024",
+    "date": "2025-01",
+    "date_label": "2025年1月",
+    "category": "service",
+    "subcategory": "期刊工作",
+    "title": "获《图书情报知识》2024年度优秀审稿专家称号",
+    "detail": "《图书情报知识》编辑部于2025年1月授予沈校亮“2024年度优秀审稿专家”称号。",
+    "sources": [
+      {
+        "label": "《图书情报知识》优秀审稿专家证书（PDF）",
+        "url": "assets/dik-outstanding-reviewer-2024.pdf"
+      }
+    ],
+    "role": "优秀审稿专家"
   },
   {
     "id": "paper-rumor-verification-2025",
@@ -1569,6 +1649,10 @@
       {
         "url": "https://informationmatters.org/2024/06/can-anti-rumor-campaigns-foster-positive-behavioral-change/",
         "label": "Information Matters"
+      },
+      {
+        "label": "SSRN · 存档",
+        "url": "https://doi.org/10.2139/ssrn.4899701"
       }
     ]
   },
@@ -2841,6 +2925,38 @@
     "role": "专题分会共同主席（会议通知）"
   },
   {
+    "id": "whu-ai-privacy-regulation-2021",
+    "date": "2021",
+    "date_label": "2021年",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "面向个人隐私安全的人工智能监管现状、问题及对策建议",
+    "detail": "主持武汉大学国家保密学院自主科研项目，研究期为2021–2023年。",
+    "sources": [
+      {
+        "label": "原个人主页 · 研究课题",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ],
+    "role": "主持"
+  },
+  {
+    "id": "hubei-livestream-governance-2021",
+    "date": "2021",
+    "date_label": "2021年",
+    "category": "research",
+    "subcategory": "研究项目",
+    "title": "基于流量管理的互联网生态治理（网络直播领域）",
+    "detail": "主持湖北省委网络安全与信息化办公室委托课题，研究期为2021–2022年。",
+    "sources": [
+      {
+        "label": "原个人主页 · 研究课题",
+        "url": "https://xlshen.mysxl.cn/"
+      }
+    ],
+    "role": "主持"
+  },
+  {
     "id": "fact-ad4d25ea22c9ce",
     "category": "service",
     "subcategory": "期刊工作",
@@ -2887,6 +3003,22 @@
         "url": "https://lists.aisnet.org/pipermail/aisworld_lists.aisnet.org/20200104/036509.html"
       }
     ]
+  },
+  {
+    "id": "whu-excellent-research-team-2019",
+    "date": "2019-11-01",
+    "date_label": "2019年11月1日",
+    "category": "research",
+    "subcategory": "科研获奖",
+    "title": "担任武汉大学优秀学术团队带头人",
+    "detail": "武汉大学将“商业大数据驱动下的管理创新研究团队”评为优秀学术团队。沈校亮与孙永强共同担任团队带头人。该团队于2016年在武汉大学人文社会科学青年学者学术发展计划中立项。",
+    "sources": [
+      {
+        "label": "武汉大学优秀学术团队荣誉证书（PDF）",
+        "url": "assets/whu-excellent-research-team-2019.pdf"
+      }
+    ],
+    "role": "团队带头人"
   },
   {
     "id": "lht-big-data-special-2018",
@@ -3725,14 +3857,18 @@
     "category": "research",
     "subcategory": "研究项目",
     "title": "商业大数据驱动下的管理创新研究",
-    "date": "2017",
-    "date_label": "2017",
-    "role": "共同主持",
-    "detail": "沈校亮共同主持武汉大学人文社会科学青年学者学术团队项目《商业大数据驱动下的管理创新研究》。项目编号 Whu2016013。研究期为 2017–2019 年。",
+    "date": "2016",
+    "date_label": "2016年",
+    "role": "团队带头人",
+    "detail": "沈校亮与孙永强共同担任团队带头人。项目于2016年立项，研究期为2017–2019年，项目编号 Whu2016013。",
     "sources": [
       {
         "label": "原个人主页",
         "url": "https://xlshen.mysxl.cn/"
+      },
+      {
+        "label": "武汉大学优秀学术团队荣誉证书（PDF）",
+        "url": "assets/whu-excellent-research-team-2019.pdf"
       }
     ]
   },
@@ -4501,6 +4637,22 @@
     ]
   },
   {
+    "id": "social-commerce-questionnaire-2015",
+    "date": "2015",
+    "date_label": "2015年",
+    "category": "research",
+    "subcategory": "研究工具",
+    "title": "Social Commerce Questionnaire",
+    "detail": "Jun Chen、Xiao-Liang Shen。该研究量表由美国心理学会收录于 APA PsycTests。",
+    "sources": [
+      {
+        "label": "APA PsycTests · DOI",
+        "url": "https://doi.org/10.1037/t52366-000"
+      }
+    ],
+    "role": ""
+  },
+  {
     "id": "early-esi-citation-contributions-2014",
     "category": "research",
     "subcategory": "学术影响",
@@ -5143,6 +5295,22 @@
         "url": "https://jszy.whu.edu.cn/shen/en/zdylm/1376102/list/index.htm"
       }
     ]
+  },
+  {
+    "id": "cityu-wikiprojects-thesis",
+    "date": "2010",
+    "date_label": "2010年",
+    "category": "research",
+    "subcategory": "学位论文",
+    "title": "I-intention and we-intention to contribute to WikiProjects",
+    "detail": "Xiao-Liang Shen。香港城市大学博士论文，按机构库记录年份归档。",
+    "sources": [
+      {
+        "label": "香港城市大学 · 学位论文目录",
+        "url": "https://scholars.cityu.edu.hk/en/organisations/research-institutes-centres-laboratories/studentTheses/"
+      }
+    ],
+    "role": ""
   },
   {
     "id": "pub-eb12de487e8e09",
